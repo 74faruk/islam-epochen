@@ -1,0 +1,87 @@
+<!doctype html>
+<html lang="de">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Frühislamische Persönlichkeiten — Islam-Epochen</title>
+  <meta name="description" content="Personen aus dem Rashidun- und Umayyaden-Kalifat (632–750): Kalifen, Gefährten des Propheten, Feldherren, Gelehrte — live aus Wikidata und Wikipedia.">
+  <meta name="theme-color" content="#E4D6AF">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2064%2064'%3E%3Crect%20width='64'%20height='64'%20rx='10'%20fill='%231F6F5C'/%3E%3Cpath%20d='M32%2012%2038%2026%2052%2032%2038%2038%2032%2052%2026%2038%2012%2032%2026%2026%20Z'%20fill='%23E4D6AF'/%3E%3C/svg%3E">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+  <header class="hero">
+    <div class="container">
+      <p class="eyebrow">Islam-Epochen · Band I</p>
+      <h1>Frühislamische<br>Persönlichkeiten</h1>
+      <p class="lead">Kalifen, Gefährten des Propheten, Feldherren, Gelehrte und
+      Gouverneure aus dem <strong>Rashidun-</strong> und <strong>Umayyaden-Kalifat</strong>
+      (632–750&nbsp;n.&nbsp;Chr.) — Daten live aus Wikidata und Wikipedia, keine
+      redaktionelle Auswahl.</p>
+
+      <form class="search-row" id="search-form">
+        <input type="search" id="search-input" placeholder="Name suchen … z. B. „Chalid“, „Aischa“, „Muawiya“" aria-label="Personen durchsuchen">
+      </form>
+
+      <div class="filter-row" id="filter-row" role="group" aria-label="Nach Themengebiet filtern">
+        <button type="button" class="filter-chip is-active" data-cat="alle">Alle</button>
+        <button type="button" class="filter-chip" data-cat="politik">Politik &amp; Staat</button>
+        <button type="button" class="filter-chip" data-cat="militaer">Militär</button>
+        <button type="button" class="filter-chip" data-cat="theologie">Theologie &amp; Recht</button>
+        <button type="button" class="filter-chip" data-cat="wissenschaft">Wissenschaft &amp; Kultur</button>
+        <button type="button" class="filter-chip" data-cat="sonstiges">Sonstiges</button>
+      </div>
+    </div>
+  </header>
+
+  <main class="container">
+
+    <p class="result-count" id="result-count" aria-live="polite">Lädt Personen aus Wikidata …</p>
+
+    <section class="grid" id="grid" aria-label="Personenliste"></section>
+
+    <div class="load-more-row">
+      <button type="button" class="btn-more" id="load-more-btn" hidden>Weitere Personen zeigen</button>
+    </div>
+
+    <p class="empty-state" id="empty-state" hidden>Keine Treffer — anderen Suchbegriff
+    oder Filter probieren.</p>
+
+  </main>
+
+  <!-- ============ DETAILANSICHT ============ -->
+  <div class="detail-overlay" id="detail-overlay" hidden>
+    <div class="detail-panel" role="dialog" aria-modal="true" aria-labelledby="detail-name">
+      <button type="button" class="detail-close" id="detail-close" aria-label="Schließen">✕</button>
+      <div class="detail-head">
+        <div class="detail-portrait" id="detail-portrait"></div>
+        <div>
+          <p class="detail-category" id="detail-category"></p>
+          <h2 id="detail-name"></h2>
+          <p class="detail-dates" id="detail-dates"></p>
+          <p class="detail-desc" id="detail-desc"></p>
+        </div>
+      </div>
+      <div class="detail-body">
+        <p class="detail-loading" id="detail-loading">Lädt Biografie aus Wikipedia …</p>
+        <div class="detail-extract" id="detail-extract"></div>
+        <p class="detail-links" id="detail-links"></p>
+      </div>
+    </div>
+  </div>
+
+  <footer class="site-footer">
+    <div class="container">
+      <p>Daten: <a href="https://www.wikidata.org" target="_blank" rel="noopener">Wikidata</a>
+      &amp; <a href="https://www.wikipedia.org" target="_blank" rel="noopener">Wikipedia</a>,
+      lizenziert unter CC BY-SA. Diese Seite verändert keine Inhalte, sondern zeigt sie
+      nur strukturiert an.</p>
+      <p>Gebaut im Dialog mit Claude Code · Teil des Projekts „Islam-Epochen“, weitere
+      Zeiträume folgen.</p>
+    </div>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
