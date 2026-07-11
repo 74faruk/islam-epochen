@@ -352,6 +352,13 @@ a { color: var(--green-ink); }
   padding: 24px;
   z-index: 20;
 }
+/* Ohne diese Regel gewinnt ".detail-overlay { display: grid }" gegen das
+   Standardverhalten von [hidden] (display: none) - das Overlay bliebe
+   unsichtbar-aber-anwesend und würde ALLE echten Mausklicks auf der
+   ganzen Seite abfangen, obwohl man optisch nichts davon sieht. */
+.detail-overlay[hidden] {
+  display: none;
+}
 .detail-panel {
   position: relative;
   width: 100%;
