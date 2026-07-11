@@ -277,7 +277,14 @@ function schliesseDetail() {
   history.replaceState(null, "", window.location.pathname);
 }
 
+// Zählt jeden Aufruf hoch — läuft ein alter, langsamer Abruf noch nach,
+// wenn längst eine andere Person geöffnet wurde, erkennt der alte Aufruf
+// anhand dieser Nummer, dass er veraltet ist, und überschreibt nichts mehr.
+let aktuelleAnfrageId = 0;
+
 async function oeffneDetail(p) {
+  const meineAnfrageId = ++aktuelleAnfrageId;
+
   overlayEl.hidden = false;
   history.replaceState(null, "", "#person=" + p.id);
 
@@ -302,6 +309,7 @@ async function oeffneDetail(p) {
 
   try {
     const artikel = await ladeWikipediaExtrakt(p.name);
+    if (meineAnfrageId !== aktuelleAnfrageId) return; // inzwischen andere Person geöffnet
     detailLoading.hidden = true;
     if (artikel) {
       artikel.extract
@@ -324,10 +332,26 @@ async function oeffneDetail(p) {
       detailExtract.appendChild(hinweis);
     }
   } catch (err) {
+    if (meineAnfrageId !== aktuelleAnfrageId) return;
     detailLoading.hidden = true;
     const fehler = document.createElement("p");
-    fehler.textContent = "Biografie konnte gerade nicht geladen werden.";
+    fehler.textContent =
+      err.name === "AbortError"
+        ? "Wikipedia antwortet gerade nicht — bitte kurz erneut versuchen."
+        : "Biografie konnte gerade nicht geladen werden.";
     detailExtract.appendChild(fehler);
+  }
+}
+
+const WIKIPEDIA_TIMEOUT_MS = 8000;
+
+async function fetchMitTimeout(url) {
+  const controller = new AbortController();
+  const timer = setTimeout(() => controller.abort(), WIKIPEDIA_TIMEOUT_MS);
+  try {
+    return await fetch(url, { signal: controller.signal });
+  } finally {
+    clearTimeout(timer);
   }
 }
 
@@ -337,7 +361,7 @@ async function ladeWikipediaExtrakt(name) {
       "https://" + sprache + ".wikipedia.org/w/api.php" +
       "?action=query&prop=extracts&explaintext=1&redirects=1&format=json&origin=*" +
       "&titles=" + encodeURIComponent(name);
-    const res = await fetch(url);
+    const res = await fetchMitTimeout(url);
     if (!res.ok) continue;
     const json = await res.json();
     const pages = json.query && json.query.pages;
