@@ -275,15 +275,24 @@ document.addEventListener("keydown", (e) => {
 function schliesseDetail() {
   overlayEl.hidden = true;
   history.replaceState(null, "", window.location.pathname);
+  aktuelleAnfrageId++; // macht eine noch laufende Antwort ungültig
+  if (aktuellerAbortController) aktuellerAbortController.abort();
 }
 
 // Zählt jeden Aufruf hoch — läuft ein alter, langsamer Abruf noch nach,
 // wenn längst eine andere Person geöffnet wurde, erkennt der alte Aufruf
 // anhand dieser Nummer, dass er veraltet ist, und überschreibt nichts mehr.
 let aktuelleAnfrageId = 0;
+// Bricht den Netzwerk-Abruf der zuletzt geöffneten Person aktiv ab, sobald
+// eine neue Person geöffnet wird — sonst häufen sich bei schnellem Klicken
+// mehrere Wikipedia-Abrufe gleichzeitig auf und blockieren sich gegenseitig.
+let aktuellerAbortController = null;
 
 async function oeffneDetail(p) {
   const meineAnfrageId = ++aktuelleAnfrageId;
+  if (aktuellerAbortController) aktuellerAbortController.abort();
+  aktuellerAbortController = new AbortController();
+  const meinSignal = aktuellerAbortController.signal;
 
   overlayEl.hidden = false;
   history.replaceState(null, "", "#person=" + p.id);
@@ -308,7 +317,7 @@ async function oeffneDetail(p) {
   detailLinks.appendChild(wikidataLink);
 
   try {
-    const artikel = await ladeWikipediaExtrakt(p.name);
+    const artikel = await ladeWikipediaExtrakt(p.name, meinSignal);
     if (meineAnfrageId !== aktuelleAnfrageId) return; // inzwischen andere Person geöffnet
     detailLoading.hidden = true;
     if (artikel) {
@@ -332,7 +341,7 @@ async function oeffneDetail(p) {
       detailExtract.appendChild(hinweis);
     }
   } catch (err) {
-    if (meineAnfrageId !== aktuelleAnfrageId) return;
+    if (meineAnfrageId !== aktuelleAnfrageId) return; // abgebrochen, weil längst überholt
     detailLoading.hidden = true;
     const fehler = document.createElement("p");
     fehler.textContent =
@@ -345,23 +354,28 @@ async function oeffneDetail(p) {
 
 const WIKIPEDIA_TIMEOUT_MS = 8000;
 
-async function fetchMitTimeout(url) {
-  const controller = new AbortController();
-  const timer = setTimeout(() => controller.abort(), WIKIPEDIA_TIMEOUT_MS);
+async function fetchMitTimeout(url, aeusseresSignal) {
+  const timeoutController = new AbortController();
+  const timer = setTimeout(() => timeoutController.abort(), WIKIPEDIA_TIMEOUT_MS);
+  // Bricht ab, sobald ENTWEDER das Zeitlimit erreicht ist ODER von aussen
+  // (neue Person geöffnet) abgebrochen wird — je nachdem, was zuerst eintritt.
+  const kombiniertesSignal = AbortSignal.any
+    ? AbortSignal.any([timeoutController.signal, aeusseresSignal])
+    : aeusseresSignal;
   try {
-    return await fetch(url, { signal: controller.signal });
+    return await fetch(url, { signal: kombiniertesSignal });
   } finally {
     clearTimeout(timer);
   }
 }
 
-async function ladeWikipediaExtrakt(name) {
+async function ladeWikipediaExtrakt(name, signal) {
   for (const sprache of ["de", "en"]) {
     const url =
       "https://" + sprache + ".wikipedia.org/w/api.php" +
       "?action=query&prop=extracts&explaintext=1&redirects=1&format=json&origin=*" +
       "&titles=" + encodeURIComponent(name);
-    const res = await fetchMitTimeout(url);
+    const res = await fetchMitTimeout(url, signal);
     if (!res.ok) continue;
     const json = await res.json();
     const pages = json.query && json.query.pages;
