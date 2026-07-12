@@ -25,6 +25,16 @@ import urllib.parse
 ENDPOINT = "https://query.wikidata.org/sparql"
 USER_AGENT = "islam-epochen (Bildungsprojekt, github.com/74faruk)"
 
+# Personen, bei denen NIE ein Bild angezeigt werden darf, unabhaengig
+# davon, was Wikidata hinterlegt hat — allen voran der Prophet Muhammad
+# (saw), dessen bildliche Darstellung religioes nicht vertretbar ist.
+# Bei jedem erneuten Pipeline-Lauf (auch fuer spaetere Baende) wird das
+# hier automatisch durchgesetzt, damit es nicht versehentlich wieder
+# auftaucht.
+KEINE_BILDER = {
+    "Q9458",  # Mohammed / Prophet Muhammad
+}
+
 QUERY = """
 SELECT ?person ?personLabel ?personDescription
        (SAMPLE(?dobRaw) AS ?dob) (SAMPLE(?dodRaw) AS ?dod) (SAMPLE(?imageRaw) AS ?image)
@@ -77,14 +87,15 @@ def hole_personen():
         # Wikidata-interne Platzhalter-IDs ohne echten Namen aussortieren
         if name.startswith("Q") and name[1:].isdigit():
             continue
+        pid = b["person"]["value"].split("/")[-1]
         personen.append(
             {
-                "id": b["person"]["value"].split("/")[-1],
+                "id": pid,
                 "name": name,
                 "description": b.get("personDescription", {}).get("value", ""),
                 "dob": b.get("dob", {}).get("value"),
                 "dod": b.get("dod", {}).get("value"),
-                "image": b.get("image", {}).get("value"),
+                "image": None if pid in KEINE_BILDER else b.get("image", {}).get("value"),
                 "occupations": b.get("occupations", {}).get("value", ""),
             }
         )
