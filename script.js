@@ -1,172 +1,18 @@
-// Islam-Epochen, Band I — lädt frühislamische Persönlichkeiten (Rashidun-
-// und Umayyaden-Kalifat) live von Wikidata, zeigt sie durchsuchbar an und
-// holt beim Öffnen einer Person die ausführliche Biografie aus Wikipedia.
+// Islam-Epochen, Band I — lädt die fertig strukturierten Personendaten
+// (kein Live-Abruf mehr nötig, alles liegt schon vor), zeigt sie
+// chronologisch nach Epochen sortiert, durchsuchbar und nach Rollen
+// filterbar an.
 
-const WIKIDATA_ENDPOINT = "https://query.wikidata.org/sparql";
-const USER_AGENT_NOTE = "islam-epochen (Bildungsprojekt, github.com/74faruk)";
-const CACHE_KEY = "islam-epochen-personen-v1";
-const CACHE_TTL_MS = 24 * 60 * 60 * 1000; // 24 Stunden
+const EPOCHEN = [
+  { id: "vor570", titel: "Vor der Jugendzeit des Propheten", bis: 569 },
+  { id: "570-609", titel: "Kindheit & Jugend des Propheten", bis: 609 },
+  { id: "610-621", titel: "Frühe Offenbarung in Mekka", bis: 621 },
+  { id: "622-632", titel: "Medina-Zeit des Propheten", bis: 632 },
+  { id: "633-661", titel: "Rashidun-Kalifat", bis: 661 },
+  { id: "662-750", titel: "Umayyaden-Kalifat", bis: 750 },
+  { id: "unbekannt", titel: "Zeitlich nicht sicher einzuordnen", bis: null },
+];
 
-const SPARQL_QUERY = `
-SELECT ?person ?personLabel ?personDescription ?dob ?dod ?image
-       (GROUP_CONCAT(DISTINCT ?occLabel; separator="|") AS ?occupations)
-WHERE {
-  {
-    ?person wdt:P27 wd:Q12490507 .
-  } UNION {
-    ?person wdt:P27 wd:Q8575586 .
-  } UNION {
-    ?person wdt:P106 wd:Q188711 .
-  } UNION {
-    ?person wdt:P39 wd:Q65997 .
-  }
-  ?person wdt:P31 wd:Q5 .
-  OPTIONAL { ?person wdt:P569 ?dob . }
-  OPTIONAL { ?person wdt:P570 ?dod . }
-  OPTIONAL { ?person wdt:P18 ?image . }
-  OPTIONAL { ?person wdt:P106 ?occ . }
-  SERVICE wikibase:label { bd:serviceParam wikibase:language "de,en". }
-}
-GROUP BY ?person ?personLabel ?personDescription ?dob ?dod ?image
-`;
-
-const KATEGORIE_KEYWORDS = {
-  politik: [
-    "caliph", "kalif", "governor", "statthalter", "wali", "emir", "vizier",
-    "wazir", "sultan", "king", "könig", "koenig", "ruler", "herrscher",
-    "politician", "politiker", "administrator", "prince", "prinz", "queen",
-    "königin", "koenigin",
-  ],
-  militaer: [
-    "general", "commander", "militärführer", "militaerfuehrer",
-    "military leader", "conqueror", "eroberer", "warrior", "krieger",
-    "army", "heer", "warlord", "feldherr", "commander-in-chief",
-  ],
-  theologie: [
-    "scholar", "gelehrter", "jurist", "hadith", "imam", "mufti", "qadi",
-    "richter", "theolog", "cleric", "geistlicher", "companion",
-    "gefährte", "gefaehrte", "muezzin", "reciter", "qari", "exeget",
-    "faqih", "ulama", "preacher", "prediger",
-  ],
-  wissenschaft: [
-    "astronomer", "astronom", "mathematician", "mathematiker",
-    "physician", "arzt", "wissenschaftler", "philosoph", "philosopher",
-    "scientist", "poet", "dichter", "musician", "musiker", "historian",
-    "historiker", "writer", "schriftsteller", "grammarian", "linguist",
-    "translator", "übersetzer", "uebersetzer",
-  ],
-};
-
-const KATEGORIE_LABELS = {
-  politik: "Politik & Staat",
-  militaer: "Militär",
-  theologie: "Theologie & Recht",
-  wissenschaft: "Wissenschaft & Kultur",
-  sonstiges: "Sonstiges",
-};
-
-function klassifiziere(person) {
-  const text = ((person.occupations || "") + " " + (person.description || "")).toLowerCase();
-  for (const kat of ["politik", "militaer", "theologie", "wissenschaft"]) {
-    if (KATEGORIE_KEYWORDS[kat].some((wort) => text.includes(wort))) return kat;
-  }
-  return "sonstiges";
-}
-
-function jahrAus(isoDatum) {
-  if (!isoDatum) return null;
-  const match = isoDatum.match(/^(-?\d+)-/);
-  if (!match) return null;
-  let jahr = parseInt(match[1], 10);
-  return jahr;
-}
-
-function formatJahr(jahr) {
-  if (jahr === null) return "?";
-  return jahr < 0 ? Math.abs(jahr) + " v. Chr." : String(jahr);
-}
-
-// ---------- Daten laden (mit Zwischenspeicher) ----------
-async function ladePersonen() {
-  const cached = localStorage.getItem(CACHE_KEY);
-  if (cached) {
-    try {
-      const parsed = JSON.parse(cached);
-      if (Date.now() - parsed.zeitpunkt < CACHE_TTL_MS) return parsed.daten;
-    } catch (e) {
-      /* Cache beschädigt — neu laden */
-    }
-  }
-
-  const url = WIKIDATA_ENDPOINT + "?query=" + encodeURIComponent(SPARQL_QUERY);
-  const res = await fetch(url, {
-    headers: { Accept: "application/sparql-results+json" },
-  });
-  if (!res.ok) throw new Error("Wikidata-Abfrage fehlgeschlagen: " + res.status);
-  const json = await res.json();
-
-  const daten = json.results.bindings
-    .map((b) => ({
-      id: b.person.value.split("/").pop(),
-      name: b.personLabel ? b.personLabel.value : "(ohne Namen)",
-      description: b.personDescription ? b.personDescription.value : "",
-      dob: b.dob ? b.dob.value : null,
-      dod: b.dod ? b.dod.value : null,
-      image: b.image ? b.image.value : null,
-      occupations: b.occupations ? b.occupations.value : "",
-    }))
-    // Wikidata-interne Platzhalter-IDs ohne echten Namen aussortieren
-    .filter((p) => !/^Q\d+$/.test(p.name));
-
-  daten.forEach((p) => {
-    p.kategorie = klassifiziere(p);
-  });
-
-  localStorage.setItem(CACHE_KEY, JSON.stringify({ zeitpunkt: Date.now(), daten }));
-  return daten;
-}
-
-// ---------- Zustand ----------
-let ALLE_PERSONEN = [];
-let sichtbareAnzahl = 40;
-const SCHRITT = 40;
-let aktuellerFilter = "alle";
-let aktuelleSuche = "";
-
-// ---------- Elemente ----------
-const gridEl = document.getElementById("grid");
-const resultCountEl = document.getElementById("result-count");
-const emptyStateEl = document.getElementById("empty-state");
-const loadMoreBtn = document.getElementById("load-more-btn");
-const searchInput = document.getElementById("search-input");
-const searchForm = document.getElementById("search-form");
-const filterRow = document.getElementById("filter-row");
-
-searchForm.addEventListener("submit", (e) => e.preventDefault());
-searchInput.addEventListener("input", () => {
-  aktuelleSuche = searchInput.value.trim().toLowerCase();
-  sichtbareAnzahl = SCHRITT;
-  render();
-});
-
-filterRow.addEventListener("click", (e) => {
-  const btn = e.target.closest(".filter-chip");
-  if (!btn) return;
-  aktuellerFilter = btn.dataset.cat;
-  [...filterRow.children].forEach((c) => c.classList.toggle("is-active", c === btn));
-  sichtbareAnzahl = SCHRITT;
-  render();
-});
-
-loadMoreBtn.addEventListener("click", () => {
-  sichtbareAnzahl += SCHRITT;
-  render();
-});
-
-// Deutsche Wikidata-Labels weichen oft von der geläufigen englischen
-// Schreibweise ab (z. B. "Aischa" statt "Aisha") — bekannte Varianten
-// werden bei der Suche mit übersetzt, damit gängige Schreibweisen auch
-// treffen.
 const SUCH_ALIASE = {
   aisha: "aischa",
   ayesha: "aischa",
@@ -178,90 +24,197 @@ const SUCH_ALIASE = {
   hussain: "husain",
 };
 
-function gefilterteListe() {
-  const suchbegriffe = [aktuelleSuche, SUCH_ALIASE[aktuelleSuche]].filter(Boolean);
-  return ALLE_PERSONEN.filter((p) => {
-    if (aktuellerFilter !== "alle" && p.kategorie !== aktuellerFilter) return false;
-    if (aktuelleSuche) {
-      const heuhaufen = (p.name + " " + p.description).toLowerCase();
-      if (!suchbegriffe.some((s) => heuhaufen.includes(s))) return false;
-    }
-    return true;
-  });
+let ALLE_PERSONEN = [];
+let aktiveRollen = new Set();
+let aktuelleSuche = "";
+
+const resultCountEl = document.getElementById("result-count");
+const zeitstrahlEl = document.getElementById("zeitstrahl");
+const emptyStateEl = document.getElementById("empty-state");
+const searchInput = document.getElementById("search-input");
+const searchForm = document.getElementById("search-form");
+const filterGruppenEl = document.getElementById("filter-gruppen");
+const filterResetBtn = document.getElementById("filter-reset");
+
+function jahrAus(iso) {
+  if (!iso) return null;
+  const m = iso.match(/^(-?\d+)-/);
+  return m ? parseInt(m[1], 10) : null;
+}
+
+function formatJahr(jahr, ungefaehr) {
+  if (jahr === null || jahr === undefined) return "?";
+  return (ungefaehr ? "ca. " : "") + jahr;
+}
+
+function epochenIdFuer(person) {
+  const s = person.struktur;
+  const jahr = (s.geboren_jahr !== null ? s.geboren_jahr : s.gestorben_jahr) ?? jahrAus(person.dob) ?? jahrAus(person.dod);
+  if (jahr === null || jahr === undefined) return "unbekannt";
+  for (const ep of EPOCHEN) {
+    if (ep.bis !== null && jahr <= ep.bis) return ep.id;
+  }
+  return "662-750";
 }
 
 function initialen(name) {
-  return name
+  const buchstaben = name
     .split(/\s+/)
     .filter((w) => /[A-Za-zÀ-ÖØ-öø-ÿ]/.test(w[0]))
     .slice(0, 2)
     .map((w) => w[0].toUpperCase())
-    .join("") || "؟";
+    .join("");
+  return buchstaben || "؟";
+}
+
+// ---------- Filter-Seitenleiste aufbauen ----------
+function baueFilterPanel() {
+  filterGruppenEl.innerHTML = "";
+  for (const gruppe of ROLLEN_GRUPPEN) {
+    const wrap = document.createElement("div");
+    wrap.className = "filter-gruppe";
+
+    const titel = document.createElement("p");
+    titel.className = "filter-gruppe-titel";
+    titel.textContent = gruppe.titel;
+    wrap.appendChild(titel);
+
+    const liste = document.createElement("div");
+    liste.className = "filter-chip-liste";
+    for (const rolle of gruppe.rollen) {
+      const anzahl = ALLE_PERSONEN.filter((p) => p.struktur.rollen.includes(rolle.id)).length;
+      if (anzahl === 0) continue;
+      const chip = document.createElement("button");
+      chip.type = "button";
+      chip.className = "filter-chip";
+      chip.dataset.rolle = rolle.id;
+      chip.innerHTML = rolle.label + ' <span class="anzahl">' + anzahl + "</span>";
+      chip.addEventListener("click", () => {
+        if (aktiveRollen.has(rolle.id)) aktiveRollen.delete(rolle.id);
+        else aktiveRollen.add(rolle.id);
+        chip.classList.toggle("aktiv");
+        render();
+      });
+      liste.appendChild(chip);
+    }
+    wrap.appendChild(liste);
+    filterGruppenEl.appendChild(wrap);
+  }
+}
+
+filterResetBtn.addEventListener("click", () => {
+  aktiveRollen.clear();
+  document.querySelectorAll(".filter-chip.aktiv").forEach((c) => c.classList.remove("aktiv"));
+  render();
+});
+
+searchForm.addEventListener("submit", (e) => e.preventDefault());
+searchInput.addEventListener("input", () => {
+  aktuelleSuche = searchInput.value.trim().toLowerCase();
+  render();
+});
+
+// ---------- Filtern + Rendern ----------
+function gefilterteListe() {
+  const suchbegriffe = [aktuelleSuche, SUCH_ALIASE[aktuelleSuche]].filter(Boolean);
+  return ALLE_PERSONEN.filter((p) => {
+    if (aktiveRollen.size > 0 && !p.struktur.rollen.some((r) => aktiveRollen.has(r))) return false;
+    if (aktuelleSuche && !suchbegriffe.some((s) => p.name.toLowerCase().includes(s))) return false;
+    return true;
+  });
+}
+
+function personenKarte(p) {
+  const card = document.createElement("button");
+  card.type = "button";
+  card.className = "card";
+
+  const portrait = document.createElement("span");
+  portrait.className = "card-portrait";
+  if (p.image) {
+    portrait.style.backgroundImage = "url('" + p.image + "?width=112')";
+  } else {
+    portrait.textContent = initialen(p.name);
+  }
+
+  const body = document.createElement("span");
+  body.className = "card-body";
+
+  const nameEl = document.createElement("span");
+  nameEl.className = "card-name";
+  nameEl.textContent = p.name;
+
+  const s = p.struktur;
+  const datesEl = document.createElement("span");
+  datesEl.className = "card-dates";
+  const geb = formatJahr(s.geboren_jahr, s.geboren_ungefaehr);
+  const gest = formatJahr(s.gestorben_jahr, s.gestorben_ungefaehr);
+  datesEl.textContent = s.geboren_jahr || s.gestorben_jahr ? geb + " – " + gest : "Lebensdaten unbekannt";
+
+  const tagsEl = document.createElement("span");
+  tagsEl.className = "card-tags";
+  for (const rolle of s.rollen.slice(0, 3)) {
+    const tag = document.createElement("span");
+    tag.className = "card-tag";
+    tag.textContent = ROLLEN_LABEL[rolle] || rolle;
+    tagsEl.appendChild(tag);
+  }
+
+  body.append(nameEl, datesEl, tagsEl);
+  card.append(portrait, body);
+  card.addEventListener("click", () => oeffneDetail(p));
+  return card;
 }
 
 function render() {
   const liste = gefilterteListe();
-  const sichtbar = liste.slice(0, sichtbareAnzahl);
-
   resultCountEl.textContent = liste.length + " von " + ALLE_PERSONEN.length + " Personen";
   emptyStateEl.hidden = liste.length > 0;
-  gridEl.innerHTML = "";
+  zeitstrahlEl.innerHTML = "";
 
-  for (const p of sichtbar) {
-    const card = document.createElement("button");
-    card.type = "button";
-    card.className = "card";
+  for (const ep of EPOCHEN) {
+    const personenInEpoche = liste.filter((p) => epochenIdFuer(p) === ep.id);
+    if (personenInEpoche.length === 0) continue;
 
-    const portrait = document.createElement("span");
-    portrait.className = "card-portrait";
-    if (p.image) {
-      portrait.style.backgroundImage = "url('" + p.image + "?width=112')";
-      portrait.textContent = "";
-    } else {
-      portrait.textContent = initialen(p.name);
-    }
+    personenInEpoche.sort((a, b) => {
+      const ja = a.struktur.geboren_jahr ?? a.struktur.gestorben_jahr ?? 9999;
+      const jb = b.struktur.geboren_jahr ?? b.struktur.gestorben_jahr ?? 9999;
+      return ja - jb;
+    });
 
-    const body = document.createElement("span");
-    body.className = "card-body";
+    const epocheEl = document.createElement("section");
+    epocheEl.className = "epoche";
 
-    const nameEl = document.createElement("span");
-    nameEl.className = "card-name";
-    nameEl.textContent = p.name;
+    const kopf = document.createElement("div");
+    kopf.className = "epoche-kopf";
+    const jahre = document.createElement("span");
+    jahre.className = "epoche-jahre";
+    jahre.textContent = ep.id === "unbekannt" ? "?" : ep.bis !== null ? "bis " + ep.bis : "";
+    const titel = document.createElement("h3");
+    titel.className = "epoche-titel";
+    titel.textContent = ep.titel;
+    const anzahl = document.createElement("span");
+    anzahl.className = "epoche-anzahl";
+    anzahl.textContent = personenInEpoche.length + " Personen";
+    kopf.append(jahre, titel, anzahl);
 
-    const datesEl = document.createElement("span");
-    datesEl.className = "card-dates";
-    const geb = formatJahr(jahrAus(p.dob));
-    const gest = formatJahr(jahrAus(p.dod));
-    datesEl.textContent = p.dob || p.dod ? geb + " – " + gest : "Lebensdaten unbekannt";
+    const grid = document.createElement("div");
+    grid.className = "karten-grid";
+    for (const p of personenInEpoche) grid.appendChild(personenKarte(p));
 
-    const descEl = document.createElement("span");
-    descEl.className = "card-desc";
-    descEl.textContent = p.description || "Keine Kurzbeschreibung bei Wikidata hinterlegt.";
-
-    const tagEl = document.createElement("span");
-    tagEl.className = "card-tag";
-    tagEl.textContent = KATEGORIE_LABELS[p.kategorie];
-
-    body.append(nameEl, document.createElement("br"), datesEl, document.createElement("br"), descEl, document.createElement("br"), tagEl);
-    card.append(portrait, body);
-    card.addEventListener("click", () => oeffneDetail(p));
-
-    gridEl.appendChild(card);
+    epocheEl.append(kopf, grid);
+    zeitstrahlEl.appendChild(epocheEl);
   }
-
-  loadMoreBtn.hidden = sichtbareAnzahl >= liste.length;
 }
 
 // ---------- Detailansicht ----------
 const overlayEl = document.getElementById("detail-overlay");
 const detailPortrait = document.getElementById("detail-portrait");
-const detailCategory = document.getElementById("detail-category");
+const detailRollen = document.getElementById("detail-rollen");
 const detailName = document.getElementById("detail-name");
 const detailDates = document.getElementById("detail-dates");
-const detailDesc = document.getElementById("detail-desc");
-const detailLoading = document.getElementById("detail-loading");
-const detailExtract = document.getElementById("detail-extract");
-const detailLinks = document.getElementById("detail-links");
+const detailAbstammung = document.getElementById("detail-abstammung");
+const detailBody = document.getElementById("detail-body");
 const detailClose = document.getElementById("detail-close");
 
 detailClose.addEventListener("click", schliesseDetail);
@@ -275,127 +228,100 @@ document.addEventListener("keydown", (e) => {
 function schliesseDetail() {
   overlayEl.hidden = true;
   history.replaceState(null, "", window.location.pathname);
-  aktuelleAnfrageId++; // macht eine noch laufende Antwort ungültig
-  if (aktuellerAbortController) aktuellerAbortController.abort();
 }
 
-// Zählt jeden Aufruf hoch — läuft ein alter, langsamer Abruf noch nach,
-// wenn längst eine andere Person geöffnet wurde, erkennt der alte Aufruf
-// anhand dieser Nummer, dass er veraltet ist, und überschreibt nichts mehr.
-let aktuelleAnfrageId = 0;
-// Bricht den Netzwerk-Abruf der zuletzt geöffneten Person aktiv ab, sobald
-// eine neue Person geöffnet wird — sonst häufen sich bei schnellem Klicken
-// mehrere Wikipedia-Abrufe gleichzeitig auf und blockieren sich gegenseitig.
-let aktuellerAbortController = null;
+function absatz(titel, text) {
+  if (!text) return "";
+  const p = document.createElement("p");
+  p.textContent = text;
+  const h4 = document.createElement("h4");
+  h4.textContent = titel;
+  const frag = document.createDocumentFragment();
+  frag.append(h4, p);
+  return frag;
+}
 
-async function oeffneDetail(p) {
-  const meineAnfrageId = ++aktuelleAnfrageId;
-  if (aktuellerAbortController) aktuellerAbortController.abort();
-  aktuellerAbortController = new AbortController();
-  const meinSignal = aktuellerAbortController.signal;
-
+function oeffneDetail(p) {
   overlayEl.hidden = false;
   history.replaceState(null, "", "#person=" + p.id);
 
+  const s = p.struktur;
   detailPortrait.style.backgroundImage = p.image ? "url('" + p.image + "?width=240')" : "none";
-  detailCategory.textContent = KATEGORIE_LABELS[p.kategorie];
+
+  detailRollen.innerHTML = "";
+  for (const rolle of s.rollen) {
+    const tag = document.createElement("span");
+    tag.className = "card-tag";
+    tag.textContent = ROLLEN_LABEL[rolle] || rolle;
+    detailRollen.appendChild(tag);
+  }
+
   detailName.textContent = p.name;
-  const geb = formatJahr(jahrAus(p.dob));
-  const gest = formatJahr(jahrAus(p.dod));
-  detailDates.textContent = p.dob || p.dod ? geb + " – " + gest + " n. Chr." : "Lebensdaten unbekannt";
-  detailDesc.textContent = p.description || "";
+  const geb = formatJahr(s.geboren_jahr, s.geboren_ungefaehr) + (s.geboren_ort ? " in " + s.geboren_ort : "");
+  const gest = formatJahr(s.gestorben_jahr, s.gestorben_ungefaehr) + (s.gestorben_ort ? " in " + s.gestorben_ort : "");
+  detailDates.textContent = s.geboren_jahr || s.gestorben_jahr ? "Geboren " + geb + " · Gestorben " + gest : "Lebensdaten unbekannt";
+  detailAbstammung.textContent = s.abstammung || "";
 
-  detailExtract.innerHTML = "";
-  detailLinks.innerHTML = "";
-  detailLoading.hidden = false;
+  detailBody.innerHTML = "";
+  const teile = [
+    absatz("Herkunft", s.herkunft),
+    absatz("Wirken", s.wirken),
+    absatz("Bedeutung", s.bedeutung),
+  ];
+  for (const t of teile) if (t) detailBody.appendChild(t);
 
+  if (s.todesumstand) {
+    const h4 = document.createElement("h4");
+    h4.textContent = "Todesumstand";
+    const p2 = document.createElement("p");
+    p2.textContent = s.todesumstand;
+    detailBody.append(h4, p2);
+  }
+
+  if (s.ereignisse && s.ereignisse.length > 0) {
+    const h4 = document.createElement("h4");
+    h4.textContent = "Wichtige Ereignisse";
+    const ul = document.createElement("ul");
+    ul.className = "detail-ereignisse";
+    for (const ereignis of s.ereignisse) {
+      const li = document.createElement("li");
+      li.textContent = ereignis;
+      ul.appendChild(li);
+    }
+    detailBody.append(h4, ul);
+  }
+
+  if (s.unsicherheit_hinweis) {
+    const box = document.createElement("div");
+    box.className = "detail-unsicherheit";
+    const label = document.createElement("span");
+    label.className = "label";
+    label.textContent = "Quellenlage";
+    const text = document.createElement("p");
+    text.textContent = s.unsicherheit_hinweis;
+    box.append(label, text);
+    detailBody.appendChild(box);
+  }
+
+  const links = document.createElement("p");
+  links.className = "detail-links";
   const wikidataLink = document.createElement("a");
   wikidataLink.href = "https://www.wikidata.org/wiki/" + p.id;
   wikidataLink.target = "_blank";
   wikidataLink.rel = "noopener";
   wikidataLink.textContent = "Wikidata-Eintrag ↗";
-  detailLinks.appendChild(wikidataLink);
-
-  try {
-    const artikel = await ladeWikipediaExtrakt(p.name, meinSignal);
-    if (meineAnfrageId !== aktuelleAnfrageId) return; // inzwischen andere Person geöffnet
-    detailLoading.hidden = true;
-    if (artikel) {
-      artikel.extract
-        .split(/\n+/)
-        .filter((abs) => abs.trim())
-        .forEach((abs) => {
-          const para = document.createElement("p");
-          para.textContent = abs;
-          detailExtract.appendChild(para);
-        });
-      const wpLink = document.createElement("a");
-      wpLink.href = artikel.url;
-      wpLink.target = "_blank";
-      wpLink.rel = "noopener";
-      wpLink.textContent = "Vollständiger Wikipedia-Artikel" + (artikel.sprache === "en" ? " (englisch)" : "") + " ↗";
-      detailLinks.appendChild(wpLink);
-    } else {
-      const hinweis = document.createElement("p");
-      hinweis.textContent = "Zu dieser Person gibt es (noch) keinen ausführlichen Wikipedia-Artikel — nur den Wikidata-Eintrag oben.";
-      detailExtract.appendChild(hinweis);
-    }
-  } catch (err) {
-    if (meineAnfrageId !== aktuelleAnfrageId) return; // abgebrochen, weil längst überholt
-    detailLoading.hidden = true;
-    const fehler = document.createElement("p");
-    fehler.textContent =
-      err.name === "AbortError"
-        ? "Wikipedia antwortet gerade nicht — bitte kurz erneut versuchen."
-        : "Biografie konnte gerade nicht geladen werden.";
-    detailExtract.appendChild(fehler);
-  }
-}
-
-const WIKIPEDIA_TIMEOUT_MS = 8000;
-
-async function fetchMitTimeout(url, aeusseresSignal) {
-  const timeoutController = new AbortController();
-  const timer = setTimeout(() => timeoutController.abort(), WIKIPEDIA_TIMEOUT_MS);
-  // Bricht ab, sobald ENTWEDER das Zeitlimit erreicht ist ODER von aussen
-  // (neue Person geöffnet) abgebrochen wird — je nachdem, was zuerst eintritt.
-  const kombiniertesSignal = AbortSignal.any
-    ? AbortSignal.any([timeoutController.signal, aeusseresSignal])
-    : aeusseresSignal;
-  try {
-    return await fetch(url, { signal: kombiniertesSignal });
-  } finally {
-    clearTimeout(timer);
-  }
-}
-
-async function ladeWikipediaExtrakt(name, signal) {
-  for (const sprache of ["de", "en"]) {
-    const url =
-      "https://" + sprache + ".wikipedia.org/w/api.php" +
-      "?action=query&prop=extracts&explaintext=1&redirects=1&format=json&origin=*" +
-      "&titles=" + encodeURIComponent(name);
-    const res = await fetchMitTimeout(url, signal);
-    if (!res.ok) continue;
-    const json = await res.json();
-    const pages = json.query && json.query.pages;
-    if (!pages) continue;
-    const seite = Object.values(pages)[0];
-    if (seite && !seite.missing && seite.extract && seite.extract.length > 40) {
-      return {
-        extract: seite.extract,
-        sprache,
-        url: "https://" + sprache + ".wikipedia.org/wiki/" + encodeURIComponent(seite.title.replace(/ /g, "_")),
-      };
-    }
-  }
-  return null;
+  links.appendChild(wikidataLink);
+  detailBody.appendChild(links);
 }
 
 // ---------- Start ----------
 (async function start() {
   try {
-    ALLE_PERSONEN = await ladePersonen();
+    const res = await fetch("daten/personen.json");
+    if (!res.ok) throw new Error("HTTP " + res.status);
+    ALLE_PERSONEN = await res.json();
+
+    baueFilterPanel();
     render();
 
     const hash = window.location.hash.match(/person=(Q\d+)/);

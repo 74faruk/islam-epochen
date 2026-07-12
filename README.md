@@ -1,56 +1,57 @@
 # Islam-Epochen — Band I: Frühislamische Persönlichkeiten
 
-Personen aus dem Rashidun- und Umayyaden-Kalifat (632–750 n. Chr.) —
-Kalifen, Gefährten des Propheten, Feldherren, Gouverneure, Gelehrte.
-Live: **https://74faruk.github.io/islam-epochen/**
+Ein chronologisches Nachschlagewerk zur Frühzeit des Islam (ca. 500–750
+n. Chr.) — von der Generation Hāschims ibn ʿAbd Manāf (Urgroßvater des
+Propheten) bis zum Ende des Umayyaden-Kalifats. 721 Personen, jede mit
+fester Struktur (Rollen, Daten, Herkunft, Wirken, Bedeutung), konsequent
+aus sunnitischer Quellenperspektive. Live:
+**https://74faruk.github.io/islam-epochen/**
 
-Statische Seite (HTML/CSS/JS, kein Framework, kein Backend). Alle Daten
-kommen zur Laufzeit direkt aus der **Wikidata**-Datenbank (per SPARQL-
-Abfrage, kein API-Key nötig) und aus **Wikipedia** (ausführliche
-Biografietexte, deutsch mit englischem Fallback). Es gibt keine
-redaktionelle Auswahl — die Liste ist so vollständig, wie Wikidata es
-für diese Epoche hergibt (aktuell rund 660 Personen).
+## Wie die Daten entstehen
 
-## Wie die Auswahl zustande kommt
+Zweistufige Pipeline (liegt in `pipeline/`, läuft nicht live im Browser):
 
-Die SPARQL-Abfrage in `script.js` holt alle Personen, die mindestens
-eines davon sind:
-- Staatsangehörige des Rashidun- oder Umayyaden-Kalifats (Wikidata P27)
-- als „Gefährte des Propheten" (Sahabah) eingetragen (P106)
-- Inhaber des Amtes „Kalif" (P39)
+1. **`wikidata_query.py`** — holt die Personenliste per SPARQL aus
+   Wikidata: Staatsangehörige des Rashidun-/Umayyaden-Kalifats, als
+   Sahaba eingetragene Personen, Kalifen, sowie Nachkommen Hāschims
+   ibn ʿAbd Manāf bis 5 Generationen tief (deckt die vorislamische
+   Verwandtschaft ab, ohne bis in die Neuzeit zu reichen).
+2. **`batch_verarbeitung.py`** — holt pro Person den Wikipedia-Auszug,
+   lässt Claude Sonnet 5 (über die günstigere Batch API) daraus einen
+   einheitlichen deutschen Eintrag mit fester Rollen-Klassifikation
+   erzeugen. System-Prompt schreibt explizit sunnitische
+   Quellenperspektive vor (`strukturiere_testlauf.py` enthält Prompt +
+   Rollen-Taxonomie + JSON-Schema).
 
-Die Einordnung in Themengebiete (Politik & Staat, Militär, Theologie &
-Recht, Wissenschaft & Kultur) passiert clientseitig über eine
-Stichwortsuche in Beruf und Kurzbeschreibung — Wikidata selbst liefert
-keine fertige Kategorie dafür.
+Ergebnis liegt als `daten/personen.json` — die Webseite lädt nur noch
+diese fertige Datei, kein Live-API-Aufruf mehr nötig (schnell, kostenlos
+im Betrieb).
 
 ## Struktur
 
 ```
-index.html   – Hero, Suche, Filter, Ergebnisgrid, Detail-Overlay
-styles.css   – Gestaltung (gelehrt-archivarischer Stil)
-script.js    – Wikidata-Abfrage, Filter/Suche, Wikipedia-Biografien
-fonts/       – Self-hosted Webfonts (Amiri, Lora)
+index.html         – Hero, Suche, Filter-Seitenleiste, Zeitstrahl, Detail-Overlay
+styles.css          – Gestaltung (gelehrt-archivarisch: Pergament + Grün + Burgunderrot)
+script.js           – Zeitstrahl-Aufbau, Filter/Suche, Detailansicht
+daten/personen.json – fertig strukturierte Personendaten (721 Einträge)
+daten/rollen.js     – Rollen-Taxonomie fürs Frontend
+fonts/              – Self-hosted Webfonts (Amiri, Lora)
+pipeline/           – Python-Skripte zur Datenerzeugung (einmalig/bei Erweiterung ausgeführt)
 ```
 
-## Weitere Epochen (Ausblick)
+## Pipeline erneut ausführen (z. B. für einen neuen Band)
 
-Der Projektname ist bewusst „Band I" — als Nächstes könnte das
-Abbasiden-Kalifat folgen (die Blütezeit der Wissenschaft: Al-Khwarizmi,
-Ibn Sina, Al-Kindi und viele mehr), danach z. B. Osmanisches Reich oder
-Al-Andalus. Jede weitere Epoche wäre im Kern nur eine neue SPARQL-
-Abfrage mit anderen Wikidata-IDs.
+```
+cd pipeline
+python wikidata_query.py
+python batch_verarbeitung.py   # braucht ANTHROPIC_API_KEY als Umgebungsvariable
+cp personen_final.json ../daten/personen.json
+```
 
 ## Deployment
 
 Gehostet auf **GitHub Pages**. Jeder Push auf `main` aktualisiert die
 Live-Seite automatisch (1–2 Minuten Wartezeit).
-
-```
-git add -A
-git commit -m "Beschreibung der Änderung"
-git push
-```
 
 ---
 

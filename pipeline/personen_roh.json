@@ -1,0 +1,6491 @@
+[
+  {
+    "id": "Q12221965",
+    "name": "Ṭuways",
+    "description": "arab musician of Persian origin (632–711)",
+    "dob": "0632-06-08T00:00:00Z",
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q12222744",
+    "name": "Abd al-Rahman ibn Hassan ibn Thabit",
+    "description": "",
+    "dob": "0630-01-01T00:00:00Z",
+    "dod": "0720-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q12227502",
+    "name": "Ikrima ibn Abd Allah al-Barbari",
+    "description": "Islamic scholar & jurist, 8th C.",
+    "dob": "0700-01-01T00:00:00Z",
+    "dod": "0723-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q12233692",
+    "name": "Qambar",
+    "description": "Ali's companion",
+    "dob": "0600-01-01T00:00:00Z",
+    "dod": "0700-01-01T00:00:00Z",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%D9%82%D9%86%D8%A8%D8%B1%20%D8%A3%D8%A8%D9%8A%20%D9%87%D9%85%D8%AF%D8%A7%D9%86.png",
+    "occupations": ""
+  },
+  {
+    "id": "Q12236714",
+    "name": "Abu Amra Kaysan",
+    "description": "early convert to Islam",
+    "dob": "0700-01-01T00:00:00Z",
+    "dod": "0686-01-01T00:00:00Z",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Abu%20Amra%20Kaysan.png",
+    "occupations": ""
+  },
+  {
+    "id": "Q12244250",
+    "name": "Ma'qil ibn Sinan al-Ashja'i",
+    "description": "",
+    "dob": null,
+    "dod": "0683-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q12246959",
+    "name": "Na'ila bint al-Farafisa",
+    "description": "wife of Uthman ibn Affan",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q12250388",
+    "name": "Wa'il ibn Hujr",
+    "description": "",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q16117932",
+    "name": "Abu Bakra al-Thaqafi",
+    "description": "companion of the prophet",
+    "dob": "0650-01-01T00:00:00Z",
+    "dod": "0710-01-01T00:00:00Z",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%D8%A3%D8%A8%D9%88%20%D8%A8%D9%83%D8%B1%D8%A9%20%D8%A7%D9%84%D8%AB%D9%82%D9%81%D9%8A.jpg",
+    "occupations": ""
+  },
+  {
+    "id": "Q16119564",
+    "name": "Al-Mundhir ibn al-Zubayr",
+    "description": "",
+    "dob": "0644-01-01T00:00:00Z",
+    "dod": "0683-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q16123024",
+    "name": "Schurahbīl ibn Simt",
+    "description": "arabischer Militärführer",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q18639515",
+    "name": "Busbuhra",
+    "description": "Aramean dehqan",
+    "dob": null,
+    "dod": "0637-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q19800747",
+    "name": "'Abdullah bin Zaid Al-Ansari",
+    "description": "muezzin (580–644)",
+    "dob": "0580-01-01T00:00:00Z",
+    "dod": "0644-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q20382345",
+    "name": "Ubayd Allah ibn Ma'mar",
+    "description": "",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q20391274",
+    "name": "Anas ibn Mudrik",
+    "description": "",
+    "dob": "0567-01-01T00:00:00Z",
+    "dod": "0657-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q20413563",
+    "name": "Abd Allah ibn Hanzala",
+    "description": "Medina Ansar faction leader (625/26–683)",
+    "dob": "0625-01-01T00:00:00Z",
+    "dod": "0683-01-01T00:00:00Z",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D9%84%D9%87%20%D8%A8%D9%86%20%D8%AD%D9%86%D8%B8%D9%84%D8%A9.png",
+    "occupations": ""
+  },
+  {
+    "id": "Q20416328",
+    "name": "Qabisah ibn Jabir",
+    "description": "",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q20425828",
+    "name": "Hind ibn Abi Hala",
+    "description": "",
+    "dob": null,
+    "dod": "0656-01-01T00:00:00Z",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%D9%87%D9%86%D8%AF%20%D8%A8%D9%86%20%D8%A3%D8%A8%D9%8A%20%D9%87%D8%A7%D9%84%D8%A9.jpg",
+    "occupations": ""
+  },
+  {
+    "id": "Q22684103",
+    "name": "Ubay ibn Qays al-Nakha'i",
+    "description": "",
+    "dob": "http://www.wikidata.org/.well-known/genid/1f9fb8742bcb0346e4aceca2df859934",
+    "dod": "0657-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q22687624",
+    "name": "Huwaytib ibn Abd al-Uzza",
+    "description": "",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q22948536",
+    "name": "Bukayr ibn Abdallah",
+    "description": "7th-century Arab military leader",
+    "dob": null,
+    "dod": "0601-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q23829550",
+    "name": "Zuhra ibn al-Ḥawiyya",
+    "description": "Arab general",
+    "dob": null,
+    "dod": "0637-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q23904870",
+    "name": "Zaynab bint Maz'un",
+    "description": "Wife of Caliph Umar ibn al-Khattab",
+    "dob": "0501-01-01T00:00:00Z",
+    "dod": "0601-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q26950744",
+    "name": "Qaraza ibn Ka'b al-Ansari",
+    "description": "",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q28715124",
+    "name": "Amr ibn Maymun",
+    "description": "tabi-mukhadhram",
+    "dob": "0610-01-01T00:00:00Z",
+    "dod": "0693-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q42332171",
+    "name": "Al-Akdar ibn Hamam",
+    "description": "Head of Egyptian Lakhmids",
+    "dob": null,
+    "dod": "0685-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q54862156",
+    "name": "Suleiman bin Khalid bin Al-Walid",
+    "description": "Sahaba",
+    "dob": "0612-01-05T00:00:00Z",
+    "dod": "0642-02-03T00:00:00Z",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sulaiman%20bin%20Khalid%20Al%20Makhzumi%20Al%20Quraisyi.png",
+    "occupations": ""
+  },
+  {
+    "id": "Q56350571",
+    "name": "Habibe ibne Maslama",
+    "description": "",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q56808198",
+    "name": "Zaynab bint Nawfal",
+    "description": "",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q59049927",
+    "name": "Al-Walid ibn Utba ibn Abi Sufyan",
+    "description": "Governor of Medina (677/78–680) and (681–682)",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q60917386",
+    "name": "Amr ibn Tufayl ibn Amr al-Dawsi",
+    "description": "",
+    "dob": null,
+    "dod": "0636-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q87690210",
+    "name": "Hilal ibn Waki",
+    "description": "",
+    "dob": "0700-01-01T00:00:00Z",
+    "dod": "0656-11-06T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q96747862",
+    "name": "Taliq ibn Abī Ṭālib",
+    "description": "",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q104237287",
+    "name": "Abu al-Ghadiyah al-Juhani",
+    "description": "",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q108564176",
+    "name": "Abu Hadrad al-Aslami",
+    "description": "",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q110720127",
+    "name": "Abū Wajzah al-Saʻdī",
+    "description": "",
+    "dob": "http://www.wikidata.org/.well-known/genid/05ba86bf249a3c78b0c1c1c13633faed",
+    "dod": "0747-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q111475563",
+    "name": "Zuhayr ibn Surad",
+    "description": "",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q122173373",
+    "name": "Abd al-Rahman ibn Abi Bakra",
+    "description": "",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q124627976",
+    "name": "Marjanah al-Farisiyah",
+    "description": "wife of Ziyad ibn Abihi",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q124649286",
+    "name": "Khawla bint al-Qa'qa'",
+    "description": "",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q124744455",
+    "name": "Baschīr ibn Saʿd",
+    "description": "Gefährte Muhammads",
+    "dob": "0600-01-01T00:00:00Z",
+    "dod": "0633-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q124746778",
+    "name": "Tufayl ibn Amr",
+    "description": "Chief of the Banu Daws tribe (died 633 CE)",
+    "dob": "0588-01-01T00:00:00Z",
+    "dod": "0633-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q124773809",
+    "name": "Hashim ibn Utbah",
+    "description": "Sahabah",
+    "dob": "0601-01-01T00:00:00Z",
+    "dod": "0657-01-01T00:00:00Z",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%D9%87%D8%A7%D8%B4%D9%85%20%D8%A8%D9%86%20%D8%B9%D8%AA%D8%A8%D8%A9%20%D8%8C%20%D8%B1%D8%B6%D9%8A%20%D8%A7%D9%84%D9%84%D9%87%20%D8%B9%D9%86%D9%87.jpg",
+    "occupations": ""
+  },
+  {
+    "id": "Q124790964",
+    "name": "Fatima bint Utba",
+    "description": "",
+    "dob": "0592-01-01T00:00:00Z",
+    "dod": "0652-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q126453206",
+    "name": "Humamah ibn Abi Humamah al-Dawsi",
+    "description": "",
+    "dob": null,
+    "dod": "0642-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q133457560",
+    "name": "Ka'b ibn Adi al-Abbadi",
+    "description": "champion of Muhammad from Iraq",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q140463575",
+    "name": "Saad ibn Habtah",
+    "description": "Sahabi",
+    "dob": "0700-01-01T00:00:00Z",
+    "dod": "0700-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q8474",
+    "name": "Süleyman I.",
+    "description": "Sultan des Osmanischen Reiches (1520-1566)",
+    "dob": "1494-11-15T00:00:00Z",
+    "dod": "1566-09-06T00:00:00Z",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Suleyman%20%28enthroned%2C%20receiving%20Barbarossa%20in%201533%29.%20S%C3%BCleymanname%20%281558%29.jpg",
+    "occupations": ""
+  },
+  {
+    "id": "Q37731",
+    "name": "Uthman ibn Affan",
+    "description": "dritter Kalif",
+    "dob": "0574-01-01T00:00:00Z",
+    "dod": "0656-06-17T00:00:00Z",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20third%20caliph%20Uthman.png",
+    "occupations": ""
+  },
+  {
+    "id": "Q128906",
+    "name": "Hussein ibn Ali",
+    "description": "König des Hedschas (1917–1924)",
+    "dob": "1853-01-01T00:00:00Z",
+    "dod": "1931-06-04T00:00:00Z",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%D9%85%D9%84%D9%83%20%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%20%D8%A7%D9%84%D8%B4%D8%B1%D9%8A%D9%81%20%D8%AD%D8%B3%D9%8A%D9%86%20%D8%A8%D9%86%20%D8%B9%D9%84%D9%8A.jpg",
+    "occupations": ""
+  },
+  {
+    "id": "Q182914",
+    "name": "Hasan ibn ʿAlī",
+    "description": "Enkel des Propheten Muḥammad; Märtyrer und Imām der Schiiten",
+    "dob": "0625-03-01T00:00:00Z",
+    "dod": "0669-01-01T00:00:00Z",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%D8%A7%D9%84%D8%AD%D8%B3%D9%86%20%D8%A7%D8%A8%D9%86%20%D8%B9%D9%84%D9%8A.svg",
+    "occupations": ""
+  },
+  {
+    "id": "Q203768",
+    "name": "Abdülmecit II.",
+    "description": "osmanischer Kalif",
+    "dob": "1868-05-29T00:00:00Z",
+    "dod": "1944-08-23T00:00:00Z",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20Caliph%20Abdulmecid%20II.jpg",
+    "occupations": ""
+  },
+  {
+    "id": "Q210445",
+    "name": "al-Mustain",
+    "description": "abbasidischer Kalif und Sultan in Ägypten unter den Mameluken",
+    "dob": "1390-01-01T00:00:00Z",
+    "dod": "1430-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q210497",
+    "name": "Al-Mustakfi II",
+    "description": "12th Caliph of Cairo",
+    "dob": "1388-01-01T00:00:00Z",
+    "dod": "1451-02-14T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q210626",
+    "name": "Al-Mustamsik",
+    "description": "sechzehnter und vorletzter abbasidischer Kalif von Kairo",
+    "dob": "1470-01-01T00:00:00Z",
+    "dod": "1521-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q307665",
+    "name": "ʿAbdallāh ibn az-Zubair",
+    "description": "„Gegen“kalif zu den Umayyaden",
+    "dob": "0624-05-01T00:00:00Z",
+    "dod": "0692-10-04T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q494660",
+    "name": "Selim I.",
+    "description": "Sultan des Osmanischen Reiches (1512–1520)",
+    "dob": "1470-10-19T00:00:00Z",
+    "dod": "1520-10-02T00:00:00Z",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sultan%20Selim%20I%20enthroned%2C%20in%20Istanbul%20in%201514.%20Sel%C4%ABm-n%C4%81ma%2C%20by%20%C5%9E%C5%ABkr%C4%AB-i%20Bitlis%C4%AB%2C%201524%20%28National%20Library%20of%20Israel%2C%20Ms.%20Yah.%20Ar.%201116%29.jpg",
+    "occupations": ""
+  },
+  {
+    "id": "Q2822168",
+    "name": "Mulā-y Ḥasan",
+    "description": "Herrscher der Hafsiden in Ifriqiya",
+    "dob": "1505-01-01T00:00:00Z",
+    "dod": "1549-01-01T00:00:00Z",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mulay-hacan%20le%20hafcide.jpg",
+    "occupations": ""
+  },
+  {
+    "id": "Q3303037",
+    "name": "Maysara al-Matghari",
+    "description": "Moroccan Berber leader ( He died in Tangier city - 742)",
+    "dob": null,
+    "dod": "http://www.wikidata.org/.well-known/genid/690b5290b7be9b97252fbebf8afc3e34",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q5662216",
+    "name": "Alamir",
+    "description": "",
+    "dob": "http://www.wikidata.org/.well-known/genid/d72f6dcc20cc7fc4e70f9825c437d198",
+    "dod": "0900-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q11937796",
+    "name": "Muhammad IV",
+    "description": "Hafsid Sultanate Caliph from 1434 to 1435",
+    "dob": "1410-01-01T00:00:00Z",
+    "dod": "1435-09-25T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q73672039",
+    "name": "Serigne Mouhamadou Fallilou Mbacké",
+    "description": "Senegalese religious leader",
+    "dob": "1888-01-01T00:00:00Z",
+    "dod": "1968-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q73676886",
+    "name": "Serigne Mountakha Mbacké",
+    "description": "Caliph of the murīd",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q8467",
+    "name": "Umar ibn al-Chattab",
+    "description": "Zweiter Kalif des Islam (reg. 634-644)",
+    "dob": "0586-01-01T00:00:00Z",
+    "dod": "0644-11-06T00:00:00Z",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Rashidun%20Caliphs%20Umar%20ibn%20Al-Khatt%C4%81b%20-%20%D8%B9%D9%8F%D9%85%D8%B1%20%D8%A8%D9%86%20%D8%A7%D9%84%D8%AE%D8%B7%D9%91%D8%A7%D8%A8%20%D8%AB%D8%A7%D9%86%D9%8A%20%D8%A7%D9%84%D8%AE%D9%84%D9%81%D8%A7%D8%A1%20%D8%A7%D9%84%D8%B1%D8%A7%D8%B4%D8%AF%D9%8A%D9%86.svg",
+    "occupations": ""
+  },
+  {
+    "id": "Q307630",
+    "name": "Abdallah ibn Dschahsch",
+    "description": "Anhänger Mohammeds",
+    "dob": "0580-01-01T00:00:00Z",
+    "dod": "0625-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q307686",
+    "name": "Abdallāh ibn Salām",
+    "description": "jüdischer Anhänger Mohammeds",
+    "dob": "0550-01-01T00:00:00Z",
+    "dod": "0663-01-01T00:00:00Z",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%D8%A3%D8%A8%D9%88%20%D9%8A%D9%88%D8%B3%D9%81%20%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%20%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D9%84%D9%87%20%D8%A8%D9%86%20%D8%B3%D9%84%D8%A7%D9%85%20%D8%A8%D9%86%20%D8%A7%D9%84%D8%AD%D8%A7%D8%B1%D8%AB%20%D8%B1%D8%B6%D9%8A%20%D8%A7%D9%84%D9%84%D9%87%20%D8%B9%D9%86%D9%87.png",
+    "occupations": ""
+  },
+  {
+    "id": "Q334813",
+    "name": "Abu Ayyub al-Ansari",
+    "description": "Gefährte des Propheten Muhammad",
+    "dob": "http://www.wikidata.org/.well-known/genid/ce393b221e68a1882c0a8d8a6caac88c",
+    "dod": "0672-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q493136",
+    "name": "Bilāl ibn Rabāh",
+    "description": "Gefährte (sahāba) des Propheten Mohammed",
+    "dob": "0581-01-01T00:00:00Z",
+    "dod": "0641-01-01T00:00:00Z",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Giant%20%27Uj%20and%20the%20Prophets%20Moses%2C%20Jesus%20and%20Muhammad%20-%20Khalili%20Collection%20Islamic%20Art%20HIGHRES.jpg",
+    "occupations": ""
+  },
+  {
+    "id": "Q1112943",
+    "name": "Hujr ibn Adi",
+    "description": "schiitischer arabischer Militärführer",
+    "dob": "0700-01-01T00:00:00Z",
+    "dod": "0660-01-01T00:00:00Z",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%D8%AD%D8%AC%D8%B1%20%D8%A8%D9%86%20%D8%B9%D8%AF%D9%8A.png",
+    "occupations": ""
+  },
+  {
+    "id": "Q1647787",
+    "name": "Talha ibn Ubaydullah",
+    "description": "Gefährte von Mohammed",
+    "dob": "0595-01-01T00:00:00Z",
+    "dod": "0656-01-01T00:00:00Z",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%D8%B7%D9%84%D8%AD%D8%A9%20%D8%A8%D9%86%20%D8%B9%D8%A8%D9%8A%D8%AF%20%D8%A7%D9%84%D9%84%D9%87.png",
+    "occupations": ""
+  },
+  {
+    "id": "Q1943555",
+    "name": "Sawda bint Zamʿa",
+    "description": "Frau von Mohammed",
+    "dob": "0589-01-01T00:00:00Z",
+    "dod": "0674-09-04T00:00:00Z",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%D8%AA%D8%AE%D8%B7%D9%8A%D8%B7%20%D8%A7%D8%B3%D9%85%20%D8%B3%D9%88%D8%AF%D8%A9%20%D8%A8%D9%86%D8%AA%20%D8%B2%D9%85%D8%B9%D8%A9.png",
+    "occupations": ""
+  },
+  {
+    "id": "Q3299394",
+    "name": "Sharhabeel ibn Hasana",
+    "description": "Companion of Muhammad and army commander (died 639)",
+    "dob": "0583-01-01T00:00:00Z",
+    "dod": "0639-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q6008261",
+    "name": "Imran ibn Husain",
+    "description": "companion of Muhammad",
+    "dob": null,
+    "dod": "0672-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q6541274",
+    "name": "Aban ibn Said",
+    "description": "Merchant and sahabi",
+    "dob": "http://www.wikidata.org/.well-known/genid/d7312df62673506ad45cca03c8144494",
+    "dod": "0634-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q6772446",
+    "name": "Rib'i ibn Amir al-Tamimi",
+    "description": "companion of Muhammad",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q12186975",
+    "name": "Al-Chirrīt ibn Rāschid an-Nādschī",
+    "description": "Person des Islam",
+    "dob": "0600-01-01T00:00:00Z",
+    "dod": "0658-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q39524199",
+    "name": "Ubadah bin Al-Khasykhasy",
+    "description": "",
+    "dob": null,
+    "dod": "0625-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q111313629",
+    "name": "Amr ibn al-Ahwas al-Bariqi",
+    "description": "",
+    "dob": "0573-01-01T00:00:00Z",
+    "dod": "0641-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q124746455",
+    "name": "Sufyān ibn wahb",
+    "description": "",
+    "dob": null,
+    "dod": "0701-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q124768208",
+    "name": "ʻJyr ibn ʻAbd yazyd",
+    "description": "",
+    "dob": null,
+    "dod": "0660-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q12208416",
+    "name": "Hafsa bint Sirin",
+    "description": "early scholar of Islam",
+    "dob": "0651-01-01T00:00:00Z",
+    "dod": "0719-01-01T00:00:00Z",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hafsah%20Bint%20Sireen%20Name.svg",
+    "occupations": ""
+  },
+  {
+    "id": "Q12214735",
+    "name": "Zuhayr ibn Sulaym",
+    "description": "",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q12215043",
+    "name": "Sariyah bin Zanim",
+    "description": "Sahabi",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q3607442",
+    "name": "Al-Haytham ibn Ubayd al-Kilabi",
+    "description": "",
+    "dob": "http://www.wikidata.org/.well-known/genid/2ecc9482806585c4962adb380c72cd19",
+    "dod": "0730-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q3774518",
+    "name": "Walid ibn Uqba",
+    "description": "Governor of Kufa (died 680)",
+    "dob": "http://www.wikidata.org/.well-known/genid/197061d3f8a9c5a14d1f620fd758402d",
+    "dod": "0680-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q3777618",
+    "name": "Qahtaba ibn Shabib al-Ta'i",
+    "description": "Abbasid general (died 749)",
+    "dob": null,
+    "dod": "0749-08-31T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q3780173",
+    "name": "ʿAbd al-ʿAzīz ibn Marwān",
+    "description": "Statthalter von Ägypten und Nordafrika",
+    "dob": "0700-01-01T00:00:00Z",
+    "dod": "0705-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q3785847",
+    "name": "Hisham ibn Urwah",
+    "description": "Muslim scholar (c.680-763)",
+    "dob": "0680-01-01T00:00:00Z",
+    "dod": "0763-01-01T00:00:00Z",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%D9%87%D8%B4%D8%A7%D9%85%20%D8%A8%D9%86%20%D8%B9%D8%B1%D9%88%D8%A9.png",
+    "occupations": ""
+  },
+  {
+    "id": "Q6418302",
+    "name": "Al-Aschʿath ibn Qais",
+    "description": "König (Hadramaut)",
+    "dob": "0599-01-01T00:00:00Z",
+    "dod": "0661-03-05T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q6830647",
+    "name": "Qudama ibn Maz'un",
+    "description": "Companion of Muhammad",
+    "dob": null,
+    "dod": "0656-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q6960007",
+    "name": "Najiyah bint al-Walid",
+    "description": "Sahabah",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q7645423",
+    "name": "Suraqa bin Malik",
+    "description": "Pursued Muhammad",
+    "dob": "0600-01-01T00:00:00Z",
+    "dod": "0645-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q11037017",
+    "name": "Al-Hutay'a",
+    "description": "Arab poet",
+    "dob": "0600-01-01T00:00:00Z",
+    "dod": "0665-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q11907440",
+    "name": "Azad Peroz",
+    "description": "7th century Iranian nobleman",
+    "dob": null,
+    "dod": "0700-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q11926382",
+    "name": "Ibrahim ibn Malik al-Ashtar",
+    "description": "Arab commander of Al-Mukhtar's forces (died 691)",
+    "dob": "0642-01-01T00:00:00Z",
+    "dod": "0691-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q12185933",
+    "name": "Al-Harith ibn al-Hakam",
+    "description": "Senior adviser and cousin of Caliph Uthman",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q12194428",
+    "name": "Naaman bin Bashir",
+    "description": "arabischer Herrscher",
+    "dob": "0622-01-01T00:00:00Z",
+    "dod": "0684-01-01T00:00:00Z",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%D8%A7%D9%84%D9%86%D8%B9%D9%85%D8%A7%D9%86%20%D8%A8%D9%86%20%D8%A8%D8%B4%D9%8A%D8%B1.png",
+    "occupations": ""
+  },
+  {
+    "id": "Q12201493",
+    "name": "Al-Dahhak ibn Qays al-Fihri",
+    "description": "Umayyad general and governor of Damascus (died 684)",
+    "dob": "0625-01-01T00:00:00Z",
+    "dod": "0684-08-21T00:00:00Z",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%D8%A7%D9%84%D8%B6%D8%AD%D8%A7%D9%83%20%D8%A8%D9%86%20%D9%82%D9%8A%D8%B3.png",
+    "occupations": ""
+  },
+  {
+    "id": "Q11926339",
+    "name": "Ibn Harma",
+    "description": "",
+    "dob": "0709-01-01T00:00:00Z",
+    "dod": "0786-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q11926890",
+    "name": "Ishaq ibn Muslim al-Uqayli",
+    "description": "8th-century Umayyad general and governor",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q11929846",
+    "name": "Chālid al-Qasrī",
+    "description": "Statthalter von Mekka",
+    "dob": "0601-01-01T00:00:00Z",
+    "dod": "0743-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q11929991",
+    "name": "Qurra ibn Sharik al-Absi",
+    "description": "Umayyad governor of Egypt from 709 to 715",
+    "dob": "0601-01-01T00:00:00Z",
+    "dod": "0715-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q11938201",
+    "name": "Maslama ibn Mukhallad al-Ansari",
+    "description": "Governor of Egypt and military officer (616/620 - 682)",
+    "dob": "0601-01-01T00:00:00Z",
+    "dod": "0682-04-09T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q11944153",
+    "name": "Qatarí ibn al-Fujaa",
+    "description": "Father of Death",
+    "dob": "0650-01-01T00:00:00Z",
+    "dod": "0697-01-01T00:00:00Z",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dirham%20of%20Qatari%20ibn%20Fuja%27a.jpg",
+    "occupations": ""
+  },
+  {
+    "id": "Q11950470",
+    "name": "Sufyan al-Asamm",
+    "description": "late 7th century Umayyad general",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q11953869",
+    "name": "Ubayd Allah ibn Abi Bakra",
+    "description": "",
+    "dob": null,
+    "dod": "0698-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q12177744",
+    "name": "Abu al-Shamaqmaq",
+    "description": "Arab poet",
+    "dob": "0730-01-01T00:00:00Z",
+    "dod": "0796-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q3063361",
+    "name": "Al-Fudhayl bin 'Iyyadh",
+    "description": "8th-century Islamic scholar",
+    "dob": "0725-01-01T00:00:00Z",
+    "dod": "0803-03-04T00:00:00Z",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%D8%A7%D9%84%D9%81%D8%B6%D9%8A%D9%84%20%D8%A8%D9%86%20%D8%B9%D9%8A%D8%A7%D8%B6.png",
+    "occupations": ""
+  },
+  {
+    "id": "Q3300780",
+    "name": "Sulayman ibn Hisham",
+    "description": "8th-century Umayyad prince and general",
+    "dob": "0750-01-01T00:00:00Z",
+    "dod": "0701-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q3332052",
+    "name": "Abd al-Rahman ibn Kathir al-Lakhmi",
+    "description": "umayyad governor of Al Andalus",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q3399546",
+    "name": "Abdulreman ibn Khalid",
+    "description": "Arab governor of Homs (c.616-666)",
+    "dob": "0616-01-01T00:00:00Z",
+    "dod": "0666-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q3478100",
+    "name": "Wāsil ibn ʿAtā'",
+    "description": "islamischer Prediger und Theologe",
+    "dob": "0700-01-01T00:00:00Z",
+    "dod": "0748-01-01T00:00:00Z",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/W%C4%81%E1%B9%A3il%20ibn%20%CA%BFAt%C4%81%CA%BE%2C%20Sayr%20mulhimah%20min%20al-Sharq%20wa-al-Gharb.png",
+    "occupations": ""
+  },
+  {
+    "id": "Q3502947",
+    "name": "Al-Hurr ibn Yazid al-Tamimi",
+    "description": "7th-century Umayyad general",
+    "dob": "0650-01-01T00:00:00Z",
+    "dod": "0680-10-13T00:00:00Z",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hazrat%20Hurr%20%28A.S.%29.png",
+    "occupations": ""
+  },
+  {
+    "id": "Q3595521",
+    "name": "Abdullah ibn Aamir",
+    "description": "Rashidun Arab governor of Basra from 647 to 656",
+    "dob": "0622-01-01T00:00:00Z",
+    "dod": "0678-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q3603341",
+    "name": "Abd al-Malik ibn Qatan al-Fihri",
+    "description": "arabischer Militärführer und Statthalter von Al-Andalus",
+    "dob": null,
+    "dod": "0742-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q9458",
+    "name": "Mohammed",
+    "description": "Gründer des Islam (ca. 570–632)",
+    "dob": "0571-04-22T00:00:00Z",
+    "dod": "0632-06-11T00:00:00Z",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mohammed.jpg",
+    "occupations": ""
+  },
+  {
+    "id": "Q39619",
+    "name": "Alī",
+    "description": "vierter Kalif der Sunniten, erster Imam der Schiiten; Schwiegersohn Mohammeds",
+    "dob": "0599-03-19T00:00:00Z",
+    "dod": "0661-01-01T00:00:00Z",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hazrat%20Ali%20slays%20Marhab.JPG",
+    "occupations": ""
+  },
+  {
+    "id": "Q423600",
+    "name": "ʿAbdallāh ibn ʿAbbās",
+    "description": "islamischer Gelehrter und Cousin von Mohammed",
+    "dob": "0619-01-01T00:00:00Z",
+    "dod": "0688-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q1146124",
+    "name": "Rabi'ah ibn al-Harith",
+    "description": "Companion of the Islamic prophet Muhammad (c.566-c.640)",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q1146625",
+    "name": "Abu Sufyan ibn al-Harith",
+    "description": "companion and first cousin of Prophet Mohammad and father of hazrat ameer muaviya",
+    "dob": "0565-01-01T00:00:00Z",
+    "dod": "0652-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q1147498",
+    "name": "Dschaʿfar ibn Abī Tālib",
+    "description": "Gefährte Muhammads",
+    "dob": "0589-01-01T00:00:00Z",
+    "dod": "0629-01-01T00:00:00Z",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Paris%2C%20BnF%2C%20Suppl%C3%A9ment%20Persan%201030%20fol.%20213v%20Ja%27far%20ibn%20Abi%20Talib%20being%20received%20by%20Najashi.jpg",
+    "occupations": ""
+  },
+  {
+    "id": "Q2177228",
+    "name": "Aqeel ibn Abi Talib",
+    "description": "Gefährte und Cousin Mohammeds",
+    "dob": "0590-01-01T00:00:00Z",
+    "dod": "0670-01-01T00:00:00Z",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%D8%AA%D8%AE%D8%B7%D9%8A%D8%B7%20%D8%A7%D8%B3%D9%85%20%D8%B9%D9%82%D9%8A%D9%84%20%D8%A8%D9%86%20%D8%A3%D8%A8%D9%8A%20%D8%B7%D8%A7%D9%84%D8%A8.png",
+    "occupations": ""
+  },
+  {
+    "id": "Q2680782",
+    "name": "Fadl ibn Abbas",
+    "description": "cousin of the Islamic prophet Muhammad (c. 611-c. 639)",
+    "dob": "0614-01-01T00:00:00Z",
+    "dod": "0639-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q3738508",
+    "name": "Fakhitah bint Abi Talib",
+    "description": "Female sahaba",
+    "dob": "0576-01-01T00:00:00Z",
+    "dod": "0661-01-01T00:00:00Z",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%D8%A3%D9%85%20%D9%87%D8%A7%D9%86%D8%A6%20%D8%A8%D9%86%D8%AA%20%D8%A3%D8%A8%D9%8A%20%D8%B7%D8%A7%D9%84%D8%A8.jpg",
+    "occupations": ""
+  },
+  {
+    "id": "Q5900560",
+    "name": "Ubayd Allah ibn Abbas",
+    "description": "son of Abbas ibn Abdul-Muttalib and Lubaba bint al-Harith",
+    "dob": "0622-01-01T00:00:00Z",
+    "dod": "0705-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q6310793",
+    "name": "Jumanah bint Abi Talib",
+    "description": "Sahaba of Muhammad",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q7902593",
+    "name": "Utbah ibn Abu Lahab",
+    "description": "Cousin and Companion of Muhammad",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q12179474",
+    "name": "Arwa bint al-Harith",
+    "description": "cousin of the prophet Muhammad",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q12179732",
+    "name": "Aslam ibn al-Harith",
+    "description": "",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q12203213",
+    "name": "Tammam ibn Abbas",
+    "description": "",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q12211560",
+    "name": "Durrah bint Abu Lahab",
+    "description": "",
+    "dob": "http://www.wikidata.org/.well-known/genid/1e0e069c54f18d1d88bd454c24e81bad",
+    "dod": "0640-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q12224330",
+    "name": "Utaybah bin Abu Lahab",
+    "description": "Muhammed's son in law",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q12232298",
+    "name": "Kusam ibn Abbas",
+    "description": "arabischer Staatsmann, Prediger",
+    "dob": "0624-01-01T00:00:00Z",
+    "dod": "0677-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q12251915",
+    "name": "Yala ibn Hamza",
+    "description": "",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q12259906",
+    "name": "Talib ibn Abi Talib",
+    "description": "Gefährte und Cousin des islamischen Propheten Mohammed",
+    "dob": "0571-01-01T00:00:00Z",
+    "dod": "0624-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q16127345",
+    "name": "Mutaib bin Abu Lahab",
+    "description": "",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q20413467",
+    "name": "Abd-Allah ibn az-Zubayr al-Mutallibi",
+    "description": "",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q20423669",
+    "name": "Ma'bad ibn Abbas",
+    "description": "",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q21932180",
+    "name": "Rayta bint Abi Talib",
+    "description": "companion and cousin of prophet Muhammad",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q24940054",
+    "name": "Umama bint Hamza",
+    "description": "companion (sahabi) and cousin of Muhammad",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q28716204",
+    "name": "Nawfal ibn al-Harith",
+    "description": "",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q67135803",
+    "name": "Kathir ibn Abbas",
+    "description": "",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q89829446",
+    "name": "Umm Kulthum bint Abbas",
+    "description": "",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q96790051",
+    "name": "Asma bint Abi Talib",
+    "description": "",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q98109049",
+    "name": "Abd al-Rahman ibn al-Abbas",
+    "description": "",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q98109062",
+    "name": "Umayma bint Abbas",
+    "description": "",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q99668989",
+    "name": "Awn ibn Abbas",
+    "description": "",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q101429557",
+    "name": "Umm Habib bint Abbas",
+    "description": "Cousin of Muhammad",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q101638060",
+    "name": "Ṣafīyah bint al-Zubayr",
+    "description": "",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q104029490",
+    "name": "Azza bint Abi-làhab",
+    "description": "",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q104029491",
+    "name": "Khalida bint Abi Lahab",
+    "description": "",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q104300567",
+    "name": "Al-Mughira ibn al-Harith",
+    "description": "",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q106847674",
+    "name": "Abd Allah ibn al-Harith ibn Abd al-Muttalib",
+    "description": "",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q107002705",
+    "name": "Hind bint al-Harith",
+    "description": "",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q108644558",
+    "name": "Arwa bint Almuqawim",
+    "description": "Sahabiya and cousin of the Islamic prophet Muhammad",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q59706",
+    "name": "Jabir ibn Abd-Allah",
+    "description": "Companion of Muhammad",
+    "dob": "0607-01-01T00:00:00Z",
+    "dod": "0696-01-01T00:00:00Z",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/IMG%D8%AC%D8%A7%D8%A8%D8%B1%20%D8%A8%D9%86%20%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D9%84%D9%87%20%D8%A7%D9%84%D8%A7%D9%86%D8%B5%D8%A7%D8%B1%D9%8A%202631.png",
+    "occupations": ""
+  },
+  {
+    "id": "Q76330",
+    "name": "Anas ibn Malik",
+    "description": "Gefährte und Diener des Propheten Mohammed",
+    "dob": "0611-01-01T00:00:00Z",
+    "dod": "0713-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q112128",
+    "name": "al-Ḥusain ibn ʿAlī",
+    "description": "dritter Imam der Schiiten",
+    "dob": "0626-01-12T00:00:00Z",
+    "dod": "0680-10-13T00:00:00Z",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Chester%20Beatty%20T%20414%20fol%20125v%20Husayn%20ibn%20Ali.jpg",
+    "occupations": ""
+  },
+  {
+    "id": "Q180123",
+    "name": "Fatima bint Mohammed",
+    "description": "Tochter von Mohammed und Chadīdscha",
+    "dob": "0604-07-30T00:00:00Z",
+    "dod": "0632-12-17T00:00:00Z",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Paris%2C%20BnF%2C%20Suppl%C3%A9ment%20Persan%201030%20fol.%20467v%20cropped%20Fatima.jpg",
+    "occupations": ""
+  },
+  {
+    "id": "Q207016",
+    "name": "Ziyad ibn Ali",
+    "description": "arabischer Statthalter im Irak",
+    "dob": "0623-01-01T00:00:00Z",
+    "dod": "0673-08-23T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q263779",
+    "name": "Māriya al-Qibtīya",
+    "description": "christliche Sklavin und Konkubine des Religionsstifters Mohammed",
+    "dob": "http://www.wikidata.org/.well-known/genid/4466dba72383de0783b4ee0420b93c60",
+    "dod": "0637-02-16T00:00:00Z",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%D9%85%D8%A7%D8%B1%D9%8A%D8%A7%20%D8%A7%D9%84%D9%82%D8%A8%D8%B7%D9%8A%D8%A9%20%28%D8%AA%D8%AE%D8%B7%D9%8A%D8%B7%29.png",
+    "occupations": ""
+  },
+  {
+    "id": "Q287317",
+    "name": "Al-Arqam ibn Abī l-Arqam",
+    "description": "arabischer Kaufmann, einer der ersten Muslime",
+    "dob": "0590-01-01T00:00:00Z",
+    "dod": "0673-01-01T00:00:00Z",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/3%20%D8%A7%D9%84%D8%A7%D8%B1%D9%82%D9%85%20%D8%A8%D9%86%20%D8%A7%D8%A8%D9%8A%20%D8%A7%D9%84%D8%A7%D8%B1%D9%82%D9%85.png",
+    "occupations": ""
+  },
+  {
+    "id": "Q293500",
+    "name": "Al-Hasan al-Basrī",
+    "description": "islamischer Rechtsgelehrter und Koranexeget",
+    "dob": "0642-01-01T00:00:00Z",
+    "dod": "0728-01-01T00:00:00Z",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%D8%A7%D9%84%D8%AD%D8%B3%D9%86%20%D8%A7%D9%84%D8%A8%D8%B5%D8%B1%D9%8A.png",
+    "occupations": ""
+  },
+  {
+    "id": "Q293538",
+    "name": "Al-Abbas ibn Ali",
+    "description": "Halbbruder des Husain ibn Ali, schiitischer Märtyrer",
+    "dob": "0647-05-18T00:00:00Z",
+    "dod": "0680-10-13T00:00:00Z",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Abbas%20ibn%20Ali.png",
+    "occupations": ""
+  },
+  {
+    "id": "Q293599",
+    "name": "Al-ʿAbbās ibn ʿAbd al-Muttalib",
+    "description": "Onkel des Propheten Muhammad",
+    "dob": "0568-01-01T00:00:00Z",
+    "dod": "0653-02-18T00:00:00Z",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Le%20Miracle%20des%20abeilles%20-%20Siyar-i-Nabi%20-%20Turkey%20-%201595%20ca%20-%20Louvre%20-%20MAO%20927.jpg",
+    "occupations": ""
+  },
+  {
+    "id": "Q332786",
+    "name": "Hudhayfah al-Bariqi",
+    "description": "7th-century companion of Muhammad and governor of Oman",
+    "dob": null,
+    "dod": "0632-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q334923",
+    "name": "Abū Bakr",
+    "description": "erster der vier rechtgeleiteten Kalifen, der Nachfolger Mohammeds nach Auffassung der Sunniten",
+    "dob": "0573-10-29T00:00:00Z",
+    "dod": "0634-08-23T00:00:00Z",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Rashidun%20Caliph%20Abu%20Bakr%20as-%C8%98idd%C4%ABq%20%28Abdullah%20ibn%20Abi%20Quhafa%29%20-%20%D8%A3%D8%A8%D9%88%20%D8%A8%D9%83%D8%B1%20%D8%A7%D9%84%D8%B5%D8%AF%D9%8A%D9%82%20%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D9%84%D9%87%20%D8%A8%D9%86%20%D8%B9%D8%AB%D9%85%D8%A7%D9%86%20%D8%A7%D9%84%D8%AA%D9%8A%D9%85%D9%8A%20%D8%A7%D9%84%D9%82%D8%B1%D8%B4%D9%8A%20%D8%A3%D9%88%D9%84%20%D8%A7%D9%84%D8%AE%D9%84%D9%81%D8%A7%D8%A1%20%D8%A7%D9%84%D8%B1%D8%A7%D8%B4%D8%AF%D9%8A%D9%86.svg",
+    "occupations": ""
+  },
+  {
+    "id": "Q32991",
+    "name": "Muhammad ibn al-Qasim",
+    "description": "Feldherr unter den Umayyaden",
+    "dob": "0696-01-03T00:00:00Z",
+    "dod": "0715-07-22T00:00:00Z",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Umayyad%20Caliphate%20coinage%20temp%20Suleiman%20ibn%20Abd%20al-Malik%20al-Hind%20%28possibly%20Multan%29%20mint.%20Dated%20AH%2097%20%28AD%20715-6%29.jpg",
+    "occupations": ""
+  },
+  {
+    "id": "Q51884",
+    "name": "Johannes von Damaskus",
+    "description": "orthodoxer christlicher Kirchenvater",
+    "dob": "0675-01-01T00:00:00Z",
+    "dod": "0749-12-08T00:00:00Z",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ioann%20Damaskin%20ikona.jpg",
+    "occupations": ""
+  },
+  {
+    "id": "Q112465",
+    "name": "Nafi' al-Madani",
+    "description": "one of the transmitters of the seven canonical Qira'at (689–785)",
+    "dob": "0689-01-01T00:00:00Z",
+    "dod": "0785-01-01T00:00:00Z",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%D9%86%D8%A7%D9%81%D8%B9%20%D8%A7%D9%84%D9%85%D8%AF%D9%86%D9%8A.png",
+    "occupations": ""
+  },
+  {
+    "id": "Q115039",
+    "name": "Nafi Mawla ibn Umar",
+    "description": "faqih and muhaddith",
+    "dob": null,
+    "dod": "0735-01-01T00:00:00Z",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%D8%A3%D8%A8%D9%88%20%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D9%84%D9%87%20%D9%86%D8%A7%D9%81%D8%B9%20%D8%A7%D9%84%D9%85%D8%AF%D9%86%D9%8A.png",
+    "occupations": ""
+  },
+  {
+    "id": "Q128307",
+    "name": "al-Walid II.",
+    "description": "Kalif der Umayyaden",
+    "dob": "0700-01-01T00:00:00Z",
+    "dod": "0744-01-01T00:00:00Z",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Umayyad%20fresco%20of%20Prince%20%28future%20caliph%29%20Walid%20bin%20Yazid.jpg",
+    "occupations": ""
+  },
+  {
+    "id": "Q128332",
+    "name": "Hischam",
+    "description": "zehnter Kalif der Umayyaden, 691-743, reg. 724–743.",
+    "dob": "0691-01-01T00:00:00Z",
+    "dod": "0743-02-10T00:00:00Z",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bust%20of%20the%20standing%20caliph%20statue%20.png",
+    "occupations": ""
+  },
+  {
+    "id": "Q128371",
+    "name": "Marwan II.",
+    "description": "vierzehnter Kalif der Umayyaden (745–750)",
+    "dob": "0688-01-01T00:00:00Z",
+    "dod": "0750-08-10T00:00:00Z",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dirham%20of%20Marwan%20II%20ibn%20Muhammad%2C%20AH%20127-132.jpg",
+    "occupations": ""
+  },
+  {
+    "id": "Q128413",
+    "name": "Yazid III.",
+    "description": "Kalif der Umayyaden",
+    "dob": "0701-01-01T00:00:00Z",
+    "dod": "0744-09-29T00:00:00Z",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dihrem%20of%20Yazid%20III%20ibn%20al-Walid%2C%20AH%20126.jpg",
+    "occupations": ""
+  },
+  {
+    "id": "Q128416",
+    "name": "Ibrahim",
+    "description": "Kalif der Umayyaden",
+    "dob": null,
+    "dod": "0750-02-02T00:00:00Z",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dihrem%20of%20Ibrahim%20ibn%20al-Walid.jpg",
+    "occupations": ""
+  },
+  {
+    "id": "Q144287",
+    "name": "Zaid ibn ʿAlī",
+    "description": "letzter von allen Zaiditen anerkannter Imam",
+    "dob": "0695-01-01T00:00:00Z",
+    "dod": "0740-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q169533",
+    "name": "Meesam Tammar",
+    "description": "Early Islamic scholar (d. 680)",
+    "dob": "0650-01-01T00:00:00Z",
+    "dod": "0679-01-01T00:00:00Z",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Maytham%20tammar%20shrine.jpg",
+    "occupations": ""
+  },
+  {
+    "id": "Q181154",
+    "name": "Muʿāwiya I.",
+    "description": "erster Kalif der Umayyaden und Begründer dieser Dynastie, 603-680, reg. 661-680",
+    "dob": "0603-01-01T00:00:00Z",
+    "dod": "0680-01-01T00:00:00Z",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Umar%20Farrukh%27s%20Mu%CA%BF%C4%81wiyah%20takes%20to%20the%20sea.png",
+    "occupations": ""
+  },
+  {
+    "id": "Q217442",
+    "name": "Yazid I.",
+    "description": "zweiter Kalif der Umayyaden (680−683)",
+    "dob": "0646-01-01T00:00:00Z",
+    "dod": "0683-11-14T00:00:00Z",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Arab-Sasanian%20coin%20issued%20by%20Yazid%20I%20ibn%20Mu%27awiya%20in%20the%20year%20of%20the%20Battle%20of%20Karbala.jpg",
+    "occupations": ""
+  },
+  {
+    "id": "Q220228",
+    "name": "Abd ar-Rahman",
+    "description": "maurischer Militärführer",
+    "dob": "0650-01-01T00:00:00Z",
+    "dod": "0732-10-11T00:00:00Z",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Le%20combat%20de%20Charles%20Martel%20et%20d%27Abdherame%2C%20roi%20des%20Sarrazins%20%28Louvre%2C%20ENT%201991-11%29.jpg",
+    "occupations": ""
+  },
+  {
+    "id": "Q228203",
+    "name": "Zufar ibn al-Hudhail",
+    "description": "islamischer Religionsgelehrter",
+    "dob": "0728-01-01T00:00:00Z",
+    "dod": "0774-01-01T00:00:00Z",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%D8%B2%D9%81%D8%B1%20%D8%A8%D9%86%20%D8%A7%D9%84%D9%87%D8%B0%D9%8A%D9%84.png",
+    "occupations": ""
+  },
+  {
+    "id": "Q230497",
+    "name": "Tariq ibn Ziyad",
+    "description": "muslimischer Eroberer des Westgotenreichs",
+    "dob": "0670-01-01T00:00:00Z",
+    "dod": "0720-01-01T00:00:00Z",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tarik%20ibn%20Ziyad%20-.jpg",
+    "occupations": ""
+  },
+  {
+    "id": "Q256506",
+    "name": "Rābiʿa al-ʿAdawiyya al-Qaysiyya",
+    "description": "islamische Mystikerin",
+    "dob": "0710-01-01T00:00:00Z",
+    "dod": "0801-01-01T00:00:00Z",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Rabia%20al-Adawiyya.jpg",
+    "occupations": ""
+  },
+  {
+    "id": "Q284003",
+    "name": "Al-Walid I.",
+    "description": "Kalif der Umayyaden",
+    "dob": "0668-01-01T00:00:00Z",
+    "dod": "0715-02-27T00:00:00Z",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gold%20dinar%20of%20al-Walid%20707-708%20CE.jpg",
+    "occupations": ""
+  },
+  {
+    "id": "Q284233",
+    "name": "Sulaiman ibn Abd al-Malik",
+    "description": "Kalif der Umayyaden",
+    "dob": "0675-01-01T00:00:00Z",
+    "dod": "0717-09-28T00:00:00Z",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gold%20dinar%20of%20Sulayman%20ibn%20Abd%20al-Malik%2C%20715-716.jpg",
+    "occupations": ""
+  },
+  {
+    "id": "Q286280",
+    "name": "As-Samh ibn Malik al-Chawlani",
+    "description": "arabischer Statthalter von al-Andalus",
+    "dob": "0700-01-01T00:00:00Z",
+    "dod": "0721-06-10T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q286370",
+    "name": "Al-Hurr ibn Abd ar-Rahman",
+    "description": "Statthalter von Andalusien",
+    "dob": "0700-01-01T00:00:00Z",
+    "dod": "0800-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q287761",
+    "name": "Al-Muqannaʿ",
+    "description": "Anführer eines antiarabischen und antiislamischen Aufstandes in Sogdien",
+    "dob": "0701-01-01T00:00:00Z",
+    "dod": "0783-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q293460",
+    "name": "Al-Haddschādsch ibn Yūsuf",
+    "description": "umayyadischer Statthalter im Irak (694–714)",
+    "dob": "0661-06-04T00:00:00Z",
+    "dod": "0714-06-05T00:00:00Z",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%D8%A7%D9%84%D8%AD%D8%AC%D8%A7%D8%AC%20%D8%A8%D9%86%20%D9%8A%D9%88%D8%B3%D9%81%20%D8%A7%D9%84%D8%AB%D9%82%D9%81%D9%8A.png",
+    "occupations": ""
+  },
+  {
+    "id": "Q335170",
+    "name": "Abū Mūsā al-Aschʿarī",
+    "description": "Gefährte von Mohammed",
+    "dob": "0602-01-01T00:00:00Z",
+    "dod": "0665-01-01T00:00:00Z",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%D8%A3%D8%A8%D9%88%20%D9%85%D9%88%D8%B3%D9%89%20%D8%A7%D9%84%D8%A3%D8%B4%D8%B9%D8%B1%D9%8A.png",
+    "occupations": ""
+  },
+  {
+    "id": "Q380184",
+    "name": "Saʿd ibn Abī Waqqās",
+    "description": "Wegbegleiter von Mohammed",
+    "dob": "0595-01-01T00:00:00Z",
+    "dod": "0674-01-01T00:00:00Z",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%D8%B3%D8%B9%D8%AF%20%D8%A8%D9%86%20%D8%A3%D8%A8%D9%8A%20%D9%88%D9%82%D8%A7%D8%B5.png",
+    "occupations": ""
+  },
+  {
+    "id": "Q423557",
+    "name": "ʿAbd Allāh ibn Masʿūd",
+    "description": "Gefährte des Propheten Mohammed und einer der ersten Muslime",
+    "dob": "0594-01-01T00:00:00Z",
+    "dod": "0653-01-01T00:00:00Z",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D9%84%D9%87%20%D8%A8%D9%86%20%D9%85%D8%B3%D8%B9%D9%88%D8%AF.png",
+    "occupations": ""
+  },
+  {
+    "id": "Q481430",
+    "name": "Abu Mìhgian",
+    "description": "Arab poet and soldier (died c. 637)",
+    "dob": null,
+    "dod": "0638-01-01T00:00:00Z",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%D8%A3%D8%A8%D9%88%20%D9%85%D8%AD%D8%AC%D9%86%20%D8%A7%D9%84%D8%AB%D9%82%D9%81%D9%8A.jpg",
+    "occupations": ""
+  },
+  {
+    "id": "Q557378",
+    "name": "Salman der Perser",
+    "description": "Prophetengefährte Mohammeds",
+    "dob": "0568-01-01T00:00:00Z",
+    "dod": "0657-01-01T00:00:00Z",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Salman%20the%20Persian%20and%20his%20religious%20instructor.jpg",
+    "occupations": ""
+  },
+  {
+    "id": "Q560136",
+    "name": "Abu 'Ubayd ibn Mas'ud al-Thaqafi",
+    "description": "Rashidun commander in Persia (died 634)",
+    "dob": "0600-01-01T00:00:00Z",
+    "dod": "0634-10-25T00:00:00Z",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%D8%A3%D8%A8%D9%88%20%D8%B9%D8%A8%D9%8A%D8%AF%20%D8%A7%D9%84%D8%AB%D9%82%D9%81%D9%8A.jpg",
+    "occupations": ""
+  },
+  {
+    "id": "Q565317",
+    "name": "Ukasha ibn al-Mihsan",
+    "description": "companion of Muhammad",
+    "dob": null,
+    "dod": "0633-01-01T00:00:00Z",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%D8%B9%D9%83%D8%A7%D8%B4%D8%A9%20%D8%A8%D9%86%20%D9%85%D8%AD%D8%B5%D9%86.png",
+    "occupations": ""
+  },
+  {
+    "id": "Q565522",
+    "name": "ʿIkrima ibn Abī Dschahl",
+    "description": "mekkanischer Militärführer, 7. Jahrhundert",
+    "dob": "0598-01-01T00:00:00Z",
+    "dod": "0636-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q618360",
+    "name": "Umar ibn Sa'ad",
+    "description": "Arab governor",
+    "dob": "0620-01-01T00:00:00Z",
+    "dod": "0686-08-01T00:00:00Z",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Omar%20bin%20Saad.jpg",
+    "occupations": ""
+  },
+  {
+    "id": "Q712890",
+    "name": "Mudschāhid ibn Dschabr",
+    "description": "mekkanischer Koranexeget",
+    "dob": "0642-01-01T00:00:00Z",
+    "dod": "0722-01-01T00:00:00Z",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%D9%85%D8%AC%D8%A7%D9%87%D8%AF%20%D8%A8%D9%86%20%D8%AC%D8%A8%D8%B1.png",
+    "occupations": ""
+  },
+  {
+    "id": "Q747731",
+    "name": "Abū ʿUbaida ibn al-Dscharrāh",
+    "description": "Gefährte Mohammeds (Sahaba)",
+    "dob": "0583-01-01T00:00:00Z",
+    "dod": "0639-01-01T00:00:00Z",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%D8%AA%D8%AE%D8%B7%D9%8A%D8%B7%20%D8%A7%D8%B3%D9%85%20%D8%A3%D8%A8%D9%88%20%D8%B9%D8%A8%D9%8A%D8%AF%D8%A9%20%D8%A8%D9%86%20%D8%A7%D9%84%D8%AC%D8%B1%D8%A7%D8%AD.png",
+    "occupations": ""
+  },
+  {
+    "id": "Q1050354",
+    "name": "Al-Muthanna ibn Haritha",
+    "description": "7th-century Muslim Arab general",
+    "dob": "0700-01-01T00:00:00Z",
+    "dod": "0635-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q1050575",
+    "name": "Mughira ibn Shu'ba",
+    "description": "Companion of the Islamic prophet Muhammad",
+    "dob": "0600-01-01T00:00:00Z",
+    "dod": "0671-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q1108425",
+    "name": "Muhammad ibn Maslamah",
+    "description": "Sahabah",
+    "dob": "0589-01-01T00:00:00Z",
+    "dod": "0666-01-01T00:00:00Z",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%D9%85%D8%AD%D9%85%D8%AF%20%D8%A8%D9%86%20%D9%85%D8%B3%D9%84%D9%85%D8%A9.png",
+    "occupations": ""
+  },
+  {
+    "id": "Q1108678",
+    "name": "Malik ibn al-Harith",
+    "description": "Arab military commander (died 658)",
+    "dob": "0585-01-01T00:00:00Z",
+    "dod": "0658-01-01T00:00:00Z",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Malik%20al-Ashtar.png",
+    "occupations": ""
+  },
+  {
+    "id": "Q1108692",
+    "name": "Abu Dujana",
+    "description": "Gefährte des Islamischen Propheten Muhammed",
+    "dob": "http://www.wikidata.org/.well-known/genid/f692a4ce6435377cafbf144b194f3cb7",
+    "dod": "0634-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q1110653",
+    "name": "Ammar ibn Yasir",
+    "description": "Companion of the Islamic prophet Muhammad (died 657)",
+    "dob": "0570-01-01T00:00:00Z",
+    "dod": "0657-07-22T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q1111042",
+    "name": "Usama ibn Zayd",
+    "description": "early Muslim",
+    "dob": "0615-01-01T00:00:00Z",
+    "dod": "0678-01-01T00:00:00Z",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Usama%20ibn%20Zayd%20Masjid%20an-Nabawi%20Calligraphy.svg",
+    "occupations": ""
+  },
+  {
+    "id": "Q1111158",
+    "name": "Abd Allah ibn Umm Maktum",
+    "description": "Gefährte des Propheten Muhammed",
+    "dob": "http://www.wikidata.org/.well-known/genid/d1638f8df1a50d4497295897d3ed9fbf",
+    "dod": "0636-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q1112728",
+    "name": "Miqdad ibn Aswad",
+    "description": "Companion (Sahaba) of Muhammad (died c. 652 CE)",
+    "dob": "0590-01-01T00:00:00Z",
+    "dod": "0652-01-01T00:00:00Z",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%D8%A7%D9%84%D9%85%D9%82%D8%AF%D8%A7%D8%AF%20%D8%A8%D9%86%20%D8%B9%D9%85%D8%B1%D9%88.png",
+    "occupations": ""
+  },
+  {
+    "id": "Q1112739",
+    "name": "Abu Darda",
+    "description": "Prophetengefährte Mohammeds",
+    "dob": "0586-01-01T00:00:00Z",
+    "dod": "0653-01-01T00:00:00Z",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Abi%20Al-Daardaa.JPG",
+    "occupations": ""
+  },
+  {
+    "id": "Q1112754",
+    "name": "Muhammad ibn Abi Bakr",
+    "description": "Muslim general (631-658)",
+    "dob": "0631-01-01T00:00:00Z",
+    "dod": "0658-01-01T00:00:00Z",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%D9%85%D8%AD%D9%85%D8%AF%20%D8%A8%D9%86%20%D8%A3%D8%A8%D9%8A%20%D8%A8%D9%83%D8%B1.png",
+    "occupations": ""
+  },
+  {
+    "id": "Q1112978",
+    "name": "Abdullah ibn Ja'far",
+    "description": "Gefährte des Islamischen Propheten Muhammed",
+    "dob": "0622-01-01T00:00:00Z",
+    "dod": "0700-01-01T00:00:00Z",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D9%84%D9%87%20%D8%A8%D9%86%20%D8%AC%D8%B9%D9%81%D8%B1%20%D8%A8%D9%86%20%D8%A3%D8%A8%D9%8A%20%D8%B7%D8%A7%D9%84%D8%A8.png",
+    "occupations": ""
+  },
+  {
+    "id": "Q1112992",
+    "name": "Suhaib ar-Rūmī",
+    "description": "Prophetengefährte",
+    "dob": "0587-01-01T00:00:00Z",
+    "dod": "0659-03-04T00:00:00Z",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Suhayb%20ibn%20Sinan%20ar-Rumi%20Masjid%20an-Nabawi%20Calligraphy.svg",
+    "occupations": ""
+  },
+  {
+    "id": "Q1113013",
+    "name": "Khuzaima ibn Thabit",
+    "description": "Companion of Muhammad",
+    "dob": null,
+    "dod": "0657-07-01T00:00:00Z",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Khuzayma%20ibn%20Thabit.png",
+    "occupations": ""
+  },
+  {
+    "id": "Q1145034",
+    "name": "Lubaba bint al-Harith",
+    "description": "Companion of Muhammad (died c. 593-650)",
+    "dob": "0593-01-01T00:00:00Z",
+    "dod": "0655-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q1145312",
+    "name": "Uqbah ibn Amir",
+    "description": "Companion of Muhammad",
+    "dob": null,
+    "dod": "0678-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q1145321",
+    "name": "Utbah ibn Ghazwan",
+    "description": "Muslim general and Sahabah",
+    "dob": "0584-01-01T00:00:00Z",
+    "dod": "0638-01-01T00:00:00Z",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%D8%B9%D8%AA%D8%A8%D8%A9%20%D8%A8%D9%86%20%D8%BA%D8%B2%D9%88%D8%A7%D9%86.jpg",
+    "occupations": ""
+  },
+  {
+    "id": "Q1145327",
+    "name": "Fayruz al-Daylami",
+    "description": "Sahaba of Muhammad",
+    "dob": null,
+    "dod": "0673-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q1145757",
+    "name": "Saeed bin Zaid",
+    "description": "Gefährte von Mohammed und einer der zehn Paradiesgefährten",
+    "dob": "0593-01-01T00:00:00Z",
+    "dod": "0671-01-01T00:00:00Z",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Said%20ibn%20Zayd%20Masjid%20an-Nabawi%20Calligraphy.svg",
+    "occupations": ""
+  },
+  {
+    "id": "Q1147464",
+    "name": "Muadh ibn Jabal",
+    "description": "7th-century companion (Sahabi) of Muhammad",
+    "dob": "0600-01-01T00:00:00Z",
+    "dod": "0638-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q1147560",
+    "name": "Chabbāb ibn al-Aratt",
+    "description": "ehemaliger Sklave, einer der ersten Anhänger Mohameds",
+    "dob": "0587-01-01T00:00:00Z",
+    "dod": "0658-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q1370750",
+    "name": "Saʿd ibn ʿUbāda ibn Dulaim",
+    "description": "Anführer des arabischen Stammes der Banu Chazradsch",
+    "dob": "0580-01-01T00:00:00Z",
+    "dod": "0635-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q1393228",
+    "name": "Uwais al-Qaranī",
+    "description": "Zeitgenosse des Propheten Muhammad und erster Sufi",
+    "dob": "0594-01-01T00:00:00Z",
+    "dod": "0657-03-31T00:00:00Z",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Owais%20Al%20Qarni%20Arabic%20Calligraphy.png",
+    "occupations": ""
+  },
+  {
+    "id": "Q1440361",
+    "name": "Suhayl ibn Amr",
+    "description": "Meccan Quraysh leader (c. 556 – 639)",
+    "dob": "0556-01-01T00:00:00Z",
+    "dod": "0639-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q1647771",
+    "name": "ʿAbd ar-Rahmān ibn ʿAuf",
+    "description": "Anhänger des Propheten Mohammed, Händler",
+    "dob": "0571-01-01T00:00:00Z",
+    "dod": "0652-01-01T00:00:00Z",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Abdurrahman%20ibn%20Awf%20Masjid%20an-Nabawi%20Calligraphy.svg",
+    "occupations": ""
+  },
+  {
+    "id": "Q1656017",
+    "name": "Tulayha",
+    "description": "arabischer Clanchef und Militärbefehlshaber",
+    "dob": "http://www.wikidata.org/.well-known/genid/915de2857db06b633544a8533e30f7f7",
+    "dod": "0642-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q2046261",
+    "name": "Abdullah ibn Umar",
+    "description": "Sohn des zweiten Kalifen ʿUmar ibn al-Chattāb",
+    "dob": "0610-01-01T00:00:00Z",
+    "dod": "0693-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q2056226",
+    "name": "Al-Harith ibn Kalada",
+    "description": "Arzt und Bekannter des Propheten Mohammed",
+    "dob": "1000-01-01T00:00:00Z",
+    "dod": "0635-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q2444841",
+    "name": "Asmā' bint Abī Bakr",
+    "description": "Tochter des ersten Kalifen Abū Bakr as-Siddīq ibn Abī Quhāfa",
+    "dob": "0595-01-01T00:00:00Z",
+    "dod": "0692-11-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q298577",
+    "name": "Marwan I.",
+    "description": "Kalif der Umayyaden (reg. 684-685)",
+    "dob": "0623-03-31T00:00:00Z",
+    "dod": "0685-05-10T00:00:00Z",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%D9%85%D8%B1%D9%88%D8%A7%D9%86%20%D8%A8%D9%86%20%D8%A7%D9%84%D8%AD%D9%83%D9%85.png",
+    "occupations": ""
+  },
+  {
+    "id": "Q307133",
+    "name": "Abd al-Aziz",
+    "description": "Statthalter des Umayyaden-Reiches",
+    "dob": "0685-01-01T00:00:00Z",
+    "dod": "0716-03-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q307643",
+    "name": "ʿAbd Allāh ibn Ibād",
+    "description": "Gründer der Ibaditen",
+    "dob": "0700-01-01T00:00:00Z",
+    "dod": "0708-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q311153",
+    "name": "Muhammad al-Bāqir",
+    "description": "fünfter Imam der Imamiten und Zaiditen",
+    "dob": "0677-05-11T00:00:00Z",
+    "dod": "0733-01-30T00:00:00Z",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Qasim%20Ali%20kupci.jpg",
+    "occupations": ""
+  },
+  {
+    "id": "Q314791",
+    "name": "Yazid II.",
+    "description": "neunter Kalif der Umayyaden",
+    "dob": "0687-01-01T00:00:00Z",
+    "dod": "0724-02-01T00:00:00Z",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pashiz%20of%20Yazid%20II%2C%20722-723%20AD.jpg",
+    "occupations": ""
+  },
+  {
+    "id": "Q314978",
+    "name": "ʿAlī ibn Husain Zain al-ʿĀbidīn",
+    "description": "Urenkel des Propheten Mohammed",
+    "dob": "0659-01-09T00:00:00Z",
+    "dod": "0713-10-25T00:00:00Z",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/London%2C%20Oriental%2012009%2C%20fol.%20269v%20Hadikat%20us-suada%20Zeynulabidin%20preaching%20in%20defence%20of%20Huseyin.jpg",
+    "occupations": ""
+  },
+  {
+    "id": "Q423774",
+    "name": "ʿUrwa ibn az-Zubair",
+    "description": "Traditionarier und Historiograph der Frühzeit des Islams",
+    "dob": "0644-01-01T00:00:00Z",
+    "dod": "0713-01-01T00:00:00Z",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/1%D8%B9%D8%B1%D9%88%D8%A9%20%D8%A8%D9%86%20%D8%A7%D9%84%D8%B2%D8%A8%D9%8A%D8%B1.png",
+    "occupations": ""
+  },
+  {
+    "id": "Q439374",
+    "name": "Wahb ibn Munabbih",
+    "description": "südarabischer Erzähler und Überlieferer von Isra'iliyat",
+    "dob": "0655-01-01T00:00:00Z",
+    "dod": "0728-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q488799",
+    "name": "Anbasa ibn Suhaym al-Kalbi",
+    "description": "moslemischer Statthalter von Al-Andalus",
+    "dob": "0699-01-01T00:00:00Z",
+    "dod": "0725-12-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q533216",
+    "name": "Muhammad an-Nafs az-Zakīya",
+    "description": "Alidischer Aufständischer (gest. 762)",
+    "dob": "0690-01-01T00:00:00Z",
+    "dod": "0762-12-06T00:00:00Z",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Muhammad%20al-Nafs%20al-Zakiyya.png",
+    "occupations": ""
+  },
+  {
+    "id": "Q575430",
+    "name": "Qasim ibn Hasan",
+    "description": "Sohn von al-Hasan ibn Ali und Umm Farwa, Märtyrer von Kerbala",
+    "dob": "0667-01-01T00:00:00Z",
+    "dod": "0680-10-13T00:00:00Z",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%D8%A7%D9%84%D9%82%D8%A7%D8%B3%D9%85%20%D8%A8%D9%86%20%D8%A7%D9%84%D8%AD%D8%B3%D9%86%20%D8%A8%D9%86%20%D8%B9%D9%84%D9%8A%20%D8%A8%D9%86%20%D8%A3%D8%A8%D9%8A%20%D8%B7%D8%A7%D9%84%D8%A8%20%D8%A7%D9%84%D8%B9%D9%84%D9%88%D9%8A%20%D8%A7%D9%84%D9%87%D8%A7%D8%B4%D9%85%D9%8A%20%D8%A7%D9%84%D9%82%D8%B1%D8%B4%D9%8A%20%28%D8%B1%D8%AD%D9%85%D9%87%20%D8%A7%D9%84%D9%84%D9%87%29.png",
+    "occupations": ""
+  },
+  {
+    "id": "Q591558",
+    "name": "Al-Farazdaq",
+    "description": "arabischer Dichter",
+    "dob": "0640-01-01T00:00:00Z",
+    "dod": "0728-01-01T00:00:00Z",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%D8%A7%D9%84%D9%81%D8%B1%D8%B2%D8%AF%D9%82.png",
+    "occupations": ""
+  },
+  {
+    "id": "Q912031",
+    "name": "Djarir ibn Atija",
+    "description": "arabischer Dichter",
+    "dob": "0650-01-01T00:00:00Z",
+    "dod": "0728-01-01T00:00:00Z",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jarir.jpg",
+    "occupations": ""
+  },
+  {
+    "id": "Q958303",
+    "name": "Yusuf ibn Abd ar-Rahman al-Fihri",
+    "description": "umayyadischer Statthalter von Narbonne in Septimania und moslemischer Statthalter von Al-Andalus",
+    "dob": "0711-01-01T00:00:00Z",
+    "dod": "0759-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q983510",
+    "name": "Dschahm ibn Safwān",
+    "description": "islamischer Theologe",
+    "dob": "0696-01-01T00:00:00Z",
+    "dod": "0745-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q1058694",
+    "name": "Umar ibn Abi Rabia",
+    "description": "arabischer Dichter",
+    "dob": "0644-01-01T00:00:00Z",
+    "dod": "0712-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q1060637",
+    "name": "ʿAbdallāh Ibn-al-Muqaffaʿ",
+    "description": "persischer Autor und Übersetzer",
+    "dob": "0724-01-01T00:00:00Z",
+    "dod": "0840-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q1107753",
+    "name": "Abdullah ibn al-Husain",
+    "description": "Sohn des dritten schiitischen Imams al-Husain ibn ʿAlī",
+    "dob": "0680-04-17T00:00:00Z",
+    "dod": "0680-10-13T00:00:00Z",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ali-asghar.png",
+    "occupations": ""
+  },
+  {
+    "id": "Q1134534",
+    "name": "Abu l-Hattar al Husam ibn Darar al-Kalbi",
+    "description": "umayyadischer und moslemischer Statthalter von Al-Andalus",
+    "dob": null,
+    "dod": "0745-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q1370548",
+    "name": "Nasr ibn Saiyār",
+    "description": "arabischer Statthalter in Chorassan",
+    "dob": "0663-01-01T00:00:00Z",
+    "dod": "0748-12-09T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q1408063",
+    "name": "Tarif ibn Malik",
+    "description": "Heerführer der Berber im 8. Jahrhundert",
+    "dob": "0650-01-01T00:00:00Z",
+    "dod": "http://www.wikidata.org/.well-known/genid/60d30892c2446d1dde18c01657a7395d",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q1767524",
+    "name": "Ḥassān ibn an-Nuʿmān",
+    "description": "arabischer Statthalter in Ifriqiya",
+    "dob": "0700-01-01T00:00:00Z",
+    "dod": "0705-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q1842675",
+    "name": "Sa'id ibn Jubayr",
+    "description": "Iraqi Imam",
+    "dob": "0665-01-01T00:00:00Z",
+    "dod": "0714-01-01T00:00:00Z",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Seal%20of%20Sa%E2%80%98%C4%ABd%20bin%20Jubayr%20%D9%84%D9%88%D8%AD%D8%A9%20%D8%B3%D8%B9%D9%8A%D8%AF%20%D8%A8%D9%86%20%D8%AC%D8%A8%D9%8A%D8%B1.png",
+    "occupations": ""
+  },
+  {
+    "id": "Q4134278",
+    "name": "Abd-ar-Rahman ibn Samura",
+    "description": "7th-century general of the Rashidun caliphate",
+    "dob": null,
+    "dod": "0670-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q4165460",
+    "name": "Aban bin Uthman bin Affan",
+    "description": "Muslim historian",
+    "dob": "0641-01-01T00:00:00Z",
+    "dod": "0723-01-01T00:00:00Z",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Aban%20ibn%20Uthman%20ibn%20Affan%20%28A.S.%29.png",
+    "occupations": ""
+  },
+  {
+    "id": "Q4646815",
+    "name": "Aischa bint Talha",
+    "description": "frühislamische Gelehrtin",
+    "dob": "0700-01-01T00:00:00Z",
+    "dod": "0800-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q4670407",
+    "name": "Abu Umamah al Bahili",
+    "description": "Sahabah",
+    "dob": "0620-01-01T00:00:00Z",
+    "dod": "0705-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q4703043",
+    "name": "Al-Qa'qa ibn Amr",
+    "description": "Islamic military commander",
+    "dob": null,
+    "dod": "http://www.wikidata.org/.well-known/genid/d22024ee6e585498cc25132a6db59a3d",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%D8%A7%D9%84%D9%82%D8%B9%D9%82%D8%A7%D8%B9%20%D8%A8%D9%86%20%D8%B9%D9%85%D8%B1%D9%88%20%D8%A7%D9%84%D8%AA%D9%85%D9%8A%D9%85%D9%8A.jpg",
+    "occupations": ""
+  },
+  {
+    "id": "Q4730963",
+    "name": "Aischa bint Abi Bakr",
+    "description": "Lieblingsfrau von Mohammed und Tochter des späteren Kalifen Abu Bakr",
+    "dob": "0614-01-01T00:00:00Z",
+    "dod": "0678-07-16T00:00:00Z",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/New%20York%20Public%20Library%2C%20Spencer%20Collection%20Turk.%20MS.%203%20Siyar-i%20Nab%C3%AE%20fol.%20115r%20Khawlah%20bint%20Hakim%20asks%20Muhammad%20to%20marry%20Aisha.jpg",
+    "occupations": ""
+  },
+  {
+    "id": "Q5951105",
+    "name": "Sa'id ibn al-'As",
+    "description": "Muslim military leader and governor (died 678/679)",
+    "dob": "0623-01-01T00:00:00Z",
+    "dod": "0679-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q6036774",
+    "name": "Usayd ibn Hudayr",
+    "description": "companion of Muhammad",
+    "dob": null,
+    "dod": "0641-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q6406400",
+    "name": "Obaidullah bin Omar bin al-Khattab",
+    "description": "Son of second Caliph Umar",
+    "dob": null,
+    "dod": "0657-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q2840135",
+    "name": "Alqama ibn Qays",
+    "description": "Founder of the Islamic school of Kufa (died c.682)",
+    "dob": "0591-01-01T00:00:00Z",
+    "dod": "0681-01-01T00:00:00Z",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Algamah1.png",
+    "occupations": ""
+  },
+  {
+    "id": "Q3023493",
+    "name": "Husayn ibn Numayr al-Sakuni",
+    "description": "Umayyad Caliphate general (died 686)",
+    "dob": "0700-01-01T00:00:00Z",
+    "dod": "0686-08-09T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q11925094",
+    "name": "Hababah",
+    "description": "slave singer and poet of Umayyad period",
+    "dob": "0750-01-01T00:00:00Z",
+    "dod": "0724-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q16126534",
+    "name": "Tariq ibn Amr",
+    "description": "7th century Umayyad commander and governor",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q16127176",
+    "name": "Malik ibn Hubayra al-Sakuni",
+    "description": "",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q28716156",
+    "name": "Abu al-Hindi",
+    "description": "poet",
+    "dob": null,
+    "dod": "0668-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q28716167",
+    "name": "Sudayf ibn Isma'il ibn Maymun",
+    "description": "",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q28716170",
+    "name": "Abu Nukhayla al-Rajiz",
+    "description": "Iraqi Arabic poet",
+    "dob": null,
+    "dod": "0762-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q2477222",
+    "name": "ʿAbdallāh ibn Sabaʾ",
+    "description": "Begründer einer schiitischen Sekte",
+    "dob": "0700-01-01T00:00:00Z",
+    "dod": "0700-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q2620027",
+    "name": "Ibn Sirin",
+    "description": "griechischer Traumdeuter, angeblicher Verfasser eines byzantinischen Traumbuchs (Oneirokritikon)",
+    "dob": "0653-01-01T00:00:00Z",
+    "dod": "0729-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q2680795",
+    "name": "Abu Sa‘id al-Khudri",
+    "description": "Sahaba",
+    "dob": "0612-01-01T00:00:00Z",
+    "dod": "0693-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q2716088",
+    "name": "Grigor I. Mamikonjan",
+    "description": "armenischer Fürst",
+    "dob": "0650-01-01T00:00:00Z",
+    "dod": "0685-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q2736757",
+    "name": "Abbad ibn Bishr",
+    "description": "Gefährte des Islamischen Propheten Muhammed",
+    "dob": "0589-01-01T00:00:00Z",
+    "dod": "0632-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q2739346",
+    "name": "Asma bint Umays",
+    "description": "Gefährtin des Islamischen Propheten Mohammed",
+    "dob": null,
+    "dod": "0660-01-01T00:00:00Z",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%D8%A3%D8%B3%D9%85%D8%A7%D8%A1%20%D8%A8%D9%86%D8%AA%20%D8%B9%D9%85%D9%8A%D8%B3.jpg",
+    "occupations": ""
+  },
+  {
+    "id": "Q2743400",
+    "name": "Ubaiy ibn Kaʿb",
+    "description": "islamischer Theologe",
+    "dob": "0600-01-01T00:00:00Z",
+    "dod": "0649-01-01T00:00:00Z",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ubayy%20ibn%20Ka%27b%20Masjid%20an-Nabawi%20Calligraphy.svg",
+    "occupations": ""
+  },
+  {
+    "id": "Q3777163",
+    "name": "Hormuzan",
+    "description": "Sasanian general",
+    "dob": "0600-01-01T00:00:00Z",
+    "dod": "0644-01-01T00:00:00Z",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tarikhuna%20bi-uslub%20qasasi-Hormuzan%20brought%20before%20Umar.jpg",
+    "occupations": ""
+  },
+  {
+    "id": "Q4116087",
+    "name": "Kaʿb al-Ahbār",
+    "description": "jemenitischer Jude",
+    "dob": "0600-01-01T00:00:00Z",
+    "dod": "0650-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q4119164",
+    "name": "Sulaym ibn Qays",
+    "description": "7th-century purported author of a Shi'i hadith collection",
+    "dob": "0620-01-01T00:00:00Z",
+    "dod": "0705-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q4120472",
+    "name": "Al-Baraʼ ibn ʽAzib",
+    "description": "Gefährte von Mohammed, Hadith-Überlieferer",
+    "dob": "0600-01-01T00:00:00Z",
+    "dod": "0690-01-01T00:00:00Z",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%D8%A7%D9%84%D8%A8%D8%B1%D8%A7%D8%A1%20%D8%A8%D9%86%20%D8%B9%D8%A7%D8%B2%D8%A8.png",
+    "occupations": ""
+  },
+  {
+    "id": "Q34408",
+    "name": "ʿAbd Allāh ibn ʿAbd al-Muttalib",
+    "description": "Vater Mohammeds",
+    "dob": "0545-01-01T00:00:00Z",
+    "dod": "0570-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q297913",
+    "name": "Abū Tālib ibn ʿAbd al-Muttalib",
+    "description": "Onkel des Propheten Mohammed und dessen Schutzherr in Mekka",
+    "dob": "0540-01-01T00:00:00Z",
+    "dod": "0619-01-01T00:00:00Z",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/New%20York%20Public%20Library%2C%20Spencer%20Collection%20Turk.%20MS.%203%20Siyar-i%20Nab%C3%AE%20fol.%2064v%20Muhammad%20tries%20to%20convert%20Abu%20Talib%20to%20Islam%20on%20his%20deathbed.jpg",
+    "occupations": ""
+  },
+  {
+    "id": "Q302272",
+    "name": "Harith ibn ‘Abd al-Muttalib",
+    "description": "uncle of Muhammad",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q337012",
+    "name": "Abū Lahab",
+    "description": "Widersacher des Propheten Muhammad",
+    "dob": "0549-01-01T00:00:00Z",
+    "dod": "0624-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q770033",
+    "name": "Hamza ibn Abdul-Muttalib",
+    "description": "Gefährte und Onkel väterlicherseits von Mohammed",
+    "dob": "0568-01-01T00:00:00Z",
+    "dod": "0625-03-22T00:00:00Z",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hamza%20Bin%20Abd%20Al-Mottalib%20Name.png",
+    "occupations": ""
+  },
+  {
+    "id": "Q1110668",
+    "name": "Fatimah bint Asad",
+    "description": "Person um Mohammed",
+    "dob": "0568-01-01T00:00:00Z",
+    "dod": "0625-01-01T00:00:00Z",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bibi%20Fatimah%20bint%20Asad%20%28A.S.%29.png",
+    "occupations": ""
+  },
+  {
+    "id": "Q2740828",
+    "name": "Safiyyah bint ‘Abd al-Muttalib",
+    "description": "Sahaba",
+    "dob": "0570-01-01T00:00:00Z",
+    "dod": "0640-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q4831972",
+    "name": "Az-Zubayr ibn ‘Abd al-Muttalib",
+    "description": "Uncle of Muhammad",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q5669725",
+    "name": "Arwa bint Abdul Muttalib",
+    "description": "poet and aunt of Muhammad",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q6704992",
+    "name": "Barrah bint Abdul Muttalib",
+    "description": "aunt of Muhammad, regarded as the final prophet of Islam",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q12184761",
+    "name": "Umm Hakim bint Abdul Muttalib",
+    "description": "aunt of Muhammad",
+    "dob": "0540-01-01T00:00:00Z",
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q16127608",
+    "name": "Abu Muhammad al-Sufyani",
+    "description": "Umayyad prince and a pretender to the Umayyad Caliphate (died c.754)",
+    "dob": null,
+    "dod": "0754-01-01T00:00:00Z",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Age-of-caliphs-xtra-space.png",
+    "occupations": ""
+  },
+  {
+    "id": "Q16127645",
+    "name": "Ziyad ibn Ubaydallah al-Harthi",
+    "description": "abbasid governor of Medina and Mecca (750–758)",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q16206809",
+    "name": "Atika bint Abdul Muttalib",
+    "description": "historical character",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q20390791",
+    "name": "Umama bint Abdulmuttalib",
+    "description": "paternal aunt of Muhammad",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q21279779",
+    "name": "Al-Muqawwim ibn Abdul-muttalib",
+    "description": "Uncle of the Prophet Mohammad",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q21279780",
+    "name": "Hajl ibn Abdul Muttalib",
+    "description": "",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q21279782",
+    "name": "Dirar ibn Abd al-Muttalib",
+    "description": "",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q21279783",
+    "name": "Quthum ibn Abdul-Muttalib",
+    "description": "",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q27859405",
+    "name": "Al-Ghaydaq ibn Abdulmuttalib",
+    "description": "",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q16122378",
+    "name": "Umm Salama bint Ya'qub al-Makhzumi",
+    "description": "wife of Abbasid caliph Abul-‘Abbas as-Saffah",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q16122660",
+    "name": "Shabīb ibn albrṣāʼ",
+    "description": "",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q16124038",
+    "name": "Imran ibn Hittan",
+    "description": "Iraqi poet",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q16126490",
+    "name": "Ibn Zabala",
+    "description": "Qureshi Arab historian",
+    "dob": null,
+    "dod": "0814-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q3787409",
+    "name": "Hudhayfa ibn al-Ahwas al-Qaysi",
+    "description": "governor of al-Andalus in 728",
+    "dob": "0699-01-01T00:00:00Z",
+    "dod": "0728-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q3791575",
+    "name": "Ibn Shihab al-Zuhri",
+    "description": "Islamischer Traditionarier",
+    "dob": "0670-01-01T00:00:00Z",
+    "dod": "0742-01-01T00:00:00Z",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%D8%A7%D8%A8%D9%86%20%D8%B4%D9%87%D8%A7%D8%A8%20%D8%A7%D9%84%D8%B2%D9%87%D8%B1%D9%8A.png",
+    "occupations": ""
+  },
+  {
+    "id": "Q3806816",
+    "name": "Jamil ibn Ma'mar",
+    "description": "Autor der klassischen arabischen Liebeslyrik",
+    "dob": "0655-01-01T00:00:00Z",
+    "dod": "0701-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q3818668",
+    "name": "Ubayd Allah ibn al-Habhab",
+    "description": "Egyptian Umayyad official",
+    "dob": null,
+    "dod": "0799-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q3827910",
+    "name": "Ibrahim al-Imam",
+    "description": "8th-century leader of the Abbasid family",
+    "dob": "0701-01-01T00:00:00Z",
+    "dod": "0749-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q3866934",
+    "name": "Muhammad ibn Abd Allah al-Ashja'i",
+    "description": "",
+    "dob": "0750-01-01T00:00:00Z",
+    "dod": "http://www.wikidata.org/.well-known/genid/7f58027ebc3c0972e7f51e187b5ed31a",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q4002584",
+    "name": "Udhra ibn Abd Allah al-Fihri",
+    "description": "",
+    "dob": "0699-01-01T00:00:00Z",
+    "dod": "0726-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q4006280",
+    "name": "Uqba ibn al-Hajjaj",
+    "description": "",
+    "dob": null,
+    "dod": "0741-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q4006763",
+    "name": "Uthman ibn Abi Nis'a al-Khath'ami",
+    "description": "",
+    "dob": "0699-01-01T00:00:00Z",
+    "dod": "0729-01-01T00:00:00Z",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%D8%B9%D8%AB%D9%85%D8%A7%D9%86%20%D8%A8%D9%86%20%D8%A3%D8%A8%D9%8A%20%D9%86%D8%B3%D8%B9%D8%A9.png",
+    "occupations": ""
+  },
+  {
+    "id": "Q4022381",
+    "name": "Yahya ibn Salama al-Kalbi",
+    "description": "Umayyad general",
+    "dob": "0699-01-01T00:00:00Z",
+    "dod": "0799-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q4115052",
+    "name": "Ali Akbar ibn Hussain",
+    "description": "Sohn von Iman al-Ḥusain ibn ʿAlī und Umm Layla",
+    "dob": "0654-03-09T00:00:00Z",
+    "dod": "0680-10-13T00:00:00Z",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%28%D8%A3%D8%A8%D9%8A%20%D8%A7%D9%84%D8%AD%D8%B3%D9%86%20%D8%B9%D9%84%D9%8A%20%D8%A8%D9%86%20%D8%A7%D9%84%D8%AD%D8%B3%D9%8A%D9%86%20%D8%A8%D9%86%20%D8%B9%D9%84%D9%8A%20%D8%A8%D9%86%20%D8%A3%D8%A8%D9%8A%20%D8%B7%D8%A7%D9%84%D8%A8%20%D8%A7%D9%84%D9%87%D8%A7%D8%B4%D9%85%D9%8A%20%D8%A7%D9%84%D9%82%D8%B1%D8%B4%D9%8A%20%28%D8%B1%D8%AD%D9%85%D9%87%20%D8%A7%D9%84%D9%84%D9%87.png",
+    "occupations": ""
+  },
+  {
+    "id": "Q4118309",
+    "name": "Habib ibn Muzahir",
+    "description": "Gefährte vom islamischen Propheten Muhammad",
+    "dob": "0605-01-01T00:00:00Z",
+    "dod": "0680-10-10T00:00:00Z",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hazrat%20Habib%20ibn%20Mudhair%20%28A.S.%29%20Calligraphy.png",
+    "occupations": ""
+  },
+  {
+    "id": "Q4118802",
+    "name": "Abu al-Muhajir Dinar",
+    "description": "Umayyad governor",
+    "dob": "0650-01-01T00:00:00Z",
+    "dod": "0683-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q4120134",
+    "name": "Waddah al-Yaman",
+    "description": "Umayyad poet",
+    "dob": "0601-01-01T00:00:00Z",
+    "dod": "0708-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q4165518",
+    "name": "Chalid ibn Yazid",
+    "description": "Sohn von Yazid I., des Kalifen von Damaskus",
+    "dob": "0655-01-01T00:00:00Z",
+    "dod": "0704-01-01T00:00:00Z",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%D8%AE%D8%A7%D9%84%D8%AF%20%D8%A8%D9%86%20%D8%A7%D9%84%D8%AE%D9%84%D9%8A%D9%81%D8%A9%20%D9%8A%D8%B2%D9%8A%D8%AF%20%D8%A8%D9%86%20%D9%85%D8%B9%D8%A7%D9%88%D9%8A%D8%A9%20%D8%A8%D9%86%20%D8%A3%D8%A8%D9%8A%20%D8%B3%D9%81%D9%8A%D8%A7%D9%86%20%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D9%85%20%D8%A7%D9%84%D8%A8%D8%A7%D8%B1%D8%B9%20%D8%A3%D8%A8%D9%88%20%D9%87%D8%A7%D8%B4%D9%85%20%D8%A7%D9%84%D9%82%D8%B1%D8%B4%D9%8A%20%D8%A7%D9%84%D8%A3%D9%85%D9%88%D9%8A%20%D8%A7%D9%84%D8%AF%D9%85%D8%B4%D9%82%D9%8A%20%D8%A3%D8%AE%D9%88%20%D8%A7%D9%84%D8%AE%D9%84%D9%8A%D9%81%D8%A9%20%D9%85%D8%B9%D8%A7%D9%88%D9%8A%D8%A9%20%D9%88%D8%A7%D9%84%D9%81%D9%82%D9%8A%D9%87%20%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%B1%D8%AD%D9%85%D9%86.png",
+    "occupations": ""
+  },
+  {
+    "id": "Q4403505",
+    "name": "Thabit al-Bunani",
+    "description": "",
+    "dob": "0700-01-01T00:00:00Z",
+    "dod": "0745-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q4664522",
+    "name": "Abd-Allah ibn Muhammad ibn al-Hanafiyyah",
+    "description": "Alid religious leader (died c.716)",
+    "dob": "0650-01-01T00:00:00Z",
+    "dod": "0713-01-01T00:00:00Z",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Abu%20Hashim.png",
+    "occupations": ""
+  },
+  {
+    "id": "Q4664589",
+    "name": "Abd al-Rahman ibn Habib al-Fihri",
+    "description": "Arab ruler of Ifriqiya (North Africa) from 745 to 755",
+    "dob": null,
+    "dod": "0755-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q4664689",
+    "name": "Abdallah ibn Abd al-Malik",
+    "description": "Umayyaden-Prinz und arabischer Feldherr",
+    "dob": "0677-01-01T00:00:00Z",
+    "dod": "0750-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q4664690",
+    "name": "Abdallah ibn Khazim",
+    "description": "Umayyad Provincial governor (died 692)",
+    "dob": null,
+    "dod": "0692-01-01T00:00:00Z",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Umayyad%20Caliphate.%20temp.%20Mu%27awiya%20II%20ibn%20Yazid.%20AH%2064%20AD%20683-684.jpg",
+    "occupations": ""
+  },
+  {
+    "id": "Q4664693",
+    "name": "Abdallah ibn Qais",
+    "description": "Umayyad general",
+    "dob": "0601-01-01T00:00:00Z",
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q4666114",
+    "name": "Abdullah ibn Muawiya",
+    "description": "Alid leader of a rebellion against the Umayyads (died c.747)",
+    "dob": null,
+    "dod": "0747-01-01T00:00:00Z",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dirham%20of%20Abd%20Allah%20ibn%20Mu%27awiya.jpg",
+    "occupations": ""
+  },
+  {
+    "id": "Q4667509",
+    "name": "Abi Bakr ibn Hasan",
+    "description": "Soldier in the Battle of Karbala (died 680 CE)",
+    "dob": "0647-01-01T00:00:00Z",
+    "dod": "0680-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q4670027",
+    "name": "Abū-ʿAmr Ibn-al-ʿAlāʾ",
+    "description": "8th-century Qur'anic Scholar and Arab linguist",
+    "dob": "0684-01-01T00:00:00Z",
+    "dod": "0771-01-01T00:00:00Z",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%D8%A3%D8%A8%D9%88%20%D8%B9%D9%85%D8%B1%D9%88%20%D8%A7%D9%84%D8%A8%D8%B5%D8%B1%D9%8A.png",
+    "occupations": ""
+  },
+  {
+    "id": "Q4702144",
+    "name": "Al-Abbas ibn al-Walid",
+    "description": "arabischer Feldherr",
+    "dob": "0601-01-01T00:00:00Z",
+    "dod": "0749-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q4702928",
+    "name": "Mufaḍḍal ibn Muḥammad al-Ḍabbī",
+    "description": "Iraqi poet",
+    "dob": "0718-01-01T00:00:00Z",
+    "dod": "0794-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q4897304",
+    "name": "Muhammad ibn Marwan",
+    "description": "ummayadischer Emir (arabischer General)",
+    "dob": "0650-01-01T00:00:00Z",
+    "dod": "0701-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q5288301",
+    "name": "Hani ibn Urwa",
+    "description": "Iraqi Kufa leader",
+    "dob": null,
+    "dod": "0680-01-01T00:00:00Z",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kufa%20Mosque.jpg",
+    "occupations": ""
+  },
+  {
+    "id": "Q5636805",
+    "name": "Habib ibn Abi Ubayda al-Fihri",
+    "description": "Arab military commander (died 741)",
+    "dob": "0650-01-01T00:00:00Z",
+    "dod": "0741-10-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q5647413",
+    "name": "Hanzala ibn Safwan al-Kalbi",
+    "description": "Umayyad governor of Egypt from 721 to 724 and again 737 to 742",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q5666131",
+    "name": "Nafi ibn al-Azraq",
+    "description": "Kharijite Leader",
+    "dob": "0601-01-01T00:00:00Z",
+    "dod": "0685-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q5670300",
+    "name": "Abdullah ibn Ali ibn Abi Talib",
+    "description": "Son of Ali ibn Abi Talib and Umm al-Banin (died 680)",
+    "dob": "0647-01-01T00:00:00Z",
+    "dod": "0680-10-13T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q5671436",
+    "name": "Ibn ʻĀmir al-Shāmī",
+    "description": "qari",
+    "dob": null,
+    "dod": "0736-01-01T00:00:00Z",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%D8%A7%D8%A8%D9%86%20%D8%B9%D8%A7%D9%85%D8%B1%20%D8%A7%D9%84%D8%B4%D8%A7%D9%85%D9%8A.png",
+    "occupations": ""
+  },
+  {
+    "id": "Q5686263",
+    "name": "Uthman ibn Ali",
+    "description": "Son of ʿAlī ibn Abī Ṭālib (died 680)",
+    "dob": "0647-01-01T00:00:00Z",
+    "dod": "0680-10-13T00:00:00Z",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%D9%85%D8%AE%D8%B7%D9%88%D8%B7%D8%A9%20%D8%B9%D8%AB%D9%85%D8%A7%D9%86%20%D8%A8%D9%86%20%D8%B9%D9%84%D9%8A%20%D9%85%D9%84%D8%AD%D9%82%D8%A9%20%D8%A8%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D9%85%20%D8%B9%D9%84%D9%8A%D9%87.png",
+    "occupations": ""
+  },
+  {
+    "id": "Q5709703",
+    "name": "Hamīdah al-Barbariyyah",
+    "description": "",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q5736319",
+    "name": "Soltan Ali ebn-e-Mohammad",
+    "description": "Sohn Muhammad ibn ʿAlī al-Bāqirs",
+    "dob": null,
+    "dod": "0734-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q5773868",
+    "name": "Kumait Ibn Zaid",
+    "description": "Iraqi poet",
+    "dob": "0679-01-01T00:00:00Z",
+    "dod": "0743-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q5924865",
+    "name": "Zurara ibn Ayun",
+    "description": "Shiite narrator and jurist",
+    "dob": "1000-01-01T00:00:00Z",
+    "dod": "0760-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q5940143",
+    "name": "Shabath ibn Rib'i",
+    "description": "",
+    "dob": "0602-01-01T00:00:00Z",
+    "dod": "0690-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q5940162",
+    "name": "Hafs",
+    "description": "primary transmitter of a canonical method of Qur'an recitation (706–796)",
+    "dob": "0709-01-01T00:00:00Z",
+    "dod": "0796-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q5941517",
+    "name": "Ismail ibn Yasar al-Nisai",
+    "description": "Iranian poet",
+    "dob": "0650-01-01T00:00:00Z",
+    "dod": "0748-01-01T00:00:00Z",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nizami%20ad%C4%B1na%20%C6%8Fd%C9%99biyyat%20Muzeyinin%20binas%C4%B1n%C4%B1n%20p%C9%99nc%C9%99r%C9%99sind%C9%99%20%C4%B0smay%C4%B1l%20ibn%20Y%C9%99sar%20r%C9%99smi%20%281%29.JPG",
+    "occupations": ""
+  },
+  {
+    "id": "Q5946784",
+    "name": "Harmala",
+    "description": "Archer of Yazīd's army who killed ʿAbdullāh b. al-Ḥusayn, an infant during the Battle of Karbala and the great-grandchild of Muḥammad",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q5954929",
+    "name": "Yahya ibn Zayd",
+    "description": "son of Zayd ibn Ali",
+    "dob": "0715-01-01T00:00:00Z",
+    "dod": "0743-01-01T00:00:00Z",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%D9%8A%D8%AD%D9%8A%D9%8A%20%D8%A8%D9%86%20%D8%B2%D9%8A%D8%AF.png",
+    "occupations": ""
+  },
+  {
+    "id": "Q5984216",
+    "name": "Ibn Jurayj",
+    "description": "Eighth-century Meccan Islamic scholar",
+    "dob": "0699-01-01T00:00:00Z",
+    "dod": "0767-01-01T00:00:00Z",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ibn%20Jurayj%20%28calligraphic%2C%20transparent%20background%29.png",
+    "occupations": ""
+  },
+  {
+    "id": "Q6001622",
+    "name": "Ilyas ibn Habib al-Fihri",
+    "description": "Emir of Ifriqiya in 755",
+    "dob": null,
+    "dod": "0755-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q6022379",
+    "name": "Habib ibn Maslama",
+    "description": "arabischer Feldherr während der Islamischen Expansion",
+    "dob": "0610-01-01T00:00:00Z",
+    "dod": "0662-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q6084894",
+    "name": "Ismail ibn Ubayd Allah ibn Abi al-Muhajir",
+    "description": "governor of North Africa under the Umayyad Caliphate from 718 to 720",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q6121767",
+    "name": "Jafar ibn Ali",
+    "description": "son of Ali ibn Abi Talib (died 680)",
+    "dob": "0647-01-01T00:00:00Z",
+    "dod": "0680-10-13T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q6399605",
+    "name": "Khalid ibn Abi Habib al-Fihri",
+    "description": "Umayyad general",
+    "dob": null,
+    "dod": "0740-12-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q6414181",
+    "name": "Hassan Al Muthanna",
+    "description": "Islamic scholar and theologian (c. 661–715)",
+    "dob": "0650-05-22T00:00:00Z",
+    "dod": "0716-03-20T00:00:00Z",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%D8%A3%D9%85%D9%8A%D8%B1%20%D8%A7%D9%84%D9%85%D8%A4%D9%85%D9%86%D9%8A%D9%86%20%D8%A3%D8%A8%D9%8A%20%D9%85%D8%AD%D9%85%D8%AF%20%D8%A7%D9%84%D8%AD%D8%B3%D9%86%20%D8%A8%D9%86%20%D8%A7%D9%84%D8%AD%D8%B3%D9%86%20%D8%A8%D9%86%20%D8%B9%D9%84%D9%8A%20%D8%A8%D9%86%20%D8%A3%D8%A8%D9%8A%20%D8%B7%D8%A7%D9%84%D8%A8%20%D8%A7%D9%84%D9%81%D8%A7%D8%B7%D9%85%D9%8A%20%D8%A7%D9%84%D8%B9%D9%84%D9%88%D9%8A%20%D8%A7%D9%84%D9%87%D8%A7%D8%B4%D9%85%D9%8A%20%D8%A7%D9%84%D9%82%D8%B1%D8%B4%D9%8A.png",
+    "occupations": ""
+  },
+  {
+    "id": "Q6443238",
+    "name": "Kulthum ibn Iyad al-Qushayri",
+    "description": "Umayyad governor",
+    "dob": null,
+    "dod": "0741-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q6448423",
+    "name": "Kuṯaiyir ʿAzza",
+    "description": "Arab poet",
+    "dob": "0660-01-01T00:00:00Z",
+    "dod": "0723-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q6505604",
+    "name": "Layla al-Akhyaliyya",
+    "description": "Famous Umayyad Arab poet who was renowned for her poetry, eloquence, strong personality as well as her beauty",
+    "dob": "0700-01-01T00:00:00Z",
+    "dod": "0699-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q6534041",
+    "name": "Yazīd Ibn-aṭ-Ṭaṯrīya",
+    "description": "",
+    "dob": null,
+    "dod": "0744-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q6537923",
+    "name": "Ibn Mayyādah",
+    "description": "",
+    "dob": "0694-01-01T00:00:00Z",
+    "dod": "0766-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q6538437",
+    "name": "Abu Hashim ibn Utba",
+    "description": "",
+    "dob": null,
+    "dod": "0665-01-01T00:00:00Z",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%D8%A3%D8%A8%D9%88%20%D9%87%D8%A7%D8%B4%D9%85%20%D8%A8%D9%86%20%D8%B9%D8%AA%D8%A8%D8%A9%20%D8%A8%D9%86%20%D8%B1%D8%A8%D9%8A%D8%B9%D8%A9.jpg",
+    "occupations": ""
+  },
+  {
+    "id": "Q6646622",
+    "name": "Mu'awiyah ibn Hisham",
+    "description": "Umayyad prince and general (died 737)",
+    "dob": null,
+    "dod": "0761-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q6697436",
+    "name": "Ayman ibn Khuraym",
+    "description": "",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q6737018",
+    "name": "al-Muqniʻ al-Kindī",
+    "description": "Yemeni poet",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q6738246",
+    "name": "Al-Numayri",
+    "description": "",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q6739013",
+    "name": "Al-Walid ibn Rifa'ah al-Fahmi",
+    "description": "governor of Egypt for the Umayyad caliphate from 727 to 735 CE",
+    "dob": "0689-01-01T00:00:00Z",
+    "dod": "0735-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q6744009",
+    "name": "Bishr ibn Safwan al-Kalbi",
+    "description": "umayyad Provincial governor in 720s",
+    "dob": null,
+    "dod": "0727-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q6808451",
+    "name": "Salih ibn Muslim",
+    "description": "",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q6943009",
+    "name": "Muslim ibn Aqeel",
+    "description": "Son of Aqil ibn Abi Talib and cousin of Husain ibn Ali (died 680)",
+    "dob": "0632-01-01T00:00:00Z",
+    "dod": "0680-09-10T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q6957308",
+    "name": "Ibrāhīm Ibn-Yazīd an- Naẖaʿī",
+    "description": "kufischer Rechtsgelehrter (gest. 714)",
+    "dob": "0668-01-01T00:00:00Z",
+    "dod": "0714-01-01T00:00:00Z",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%D8%A5%D8%A8%D8%B1%D8%A7%D9%87%D9%8A%D9%85%20%D8%A7%D9%84%D9%86%D8%AE%D8%B9%D9%8A.png",
+    "occupations": ""
+  },
+  {
+    "id": "Q7267020",
+    "name": "Qasim ibn al-Abbas",
+    "description": "son of Abbas ibn Ali",
+    "dob": "0661-01-01T00:00:00Z",
+    "dod": "0680-10-13T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q7395439",
+    "name": "Sa'id ibn Aws al-Ansari",
+    "description": "Linguist and a reputable narrator of hadith",
+    "dob": "0730-01-01T00:00:00Z",
+    "dod": "0830-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q7689344",
+    "name": "Tawus ibn Kaysan",
+    "description": "Tabi'in hadith narrator (died 723)",
+    "dob": "0634-01-01T00:00:00Z",
+    "dod": "0724-01-01T00:00:00Z",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%D8%B7%D8%A7%D9%88%D9%88%D8%B3%20%D8%A8%D9%86%20%D9%83%D9%8A%D8%B3%D8%A7%D9%86.png",
+    "occupations": ""
+  },
+  {
+    "id": "Q7857151",
+    "name": "Thuwaba ibn Salama al-Judhami",
+    "description": "Umayyad governor of al-Andalus from 745 to 746",
+    "dob": null,
+    "dod": "http://www.wikidata.org/.well-known/genid/cd245459f33b273dc7e9aa1140584be3",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q8050615",
+    "name": "Yazid ibn Abi Muslim",
+    "description": "Governor of Ifriqiya",
+    "dob": null,
+    "dod": "0721-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q8183814",
+    "name": "Abd-al-Aziz ibn al-Hajjaj ibn Abd-al-Màlik",
+    "description": "",
+    "dob": "0662-01-01T00:00:00Z",
+    "dod": "0744-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q10854137",
+    "name": "'Asim Koofi",
+    "description": "primary transmitter of the Qira'at (died 745)",
+    "dob": "0700-01-01T00:00:00Z",
+    "dod": "0745-01-01T00:00:00Z",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%D8%B9%D8%A7%D8%B5%D9%85%20%D8%A7%D9%84%D9%83%D9%88%D9%81%D9%8A.png",
+    "occupations": ""
+  },
+  {
+    "id": "Q11843181",
+    "name": "Umar ibn Hubayra",
+    "description": "8th C. Umayyad general and governor of Iraq",
+    "dob": "0601-01-01T00:00:00Z",
+    "dod": "0701-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q11903707",
+    "name": "Abd Allah ibn Umar ibn Abd al-Aziz",
+    "description": "Umayyad prince and governor of Iraq (died 750)",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q11903776",
+    "name": "Abd al-Rahman ibn Alqama al-Lakhmi",
+    "description": "",
+    "dob": null,
+    "dod": "0747-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q11903880",
+    "name": "Abu-Atà as-Sindí",
+    "description": "Iraqi poet",
+    "dob": null,
+    "dod": "0776-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q11903886",
+    "name": "Abū-Dahbal al-Ǧumaḥī",
+    "description": "arabic poet",
+    "dob": null,
+    "dod": "0682-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q11904583",
+    "name": "Al-Abbàs ibn Muhàmmad",
+    "description": "",
+    "dob": "0739-01-01T00:00:00Z",
+    "dod": "0802-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q11906859",
+    "name": "Al-Sumayl ibn Hatim",
+    "description": "",
+    "dob": "0690-01-01T00:00:00Z",
+    "dod": "0759-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q11908846",
+    "name": "Bayan ibn Saman al-Tamimi",
+    "description": "8th-century claimant of Islamic prophethood",
+    "dob": "0700-01-01T00:00:00Z",
+    "dod": "0737-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q11909481",
+    "name": "Bishr ibn al-Walid",
+    "description": "Umayyad prince and general",
+    "dob": "http://www.wikidata.org/.well-known/genid/d3bd3b80e2d7e4e578740de3d622716a",
+    "dod": "http://www.wikidata.org/.well-known/genid/7e53c4525a1d5d3321c02ea9d0534bd8",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q11917497",
+    "name": "Dscha'd ibn Dirham",
+    "description": "Vertreter der Dschabriten im Islam",
+    "dob": "0666-01-01T00:00:00Z",
+    "dod": "0742-10-18T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q380479",
+    "name": "ʿAbd al-Muttalib ibn Hāschim",
+    "description": "Großvater von Mohammed",
+    "dob": "0497-01-01T00:00:00Z",
+    "dod": "0579-01-01T00:00:00Z",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Siyer-i%20Nebi%20Amina%20shows%20Muhammad%20her%20father-in-law%20Abd%20al-Muttalib.jpg",
+    "occupations": ""
+  },
+  {
+    "id": "Q3820445",
+    "name": "Asad ibn Hashim",
+    "description": "Ancestor of Sahabah",
+    "dob": null,
+    "dod": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Asad%20Bin%20Hashim.png",
+    "occupations": ""
+  },
+  {
+    "id": "Q12177746",
+    "name": "Abu al-Shis Muhammad",
+    "description": "Iraqi poet",
+    "dob": "0747-01-01T00:00:00Z",
+    "dod": "0816-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q12177983",
+    "name": "Abu Dolamah",
+    "description": "Iraqi poet",
+    "dob": "0800-01-01T00:00:00Z",
+    "dod": "0777-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q12178059",
+    "name": "Abū Ṣakhr al-Hudhalī",
+    "description": "",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q12181459",
+    "name": "Ayyub ibn Sharhabil",
+    "description": "governor of Egypt",
+    "dob": "0601-01-01T00:00:00Z",
+    "dod": "0701-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q12183307",
+    "name": "Al-Ahwas",
+    "description": "poet",
+    "dob": "0660-01-01T00:00:00Z",
+    "dod": "0724-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q12186250",
+    "name": "Al-Hurr ibn Yusuf",
+    "description": "umayyad statesman and official",
+    "dob": null,
+    "dod": "0731-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q12187631",
+    "name": "Rāʿī an-Numairī ar-",
+    "description": "",
+    "dob": null,
+    "dod": "0708-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q12189481",
+    "name": "Al-Simma al-Qushayri",
+    "description": "",
+    "dob": null,
+    "dod": "0714-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q12189678",
+    "name": "Tirimmah ibn Hakim",
+    "description": "Arabien poet",
+    "dob": "0700-01-01T00:00:00Z",
+    "dod": "0743-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q12191190",
+    "name": "Quḥayf Al-ʻUqayli",
+    "description": "",
+    "dob": null,
+    "dod": "0747-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q12192258",
+    "name": "al-Mutawakkil al-Kinānī",
+    "description": "",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q12193582",
+    "name": "Al-Mughirah ibn Ubaydallah al-Fazari",
+    "description": "umayyad Governor of Egypt 749 CE",
+    "dob": null,
+    "dod": "0749-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q12198354",
+    "name": "Busr ibn Abi Artat",
+    "description": "7th century Arab military commander",
+    "dob": "0625-01-01T00:00:00Z",
+    "dod": "0700-01-01T00:00:00Z",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Busr%20ibn%20Abi%20Artat.jpg",
+    "occupations": ""
+  },
+  {
+    "id": "Q12203391",
+    "name": "Tawbah ibn al-ḥamīr",
+    "description": "",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q12206191",
+    "name": "Junada ibn Abi Umayya al-Azdi",
+    "description": "",
+    "dob": null,
+    "dod": "0699-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q12212653",
+    "name": "Dhû l-Rumma",
+    "description": "Arab poet",
+    "dob": "0695-01-01T00:00:00Z",
+    "dod": "0735-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q12213858",
+    "name": "Rawh ibn Zinba al-Judhami",
+    "description": "Umayyad governor of Palestine (died 702)",
+    "dob": null,
+    "dod": "0703-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q12214736",
+    "name": "Zuhayr ibn Qays",
+    "description": "Companion of the Islamic prophet Muhammad and Arab military commander (died 688)",
+    "dob": null,
+    "dod": "0695-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q12216109",
+    "name": "Said bin Mundhir al-Qurashi",
+    "description": "",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q12216211",
+    "name": "Sufyan ibn Awf",
+    "description": "arab military commander",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q12216959",
+    "name": "Sinan ibn Anas",
+    "description": "",
+    "dob": "0700-01-01T00:00:00Z",
+    "dod": "0686-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q12218803",
+    "name": "Shẓāẓ al-Ḍabbī",
+    "description": "",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q12222743",
+    "name": "Abd al-Rahman ibn Hassan al-Anazi",
+    "description": "",
+    "dob": null,
+    "dod": "0672-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q12223464",
+    "name": "Ibn al-Dumaynah, ʻAbd Allāh ibn ʻUbayd Allāh",
+    "description": "",
+    "dob": null,
+    "dod": "0747-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q12223565",
+    "name": "Ubayd Allah ibn Qays al-Ruqayyat",
+    "description": "",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q12223828",
+    "name": "Abd al-Malik ibn Umar ibn Marwan",
+    "description": "umayyadischer Prinz, Statthalter von Sevilla",
+    "dob": "0718-01-01T00:00:00Z",
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q12223833",
+    "name": "Abd al-Malik ibn Umayr",
+    "description": "",
+    "dob": "0653-01-01T00:00:00Z",
+    "dod": "0753-01-01T00:00:00Z",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D9%85%D9%84%D9%83%20%D8%A8%D9%86%20%D8%B9%D9%85%D9%8A%D8%B1.png",
+    "occupations": ""
+  },
+  {
+    "id": "Q12224123",
+    "name": "Abd-al-Wahhab ibn Bakht",
+    "description": "",
+    "dob": null,
+    "dod": "0731-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q12224271",
+    "name": "Ubayd Allah ibn al-Hurr al-Ju'fi",
+    "description": "",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q12224321",
+    "name": "Utba ibn Abi Sufyan",
+    "description": "governor of Egypt (664–665)",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q12224536",
+    "name": "ʻAdī ibn al-Riqāʻ",
+    "description": "Arab poet",
+    "dob": "http://www.wikidata.org/.well-known/genid/66f4420b6ca5b3318760ca620e63fcc5",
+    "dod": "0714-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q12224756",
+    "name": "Urwa ibn al-Mughira ibn Shu'ba",
+    "description": "",
+    "dob": null,
+    "dod": "0706-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q12224757",
+    "name": "Urwa ibn Hizam",
+    "description": "",
+    "dob": "http://www.wikidata.org/.well-known/genid/d9088777204e4aec8d4e3b7ed162d4e4",
+    "dod": "0650-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q12224990",
+    "name": "Azza al-Mayla",
+    "description": "Arabian Qiyan-courtesan musician, singer and poet.",
+    "dob": null,
+    "dod": "0705-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q12228501",
+    "name": "Imran ibn Issam ad-Dabí",
+    "description": "",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q12228523",
+    "name": "Al-Ashdaq",
+    "description": "Arab Banu Umayya tribe general (died 689/690)",
+    "dob": null,
+    "dod": "0689-01-01T00:00:00Z",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%D8%B9%D9%85%D8%B1%D9%88%20%D8%A8%D9%86%20%D8%B3%D8%B9%D9%8A%D8%AF%20%D8%A8%D9%86%20%D8%A7%D9%84%D8%B9%D8%A7%D8%B5%20%D8%A8%D9%86%20%D8%A3%D9%85%D9%8A%D8%A9%20%D8%A8%D9%86%20%D8%B9%D8%A8%D8%AF%20%D8%B4%D9%85%D8%B3%20%D8%A7%D9%84%D8%A3%D9%85%D9%88%D9%8A%20%D8%A7%D9%84%D9%82%D8%B1%D8%B4%D9%8A%20%D8%A7%D9%84%D8%B9%D8%A8%D8%B4%D9%85%D9%8A.png",
+    "occupations": ""
+  },
+  {
+    "id": "Q12228623",
+    "name": "Umayr ibn Dabi",
+    "description": "poet",
+    "dob": null,
+    "dod": "0695-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q12229376",
+    "name": "Ghalib ibn Abd Allah al-Laythi",
+    "description": "",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q12229879",
+    "name": "Ghaylan al-Dimsahqi",
+    "description": "",
+    "dob": "0650-01-01T00:00:00Z",
+    "dod": "0719-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q12230162",
+    "name": "Fatima bint Abd al-Malik",
+    "description": "wife of Umayyad caliph Umar ibn Abd al-Aziz",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q12233988",
+    "name": "Qays ibn Dharīḥ",
+    "description": "",
+    "dob": "0625-01-01T00:00:00Z",
+    "dod": "0688-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q12234966",
+    "name": "Ka'b ibn Ju'ayl",
+    "description": "",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q12234970",
+    "name": "Ka'b ibn Ma'dan al-Ashqari",
+    "description": "",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q12237877",
+    "name": "Layla al-Aamiriya",
+    "description": "Arab poet",
+    "dob": "0648-01-04T00:00:00Z",
+    "dod": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Frontispiece%20to%20Laili%20and%20Majnun%2C%20a%20poem%2C%20from%20the%20original%20Persian%20of%20Nazami.jpg",
+    "occupations": ""
+  },
+  {
+    "id": "Q12238330",
+    "name": "Malik Ibn Al-Rayb",
+    "description": "arabischer Dichter",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q12240196",
+    "name": "Muhammad ibn Abd al-Malik ibn Marwan",
+    "description": "Umayyad prince and provincial governor (died 750)",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q12242437",
+    "name": "Muzāḥim al-ʿUqaylī",
+    "description": "",
+    "dob": null,
+    "dod": "0738-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q12242996",
+    "name": "Muslim ibn 'Uqba",
+    "description": "Umayyad Caliphate general (died 683)",
+    "dob": "0622-01-01T00:00:00Z",
+    "dod": "0683-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q12245609",
+    "name": "Mansur ibn Jumhur al-Kalbi",
+    "description": "8th-century Arab commander and provincial governor",
+    "dob": null,
+    "dod": "0751-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q16128190",
+    "name": "Yazid al-Himyari",
+    "description": "arabian poet",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q16159801",
+    "name": "Abu-Bayhas",
+    "description": "",
+    "dob": "0700-01-01T00:00:00Z",
+    "dod": "0713-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q16160245",
+    "name": "Abu Salama al-Khallal",
+    "description": "wesir, Abbasiden-Kalifat",
+    "dob": null,
+    "dod": "0750-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q16199308",
+    "name": "Hafs ibn al-Walid ibn Yusuf al-Hadrami",
+    "description": "governor of Egypt for the Umayyad Caliphate",
+    "dob": null,
+    "dod": "0745-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q16199786",
+    "name": "Ibrahim ibn Asim al-'Uqayli",
+    "description": "Military commander",
+    "dob": null,
+    "dod": "0740-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q16200446",
+    "name": "Khazim ibn Khuzayma al-Tamimi",
+    "description": "Abbasid military leader",
+    "dob": "0708-01-01T00:00:00Z",
+    "dod": "0770-01-01T00:00:00Z",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%D8%AE%D8%A7%D8%B2%D9%85%20%D8%A8%D9%86%20%D8%AE%D8%B2%D9%8A%D9%85%D8%A9%20%D8%A7%D9%84%D8%AA%D9%85%D9%8A%D9%85%D9%8A.png",
+    "occupations": ""
+  },
+  {
+    "id": "Q16693597",
+    "name": "Sa'd ibn Ibrahim al-Zuhri",
+    "description": "",
+    "dob": "0700-01-01T00:00:00Z",
+    "dod": "0742-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q18689544",
+    "name": "Fatima Al-Hasan",
+    "description": "",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q20381278",
+    "name": "Al-Mufaddal ibn al-Muhallab",
+    "description": "umayyad commander and Khurasan governor",
+    "dob": null,
+    "dod": "0720-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q20382337",
+    "name": "Ubayd Allah ibn Ali ibn Abdullah",
+    "description": "",
+    "dob": null,
+    "dod": "0686-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q20382491",
+    "name": "Utba ibn al-Hubab",
+    "description": "",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q20382694",
+    "name": "'Uthman ibn Hayyan al-Murri",
+    "description": "Umayyad governor of Medina",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q20382853",
+    "name": "Sa'id ibn Uthman",
+    "description": "Umayyad general and military governor of Khurasan (died c.680)",
+    "dob": null,
+    "dod": "0680-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q20384073",
+    "name": "Salm ibn Ahwaz",
+    "description": "",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q20384169",
+    "name": "Al-Hakam ibn Amr al-Ghifari",
+    "description": "Companion of Muhammad",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q20384380",
+    "name": "'Adi ibn Artah al-Fazari",
+    "description": "governor of al-Basrah for the Umayyad dynasty",
+    "dob": null,
+    "dod": "0720-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q20387421",
+    "name": "Asma ibn Kharija",
+    "description": "",
+    "dob": "http://www.wikidata.org/.well-known/genid/fdb2c777bdf5e0e6c51b047e2abb4521",
+    "dod": "0686-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q20387925",
+    "name": "A'sha Hamdan",
+    "description": "Kufan poet",
+    "dob": "0700-01-01T00:00:00Z",
+    "dod": "0702-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q20389829",
+    "name": "Afra al-Udhriyya",
+    "description": "",
+    "dob": null,
+    "dod": "0670-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q20390660",
+    "name": "Umayya ibn Abdallah ibn Khalid ibn Asid",
+    "description": "7th-century Umayyad prince and governor of Khurasan",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q20391183",
+    "name": "Hajib ibn Dhubyan",
+    "description": "",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q20392518",
+    "name": "Junayd ibn Abd ar-Rahman al-Murri",
+    "description": "governor of Sindh during the Umayyad Caliphate",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q20398745",
+    "name": "Malik ibn Abd Allah al-Khath'ami",
+    "description": "",
+    "dob": null,
+    "dod": "0680-01-01T00:00:00Z",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%D9%85%D8%A7%D9%84%D9%83%20%D8%A8%D9%86%20%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D9%84%D9%87%20%D8%A8%D9%86%20%D8%B3%D9%86%D8%A7%D9%86%20%D8%A7%D9%84%D8%B4%D9%87%D8%B1%D8%A7%D9%86%D9%8A%20%D8%A7%D9%84%D8%AE%D8%AB%D8%B9%D9%85%D9%8A.jpg",
+    "occupations": ""
+  },
+  {
+    "id": "Q20401496",
+    "name": "Talha ibn Abd Allah al-Khuza'i",
+    "description": "umayyad Military commander and Governor of Sistan (died 684/685)",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q20401718",
+    "name": "Shurahbil ibn Dhi'l-Kala",
+    "description": "",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q20402213",
+    "name": "Khulayd ibn Abd Allah al-Hanafi",
+    "description": "",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q20403921",
+    "name": "Ruʼbah ibn al-ʻAjjāj",
+    "description": "",
+    "dob": "0684-01-01T00:00:00Z",
+    "dod": "0762-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q20404094",
+    "name": "Mujja'a ibn Si'r",
+    "description": "",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q20404351",
+    "name": "Rabi ibn Ziyad al-Harithi",
+    "description": "Mid-7th century Arab military leader",
+    "dob": null,
+    "dod": "0601-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q20409753",
+    "name": "Amir ibn Dubara",
+    "description": "",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q20410186",
+    "name": "Abbad ibn Akhdar",
+    "description": "",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q20411411",
+    "name": "Abd al-Rahman ibn Ziyad",
+    "description": "Umayyad governor of Khurasan in 678/79–681",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q20413635",
+    "name": "Abdallah ibn Sawwar al-Abdi",
+    "description": "",
+    "dob": null,
+    "dod": "0667-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q20413860",
+    "name": "Abd Allah ibn Mas'ada al-Fazari",
+    "description": "",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q20419649",
+    "name": "Umara ibn Tamim al-Lakhmí",
+    "description": "",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q20420081",
+    "name": "Amra bint Nu'man",
+    "description": "",
+    "dob": "0650-01-01T00:00:00Z",
+    "dod": "0686-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q20420092",
+    "name": "Amra Bint Merdas",
+    "description": "Arab poet",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q20420143",
+    "name": "Amr ibn al-Muntafiq",
+    "description": "",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q20421313",
+    "name": "Aslam ibn Zur'a al-Kilabi",
+    "description": "arab chieftain",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q20422707",
+    "name": "Rabi'ah ibn 'Amir ibn Anif al-Darimi al-Tamimi",
+    "description": "",
+    "dob": "http://www.wikidata.org/.well-known/genid/cd930756628e4534344ba3058304c7bd",
+    "dod": "0708-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q20422880",
+    "name": "Muhammad ibn Musa ibn Talha",
+    "description": "",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q20423297",
+    "name": "Misqala ibn Hubayra",
+    "description": "",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q20423812",
+    "name": "Nubata ibn Hanzala al-Kilabi",
+    "description": "",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q20425796",
+    "name": "Hilal ibn Ahwaz",
+    "description": "",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q21208393",
+    "name": "Al-Tirimmah ibn Hakim al-Ta'i",
+    "description": "Arab poet",
+    "dob": "0660-01-01T00:00:00Z",
+    "dod": "0743-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q22685324",
+    "name": "al-Khatim ibn Nuwayra al-Abxamí",
+    "description": "",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q22688778",
+    "name": "'Abd al-Wahid ibn 'Abdallah al-Nasri",
+    "description": "umayyad governor from 723 to 724",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q22688815",
+    "name": "ʻUbayd ibn Ayyūb al-ʻAnbarī",
+    "description": "",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q22689038",
+    "name": "Fadala al-Asadi",
+    "description": "Iraqi poet",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q22690001",
+    "name": "Al-Mutarrif ibn al-Mughira ibn Shu'ba",
+    "description": "",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q22690836",
+    "name": "Yaʻlá al-Aḥwal",
+    "description": "",
+    "dob": null,
+    "dod": "0710-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q22690863",
+    "name": "Yusuf ibn Umar al-Thaqafi",
+    "description": "",
+    "dob": null,
+    "dod": "0745-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q22917037",
+    "name": "Abu'l-Awar",
+    "description": "Arab military commander",
+    "dob": null,
+    "dod": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%D8%A3%D8%A8%D9%88%20%D8%A7%D9%84%D8%A3%D8%B9%D9%88%D8%B1%20%D8%A7%D9%84%D8%B3%D9%84%D9%85%D9%8A.png",
+    "occupations": ""
+  },
+  {
+    "id": "Q22928626",
+    "name": "Al-Walid ibn Urwa al-Sa'di",
+    "description": "",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q22928662",
+    "name": "Hisham ibn Isma'il al-Makhzumi",
+    "description": "Umayyad governor of Medina from 701 to 706",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q22928807",
+    "name": "Ibrahim ibn Hisham ibn Isma'il al-Makhzumi",
+    "description": "",
+    "dob": null,
+    "dod": "0743-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q22929345",
+    "name": "'Abd al-Rahman ibn al-Dahhak ibn Qays al-Fihri",
+    "description": "",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q22931527",
+    "name": "Hawthara ibn Suhayl",
+    "description": "Bedouin Arab administrator and military leader of the Umayyad Caliphate, in Egypt",
+    "dob": null,
+    "dod": "0750-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q22934597",
+    "name": "Abd-Al·lah ibn Mussa ibn Nussayr",
+    "description": "",
+    "dob": null,
+    "dod": "0720-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q22934748",
+    "name": "Naṣīb ibn Rabāḥ",
+    "description": "",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q22935170",
+    "name": "Yusuf ibn Urwa al-Sa'di",
+    "description": "",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q22948935",
+    "name": "Abu al-Ward",
+    "description": "Umayyad governor and cavalry commander (died 750)",
+    "dob": null,
+    "dod": "0750-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q25427986",
+    "name": "Issa ibne Maane",
+    "description": "",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q25449945",
+    "name": "Hudhayl ibn Zufar",
+    "description": "",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q25450288",
+    "name": "Malik ibn Asma",
+    "description": "Iraqi poet",
+    "dob": "0656-01-01T00:00:00Z",
+    "dod": "0708-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q25450625",
+    "name": "Yazid ibn Abi Kabsha al-Saksaki",
+    "description": "umayyad Provincial governor and Commander",
+    "dob": "0601-01-01T00:00:00Z",
+    "dod": "0715-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q25450708",
+    "name": "Al-Husayn ibn al-Dajn",
+    "description": "",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q25451026",
+    "name": "Abbad ibn al-Husayn al-Habati",
+    "description": "",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q25451226",
+    "name": "Aqil ibn Ullafa",
+    "description": "",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q25451233",
+    "name": "Arṭʼh ibn shyh al-Murrī",
+    "description": "",
+    "dob": null,
+    "dod": "0685-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q26763945",
+    "name": "Muhammad ibn Yusuf al-Thaqafi",
+    "description": "8th-century Umayyad provincial governor",
+    "dob": "0601-01-01T00:00:00Z",
+    "dod": "0715-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q27546923",
+    "name": "Al-Haytham ibn 'Adi",
+    "description": "Abbasid Kufan linguist and historian",
+    "dob": "0738-01-01T00:00:00Z",
+    "dod": "0822-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q510433",
+    "name": "Umm Kulthum bint Ali",
+    "description": "Enkelin des Propheten Mohammed",
+    "dob": "0627-01-01T00:00:00Z",
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q784324",
+    "name": "Qasim ibn Muhammad",
+    "description": "son of Muhammad and Khadijah bint Khuwaylid",
+    "dob": "0598-01-01T00:00:00Z",
+    "dod": "0601-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q939884",
+    "name": "Muhammad ibn al-Hanafīya",
+    "description": "Sohn von ʿAlī ibn Abī Tālib",
+    "dob": "0637-01-01T00:00:00Z",
+    "dod": "0700-02-28T00:00:00Z",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%D9%85%D8%AD%D9%85%D8%AF%20%D8%A8%D9%86%20%D8%A7%D9%84%D8%AD%D9%86%D9%81%D9%8A%D8%A9.png",
+    "occupations": ""
+  },
+  {
+    "id": "Q1111208",
+    "name": "Zainab bint Ali",
+    "description": "Tochter von Imam ʿAlī ibn Abī Tālib und Fatima bint Mohammed und die Schwester von Imam Hasan ibn ʿAlī und Imam al-Ḥusain ibn ʿAlī",
+    "dob": "0626-01-01T00:00:00Z",
+    "dod": "0682-01-01T00:00:00Z",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sit-Zaynab-Shrine-Syria.JPG",
+    "occupations": ""
+  },
+  {
+    "id": "Q1164707",
+    "name": "Zainab bint Muhammad",
+    "description": "älteste Tochter von Mohammed",
+    "dob": "0599-01-01T00:00:00Z",
+    "dod": "0629-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q2300129",
+    "name": "Ruqayyah bint Muhammad",
+    "description": "Tochter des Propheten Mohammed",
+    "dob": "0598-01-01T00:00:00Z",
+    "dod": "0624-03-17T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q2401633",
+    "name": "Abd-Allah ibn Muhammad",
+    "description": "one of the sons Muhammad and Khadija",
+    "dob": "0610-01-01T00:00:00Z",
+    "dod": "0615-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q2426845",
+    "name": "Umm Kulthum bint Muhammad",
+    "description": "daughter of the Islamic prophet Muhammad",
+    "dob": "0603-01-01T00:00:00Z",
+    "dod": "0630-12-13T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q3505301",
+    "name": "Ibrahim ibn Muhammad",
+    "description": "Youngest son of the Islamic prophet Muhammad (630–632)",
+    "dob": "0630-04-19T00:00:00Z",
+    "dod": "0632-01-30T00:00:00Z",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%D8%A5%D8%A8%D8%B1%D8%A7%D9%87%D9%8A%D9%85%20%D8%A8%D9%86%20%D9%85%D8%AD%D9%85%D8%AF.png",
+    "occupations": ""
+  },
+  {
+    "id": "Q4165342",
+    "name": "Muhsin ibn Ali",
+    "description": "son of Fatimahۜ bint Muhammadﷺ and علیؑ ibn Abi Talibؑ",
+    "dob": "0632-01-01T00:00:00Z",
+    "dod": "0632-01-01T00:00:00Z",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Muhsin%20Bin%20Ali.png",
+    "occupations": ""
+  },
+  {
+    "id": "Q4830103",
+    "name": "Awn ibn Ja'far",
+    "description": "Companion of Muhammad",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q5777156",
+    "name": "Muhammad ibn Ja'far",
+    "description": "Companion (Sahabi) of Muhammad",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q6405861",
+    "name": "Umar ibn Alí",
+    "description": "Child of Ali ibn Abi Talib",
+    "dob": null,
+    "dod": "0680-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q11905211",
+    "name": "Alí ibn Abd-Al·lah ibn al-Abbàs",
+    "description": "Grandson of al-Abbas ibn Abd al-Muttalib (c.661-c.736)",
+    "dob": "0661-01-01T00:00:00Z",
+    "dod": "0736-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q12186046",
+    "name": "Al-Harith ibn Nawfal",
+    "description": "",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q12205566",
+    "name": "Ja'far ibn Aqil",
+    "description": "son of Aqil ibn Abi Talib",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q12222762",
+    "name": "Abd al-Rahman ibn Aqil",
+    "description": "one of Husayn ibn Ali's companions (died 680)",
+    "dob": null,
+    "dod": "0680-10-13T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q12264773",
+    "name": "Hilal ibn Ali",
+    "description": "son of ʿAlī ibn Abī Ṭālib",
+    "dob": "0635-10-21T00:00:00Z",
+    "dod": "0684-05-22T00:00:00Z",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mohammad%20Helal%20Ali%20%D8%A7%D9%85%D8%A7%D9%85%D8%B2%D8%A7%D8%AF%D9%87%20%D9%87%D9%84%D8%A7%D9%84%20%D8%A7%D8%A8%D9%86%20%D8%B9%D9%84%DB%8C%2005.jpg",
+    "occupations": ""
+  },
+  {
+    "id": "Q13400692",
+    "name": "Ruqayya Mashhad",
+    "description": "daughter of Ali ibn Abi Talib",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q20381119",
+    "name": "Al-Mughira ibn Nawfal",
+    "description": "",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q20383880",
+    "name": "Abu Bakr ibn Ali",
+    "description": "son of Ali ibn Abi Talib",
+    "dob": "0658-01-01T00:00:00Z",
+    "dod": "0680-10-13T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q56063287",
+    "name": "Muhammad al-Asghar ibn Ali",
+    "description": "son of Ali ibn Abi Talib",
+    "dob": null,
+    "dod": "0680-10-13T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q85512339",
+    "name": "Fatima bint Ali",
+    "description": "",
+    "dob": "http://www.wikidata.org/.well-known/genid/694bd2cee00657dce28f295cafa8c1dc",
+    "dod": "http://www.wikidata.org/.well-known/genid/ec24b82482697899e6c0784ba11c191a",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q89829490",
+    "name": "Umamah bint Rabi'ah",
+    "description": "",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q90532142",
+    "name": "Maymouna bint Ali",
+    "description": "",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q92222295",
+    "name": "Khadija bint Ali",
+    "description": "daughter of Ali bin Abi Talib",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q93278653",
+    "name": "Ramla bint Ali",
+    "description": "",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q93278665",
+    "name": "Aoun bin Ali",
+    "description": "",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q93387735",
+    "name": "Umama bint Ali",
+    "description": "daughter of Ali and Fatima (626–682)",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q100261164",
+    "name": "Abdullah Al-Asghar bin Ali",
+    "description": "",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q106840204",
+    "name": "Abd Allah ibn Nawfal",
+    "description": "judge",
+    "dob": null,
+    "dod": "0703-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q108652510",
+    "name": "Abd Allah ibn Aqil",
+    "description": "Companion of Husayn Ibn Ali",
+    "dob": null,
+    "dod": "0680-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q124289206",
+    "name": "Lubaba bint Abd Allah ibn Abbas",
+    "description": "daughter of Abd Allah ibn Abbas",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q135193092",
+    "name": "Yahya ibn Ali ibn Abi Talib",
+    "description": "Son of Ali Ibn Abi Talib",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q2121486",
+    "name": "Qatāda Ibn-Diʿāma",
+    "description": "Koranexeget und Traditionarier mit Wirkungsfeld Basra",
+    "dob": "0680-01-01T00:00:00Z",
+    "dod": "0736-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q2190780",
+    "name": "Balj ibn Bishr al-Qushayri",
+    "description": "Umayyad al-Andalus military commander (died 742)",
+    "dob": null,
+    "dod": "0742-08-11T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q2270021",
+    "name": "Ayyub ibn Habib al-Lakhmi",
+    "description": "Umayyad governor",
+    "dob": "0650-01-01T00:00:00Z",
+    "dod": "0799-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q2276971",
+    "name": "Habib ibn al-Muhallab",
+    "description": "The provincial governor and military commander for the Umayyad dynasty",
+    "dob": "0601-01-01T00:00:00Z",
+    "dod": "0720-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q2303129",
+    "name": "Soraka Ibn Mirdas el Bariki",
+    "description": "arabischer Dichter",
+    "dob": "0700-01-01T00:00:00Z",
+    "dod": "0699-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q2385789",
+    "name": "Al-Achtal",
+    "description": "Arabischer Dichter",
+    "dob": "0640-01-01T00:00:00Z",
+    "dod": "0709-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q2617033",
+    "name": "Qasim ibn Muhammad ibn Abu Bakr",
+    "description": "grandson of Caliph Abu Bakr and transmitter of hadith",
+    "dob": "0660-01-01T00:00:00Z",
+    "dod": "0730-01-01T00:00:00Z",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Qasim%20%28Thuluth%20script%29.png",
+    "occupations": ""
+  },
+  {
+    "id": "Q2665215",
+    "name": "Ibrahim ibn Adham",
+    "description": "asketischer Sufi",
+    "dob": "0718-05-17T00:00:00Z",
+    "dod": "0776-01-01T00:00:00Z",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sultan%20Ibrahim%20ibn%20Adham%20of%20Balkh%20visited%20by%20angels1009%20IP.jpg",
+    "occupations": ""
+  },
+  {
+    "id": "Q2669767",
+    "name": "Bashar ibn Burd",
+    "description": "arabischer Dichter",
+    "dob": "0714-01-01T00:00:00Z",
+    "dod": "0784-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q2695881",
+    "name": "ʿAbdallāh Ibn-Ruʾba al- ʿAǧǧāǧ",
+    "description": "",
+    "dob": "0646-01-01T00:00:00Z",
+    "dod": "0715-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q2749762",
+    "name": "Yazīd ibn al-Muhallab",
+    "description": "arabischer Militärführer",
+    "dob": "0673-01-01T00:00:00Z",
+    "dod": "0720-08-28T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q2781633",
+    "name": "Tha'laba ibn Salama al-Amili",
+    "description": "Arab military commander and governor (died 750)",
+    "dob": null,
+    "dod": "http://www.wikidata.org/.well-known/genid/99312f43522c5534af2edd8a42bfed7e",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q2813852",
+    "name": "Laiṯ Ibn-Saʿd al-",
+    "description": "Egyptian faqih, author and muhaddith (0713-0791)",
+    "dob": "0713-06-01T00:00:00Z",
+    "dod": "0791-01-01T00:00:00Z",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%D8%A7%D9%84%D9%84%D9%8A%D8%AB%20%D8%A8%D9%86%20%D8%B3%D8%B9%D8%AF.png",
+    "occupations": ""
+  },
+  {
+    "id": "Q2820911",
+    "name": "ʿAbdarraḥmān Ibn-Muḥammad Ibn-al-Aš aṯ",
+    "description": "Umayyad Arab nobleman and military commander (died 704)",
+    "dob": "0700-01-01T00:00:00Z",
+    "dod": "0704-01-01T00:00:00Z",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dirham%20of%20Sistan%2C%20AH%2082.jpg",
+    "occupations": ""
+  },
+  {
+    "id": "Q2829202",
+    "name": "Al-Ariji",
+    "description": "",
+    "dob": "0649-01-01T00:00:00Z",
+    "dod": "0738-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q12249839",
+    "name": "Hadba ibn al-Khashram",
+    "description": "",
+    "dob": "http://www.wikidata.org/.well-known/genid/803657aede03c22045d96f8ac9c9d8a4",
+    "dod": "0670-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q12251201",
+    "name": "Waki ibn Abi Sud",
+    "description": "",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q12251767",
+    "name": "Yazid ibn al-Hakam al-Thaqafi",
+    "description": "Iraqi poet",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q12251815",
+    "name": "Yazid ibn Umar al-Fazari",
+    "description": "Umayyad provincial governor and military leader (died 750)",
+    "dob": "0703-01-01T00:00:00Z",
+    "dod": "0750-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q12252081",
+    "name": "Yusuf ibn Bujt",
+    "description": "",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q12252237",
+    "name": "Yunus Al-Katib Al-Mughanni",
+    "description": "Iranian composer and writer (8th century)",
+    "dob": null,
+    "dod": "0752-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q12328667",
+    "name": "Abd al-Aziz ibn al-Walid",
+    "description": "8th century Umayyad general and district governor",
+    "dob": "0601-01-01T00:00:00Z",
+    "dod": "0720-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q13410709",
+    "name": "Abu Awn Abd al-Malik ibn Yazid",
+    "description": "8th-century Abbasid provincial governor",
+    "dob": "0701-01-01T00:00:00Z",
+    "dod": "0784-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q13422165",
+    "name": "Sa'id ibn Amr al-Harashi",
+    "description": "Umayyad general",
+    "dob": "0601-01-01T00:00:00Z",
+    "dod": "0735-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q13458714",
+    "name": "'Awana ibn al-Hakam",
+    "description": "Arab historian based in Kufa",
+    "dob": null,
+    "dod": "0764-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q14095767",
+    "name": "Muqātil Ibn-Sulaimān al-Balḫī",
+    "description": "Koranexeget",
+    "dob": "0701-01-01T00:00:00Z",
+    "dod": "0767-01-01T00:00:00Z",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%D9%85%D9%82%D8%A7%D8%AA%D9%84%20%D8%A8%D9%86%20%D8%B3%D9%84%D9%8A%D9%85%D8%A7%D9%86.png",
+    "occupations": ""
+  },
+  {
+    "id": "Q14354376",
+    "name": "Qays Ibn al-Mulawwah",
+    "description": "Arab poet and the character of the romantic fiction Layla and Majnun",
+    "dob": "0644-01-01T00:00:00Z",
+    "dod": "0688-01-01T00:00:00Z",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Qays%20ibn%20Al-Mulawwah%20by%20Khalil%20Gibran.png",
+    "occupations": ""
+  },
+  {
+    "id": "Q15222782",
+    "name": "Asad ibn Abdallah al-Qasri",
+    "description": "official of the Umayyad Caliphate",
+    "dob": "0601-01-01T00:00:00Z",
+    "dod": "0738-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q15819903",
+    "name": "Maisūn",
+    "description": "Lieblingsgemahlin des umayyadischen Kalifen Muʿāwiya I.",
+    "dob": null,
+    "dod": "0699-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q15844566",
+    "name": "Abbad ibn Ziyad",
+    "description": "umayyad Commander and statesman",
+    "dob": null,
+    "dod": "0718-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q16117642",
+    "name": "Hammad Àjrad",
+    "description": "Iraqi Abbasid era poet",
+    "dob": null,
+    "dod": "0778-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q16118751",
+    "name": "Sa'id ibn Abd al-Malik",
+    "description": "Son of Umayyad caliph Abd al-Malik ibn Marwan (died 750)",
+    "dob": null,
+    "dod": "0750-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q16119081",
+    "name": "Khalid ibn Abd al-Malik",
+    "description": "",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q16119545",
+    "name": "Salim ibn Ziyad",
+    "description": "Umayyad governor of Homs",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q16120077",
+    "name": "Ubayda ibn Abd al-Rahman al-Sulami",
+    "description": "",
+    "dob": null,
+    "dod": "0732-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q16120761",
+    "name": "Sawra ibn al-Hurr al-Abani",
+    "description": "",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q16121193",
+    "name": "Ashras ibn Abdallah al-Sulami",
+    "description": "",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q27628271",
+    "name": "Zufar ibn al-Harith al-Kilabi",
+    "description": "Muslim commander, chieftain of the Arab tribe of Banu Amir",
+    "dob": null,
+    "dod": "0694-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q27825674",
+    "name": "Abu Hayya al-Numayri",
+    "description": "Iraqi poet",
+    "dob": null,
+    "dod": "0799-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q27967368",
+    "name": "Umayr ibn Hubab al-Sulami",
+    "description": "Umayyad general and Qaysi tribes leader (died 689)",
+    "dob": null,
+    "dod": "0689-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q27978595",
+    "name": "Hilal ibn al-As'ar al-Mazini",
+    "description": "",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q27996628",
+    "name": "Humayd ibn Hurayth ibn Bahdal",
+    "description": "senior Umayyad commander and a chieftain of the Banu Kalb tribe",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q27996750",
+    "name": "Abān ibn al-Walīd",
+    "description": "7th century Umayyad governor",
+    "dob": null,
+    "dod": "0742-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q28089676",
+    "name": "Al-Husayn ibn Matir al-Asadi",
+    "description": "Iraqi poet",
+    "dob": "0710-01-01T00:00:00Z",
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q28089677",
+    "name": "Muti' ibn Iyas",
+    "description": "Iraqi poet",
+    "dob": "0704-01-01T00:00:00Z",
+    "dod": "0760-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q28713296",
+    "name": "Ukasha ibn Abd al-Samad",
+    "description": "Iraqi poet",
+    "dob": null,
+    "dod": "0791-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q28715255",
+    "name": "Umar ibn Ubayd Allah ibn Ma'mar",
+    "description": "7th-century Arab tribal leader and commander of the Islamic caliphate",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q28715306",
+    "name": "Al-Ḥakam ibn ‛Utayba",
+    "description": "Hadith narrator of Kufa",
+    "dob": "0670-01-01T00:00:00Z",
+    "dod": "0730-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q124407062",
+    "name": "Ziyad ibn al-Nabigha al-Tamimi",
+    "description": "",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q124433114",
+    "name": "Jabir ibn al-Aswad ibn Awf",
+    "description": "",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q124433183",
+    "name": "Yazid ibn Husayn ibn Numayr al-Sakuni",
+    "description": "",
+    "dob": "0700-01-01T00:00:00Z",
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q124435729",
+    "name": "Wallada bint al-Abbas ibn al-Jaz",
+    "description": "",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q124435736",
+    "name": "A'isha bint Musa ibn Talha",
+    "description": "",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q124506430",
+    "name": "Husayn ibn Zayd",
+    "description": "",
+    "dob": "0731-01-01T00:00:00Z",
+    "dod": "0752-01-01T00:00:00Z",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%D8%A3%D8%A8%D9%8A%20%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D9%84%D9%87%20%D8%A7%D9%84%D8%AD%D8%B3%D9%8A%D9%86%20%D8%B0%D9%8A%20%D8%A7%D9%84%D8%AF%D9%85%D8%B9%D8%A9%20%D8%A8%D9%86%20%D8%B2%D9%8A%D8%AF%20%D8%A8%D9%86%20%D8%B9%D9%84%D9%8A%20%D8%A8%D9%86%20%D8%A7%D9%84%D8%AD%D8%B3%D9%8A%D9%86%20%D8%A8%D9%86%20%D8%B9%D9%84%D9%8A%20%D8%A8%D9%86%20%D8%A3%D8%A8%D9%8A%20%D8%B7%D8%A7%D9%84%D8%A8%20%D8%B0%D9%8A%20%D8%A7%D9%84%D8%B9%D8%A8%D8%B1%D8%A9%20%D8%B2%D9%8A%D9%86%20%D8%A7%D9%84%D8%B9%D8%AA%D8%B1%D8%A9%20%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85%20%D8%A7%D9%84%D9%85%D8%AD%D8%AF%D9%91%D8%AB%20%D8%A7%D9%84%D9%86%D8%A7%D8%B3%D9%83.png",
+    "occupations": ""
+  },
+  {
+    "id": "Q124510184",
+    "name": "Abd Allah ibn Muslim al-Bahili",
+    "description": "",
+    "dob": null,
+    "dod": "0715-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q124745867",
+    "name": "Ibn baḥdal",
+    "description": "Umayyad governor and chieftain of the Banu Kalb (died 688/9)",
+    "dob": null,
+    "dod": "0685-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q124746524",
+    "name": "Al-Aʿmasch",
+    "description": "Koran-Leser und Hadith-Überlieferer",
+    "dob": "0680-01-01T00:00:00Z",
+    "dod": "0765-01-01T00:00:00Z",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%D8%B3%D9%84%D9%8A%D9%85%D8%A7%D9%86%20%D8%A7%D9%84%D8%A3%D8%B9%D9%85%D8%B4.png",
+    "occupations": ""
+  },
+  {
+    "id": "Q124768142",
+    "name": "Ubayd Allah ibn Ziyad ibn Zabyan",
+    "description": "",
+    "dob": null,
+    "dod": "0694-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q124771497",
+    "name": "Muhammad ibn al-Ash'ath al-Kindi",
+    "description": "Umayyad governor and Kinda tribe chieftain (died 686)",
+    "dob": "0700-01-01T00:00:00Z",
+    "dod": "0686-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q124773521",
+    "name": "Mughith al-Rumi",
+    "description": "",
+    "dob": null,
+    "dod": "0718-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q125092134",
+    "name": "Juday al-Kirmani",
+    "description": "8th-century Azdi commander in Khurasan",
+    "dob": null,
+    "dod": "0747-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q125493046",
+    "name": "Adi ibn Wattad",
+    "description": "",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q125493229",
+    "name": "Huraym ibn Abi Tahma",
+    "description": "",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q125493496",
+    "name": "Mulayh ibn al-Hakam al-Hudhali",
+    "description": "",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q125493645",
+    "name": "Ata ibn Rafi al-Hudhali",
+    "description": "",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q125493967",
+    "name": "Musa ibn Sinan al-Hudhali",
+    "description": "",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q125493968",
+    "name": "Fatima bint Malik ibn Anas",
+    "description": "",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q126948970",
+    "name": "Yusuf ibn al-Hakam al-Thaqafi",
+    "description": "",
+    "dob": "0700-01-01T00:00:00Z",
+    "dod": "0695-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q131589922",
+    "name": "Abu al-Iyal al-Hudhali",
+    "description": "",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q136920794",
+    "name": "Azza bint Humayl",
+    "description": "",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q137686366",
+    "name": "Nawwar",
+    "description": "Umayyad slave concubine and qiyan singer",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q553241",
+    "name": "Hāschim ibn ʿAbd Manāf",
+    "description": "Urgroßvater von Mohammed",
+    "dob": null,
+    "dod": "0497-01-01T00:00:00Z",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%D9%87%D8%A7%D8%B4%D9%85%20%D8%A8%D9%86%20%D8%B9%D8%A8%D8%AF%20%D9%85%D9%86%D8%A7%D9%81.png",
+    "occupations": ""
+  },
+  {
+    "id": "Q28716185",
+    "name": "Ismail ibn Ammar al-Asadi",
+    "description": "Iraqi poet",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q28716441",
+    "name": "Hassan ibn Atahiyah",
+    "description": "governor of Egypt for the Umayyad Caliphate for a portion of 745",
+    "dob": null,
+    "dod": "0750-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q28716626",
+    "name": "Ibn Abī Najīḥ",
+    "description": "8th century mufti of Mecca, hadith narrator",
+    "dob": null,
+    "dod": "0740-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q28716668",
+    "name": "ʻWyf al-qawāfī",
+    "description": "",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q28716830",
+    "name": "Tahman ibn Amr al-Kilabí",
+    "description": "",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q28936266",
+    "name": "Al-Mughira ibn Habna",
+    "description": "Iraqi poet",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q30082534",
+    "name": "Umar ibn al-Walid",
+    "description": "umayyad prince, Commander and Amir al-hajj",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q42332170",
+    "name": "Al-Aqaybil Al-Qayni",
+    "description": "Early Islamic Arab poet",
+    "dob": null,
+    "dod": "0704-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q42341448",
+    "name": "al-Nābighah al-Shaybānī",
+    "description": "",
+    "dob": null,
+    "dod": "0743-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q54861377",
+    "name": "Muslim ibn Ziyad",
+    "description": "",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q54861895",
+    "name": "Al Hakam ibn Awana",
+    "description": "umayyad governor of Sind (731–740)",
+    "dob": "0650-01-01T00:00:00Z",
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q54862142",
+    "name": "Ubayda ibn Hilal",
+    "description": "",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q54875392",
+    "name": "Adham ibn Muhriz al-Bahili",
+    "description": "",
+    "dob": "0700-01-01T00:00:00Z",
+    "dod": "0710-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q55643405",
+    "name": "Tamim ibn Zaid al-Utbi",
+    "description": "umayyad governor of Sind (726–731)",
+    "dob": null,
+    "dod": "0731-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q56377163",
+    "name": "Muhammad ibn Yazid",
+    "description": "",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q59265030",
+    "name": "al-Hārit ibn Saʿīd al-Kaddāb",
+    "description": "",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q59640259",
+    "name": "Sarjun ibn Mansur",
+    "description": "christlicher Beamter am Hof der Umayyaden",
+    "dob": "0650-01-01T00:00:00Z",
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q60321049",
+    "name": "Hamza ibn Abyadh",
+    "description": "Iraqi poet",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q60565010",
+    "name": "Sinan ibn Salama ibn Muhbiq",
+    "description": "Muslim conqueror",
+    "dob": "0628-01-01T00:00:00Z",
+    "dod": "0673-01-01T00:00:00Z",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sinan%20Bin%20Salamah%20bin%20Mohbik.jpg",
+    "occupations": ""
+  },
+  {
+    "id": "Q60793001",
+    "name": "Aban ibn Marwan",
+    "description": "governor of Palestine and Jordan",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q60793035",
+    "name": "Yahya ibn al-Hakam",
+    "description": "7th-century Umayyad prince and statesman",
+    "dob": null,
+    "dod": "0690-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q60893697",
+    "name": "Yazid ibn Ziyad",
+    "description": "umayyad General and governor in 680s",
+    "dob": null,
+    "dod": "0684-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q61000314",
+    "name": "Calide ibne Abdal Ramane",
+    "description": "",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q61000316",
+    "name": "Abdal Ramane ibne Calide",
+    "description": "",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q61749740",
+    "name": "Khalid ibn Abdallah ibn Khalid ibn Asid",
+    "description": "Late 7th/early 8th century Umayyad prince and statesman",
+    "dob": null,
+    "dod": null,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Khalid%20ibn%20Abdallah%20ibn%20Khalid%20ibn%20Asid%20-%20coin%20%2875%20of%20the%20Hijrah%29.png",
+    "occupations": ""
+  },
+  {
+    "id": "Q65052584",
+    "name": "Salih ibn Abd al-Rahman",
+    "description": "Umayyad bureaucrat (died 721–724)",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q65064441",
+    "name": "Mudrik ibn al-Muhallab",
+    "description": "arab Commander of Umayyad Caliphate",
+    "dob": null,
+    "dod": "0720-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q65068702",
+    "name": "Uthman ibn Muhammad ibn Abi Sufyan",
+    "description": "governor of Medina (682–683)",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q65073035",
+    "name": "Sulayman ibn Sa'd al-Khushani",
+    "description": "Late 7th/early 8th century Umayyad Caliphate administrator",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q69514790",
+    "name": "Hubaysh ibn Dulja",
+    "description": "Umayyad army Commander (d. 684)",
+    "dob": null,
+    "dod": "0684-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q72196335",
+    "name": "Al-Bu'ayth al-Majashi'i",
+    "description": "Iraqi Umayyid poet",
+    "dob": "http://www.wikidata.org/.well-known/genid/6b88017773e50be7e5dc0c67d3c324db",
+    "dod": "0751-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q85787255",
+    "name": "Muslim ibn Sa'id al-Kilabi",
+    "description": "Umayyad Governor of Khurasan from 723 to 724",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q86754452",
+    "name": "Ubayd Allah ibn Marwan",
+    "description": "umayyad Prince and General",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q87724579",
+    "name": "Maslama ibn Hisham",
+    "description": "an Umayyad prince and commander",
+    "dob": null,
+    "dod": "0750-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q88918981",
+    "name": "al-Faḍl al-Lahabī",
+    "description": "Poet from Banu Hashim",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q96007200",
+    "name": "Humayda bint al-Nu'man",
+    "description": "",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q96371657",
+    "name": "Al-Walid ibn Hisham al-Mu'ayti",
+    "description": "umayyad Governor of Qinnasrin and General",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q97301861",
+    "name": "Salamah ibn Ayyash",
+    "description": "Iraqi poet",
+    "dob": "0700-01-01T00:00:00Z",
+    "dod": "0786-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q97462445",
+    "name": "A'sha Bani Rabi'a",
+    "description": "Iraqi poet",
+    "dob": "http://www.wikidata.org/.well-known/genid/45eedba6ee146d5ada29f5023593f326",
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q97462586",
+    "name": "al-Muġīra Ibn-ʿAbdallāh al-Uqaišir al-Asadī",
+    "description": "arabischer (irakischer) Dichter",
+    "dob": "http://www.wikidata.org/.well-known/genid/fdd0c39c67a7b22d5e6eb476f36d20a6",
+    "dod": "0699-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q97690694",
+    "name": "Dukayn al-Darimi",
+    "description": "Iraiq poet",
+    "dob": "http://www.wikidata.org/.well-known/genid/c5887332fe038a81e4e6591fe74af123",
+    "dod": "0727-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q98034002",
+    "name": "Abu Bakr ibn Abu Musa al-Ash'ari",
+    "description": "muhaddith of the Umayyad era (?-725)",
+    "dob": null,
+    "dod": "0725-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q98060095",
+    "name": "Abdulazeez ibn Abdallah ibn Khalid ibn Asid",
+    "description": "",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q98076766",
+    "name": "Urwa ibn Muhammad ibn Atiyya",
+    "description": "",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q98111150",
+    "name": "Nahar ibn Tawsi'a",
+    "description": "",
+    "dob": null,
+    "dod": "0702-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q98196803",
+    "name": "Abd al-Rahman ibn Khalid al-Fahmi",
+    "description": "governor of Egypt for the Umayyad Caliphate from 735 to 736",
+    "dob": null,
+    "dod": "0745-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q98197309",
+    "name": "Abd al-Malik ibn Marwan ibn Musa ibn Nusayr",
+    "description": "Governor of Egypt",
+    "dob": null,
+    "dod": "0750-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q98636201",
+    "name": "Salm ibn Qutayba",
+    "description": "Arab governor and military commander of Caliphate",
+    "dob": null,
+    "dod": "0766-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q99559061",
+    "name": "Mansur ibn Sarjun",
+    "description": "",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q102258829",
+    "name": "Abu al-Juwayriyah al-Abdi",
+    "description": "Arab poet",
+    "dob": "http://www.wikidata.org/.well-known/genid/2ef280b356d0d4ec0064e0f75f2917d0",
+    "dod": "0738-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q105752879",
+    "name": "Abd Allah ibn Amr ibn Ghaylan",
+    "description": "umayyad governor Abd Allah ibn Amr",
+    "dob": "0700-01-01T00:00:00Z",
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q105834490",
+    "name": "Abd Allah ibn Yazid",
+    "description": "7th century Umayyad prince and military commander",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q105872481",
+    "name": "Djamila",
+    "description": "medinensische Qiyān-Sängerin, -Musikerin und -Dichterin",
+    "dob": null,
+    "dod": "0720-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q106940341",
+    "name": "Zurara ibn Awfa",
+    "description": "",
+    "dob": null,
+    "dod": "0711-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q108474930",
+    "name": "Fudayl ibn Ghazwan",
+    "description": "",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q108678685",
+    "name": "Mu'awiya ibn Salih",
+    "description": "",
+    "dob": "0699-01-01T00:00:00Z",
+    "dod": "0774-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q109012186",
+    "name": "Isa bin Zayd bin Ali",
+    "description": "",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q109646893",
+    "name": "Raqbah bin Alhur",
+    "description": "Military commander",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q110260242",
+    "name": "Alqama ibn Junada al-Azdi",
+    "description": "",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q111530712",
+    "name": "Abu al-Umaytir al-Sufyani",
+    "description": "9th-century rebel during Abbasid era (811–813)",
+    "dob": null,
+    "dod": "0813-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q111599046",
+    "name": "Aban ibn Mu'awiya ibn Hisham",
+    "description": "Umayyad prince and commander (died 751)",
+    "dob": null,
+    "dod": "0751-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q584737",
+    "name": "Sukayna bint Husayn",
+    "description": "daughter of Husayn ibn Ali",
+    "dob": "0676-11-10T00:00:00Z",
+    "dod": "0680-11-15T00:00:00Z",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%D8%AA%D8%AE%D8%B7%D9%8A%D8%B7%20%D8%A7%D8%B3%D9%85%20%D8%A7%D9%84%D8%B3%D9%8A%D8%AF%D8%A9%20%D8%B1%D9%82%D9%8A%D8%A9%20%D8%A8%D9%86%D8%AA%20%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D9%85%20%D8%A7%D9%84%D8%AD%D8%B3%D9%8A%D9%86.jpg",
+    "occupations": ""
+  },
+  {
+    "id": "Q4666107",
+    "name": "Abdullah ibn Ali",
+    "description": "Angehöriger der Familie der Abbasiden",
+    "dob": "0712-01-01T00:00:00Z",
+    "dod": "0764-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q4666108",
+    "name": "Abdullah ibn Hasan",
+    "description": "great-grandson of Muhammad who was killed in the Battle of Karbala",
+    "dob": "0647-01-01T00:00:00Z",
+    "dod": "0680-10-10T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q5437870",
+    "name": "Fatima al-Sughra bint al-Husayn",
+    "description": "daughter of Husayn Ibn Ali",
+    "dob": "0661-01-01T00:00:00Z",
+    "dod": "0729-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q5437879",
+    "name": "Fatimah bint al-Hasan",
+    "description": "Daughter of Hasan ibn Ali (Son of Ali Ali ibn Abi Talib)",
+    "dob": "0700-01-01T00:00:00Z",
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q5678326",
+    "name": "Ḥasan Ibn-Muḥammad Ibn-al-Ḥanafīya al-",
+    "description": "Salaf and Hadith narrator (died c. 718 CE)",
+    "dob": null,
+    "dod": "0718-01-01T00:00:00Z",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D9%85%20%D8%A3%D8%A8%D9%8A%20%D9%85%D8%AD%D9%85%D8%AF%20%D8%A7%D9%84%D8%AD%D8%B3%D9%86%20%D8%A8%D9%86%20%D9%85%D8%AD%D9%85%D8%AF%20%D8%A8%D9%86%20%D8%A7%D9%84%D8%AD%D9%86%D9%81%D9%8A%D8%A9.png",
+    "occupations": ""
+  },
+  {
+    "id": "Q6795398",
+    "name": "Zayd ibn Hasan",
+    "description": "",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q6892574",
+    "name": "Mohammad ibn Ali Abbasi",
+    "description": "Father of the two first 'Abbâsid caliphs (c.680–743)",
+    "dob": "0671-01-01T00:00:00Z",
+    "dod": "0744-01-01T00:00:00Z",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%D8%A3%D8%A8%D9%8A%20%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D9%84%D9%87%20%D9%85%D8%AD%D9%85%D8%AF%20%D8%A7%D9%84%D9%83%D8%A7%D9%85%D9%84%20%D8%B0%D9%88%20%D8%A7%D9%84%D8%AB%D9%86%D9%81%D8%A7%D8%AA%20%D8%A8%D9%86%20%D8%B9%D9%84%D9%8A%20%D8%A7%D9%84%D8%B3%D8%AC%D8%A7%D8%AF%20%D8%A8%D9%86%20%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D9%84%D9%87%20%D8%AD%D8%A8%D8%B1%20%D8%A7%D9%84%D9%82%D8%B1%D8%A2%D9%86%20%D8%A8%D9%86%20%D8%A7%D9%84%D8%B9%D8%A8%D8%A7%D8%B3%20%D8%A7%D9%84%D8%B3%D9%82%D8%A7%D8%A1%20%D8%A8%D9%86%20%D8%B3%D9%8A%D8%AF%20%D9%82%D8%B1%D9%8A%D8%B4%20%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D9%85%D8%B7%D9%84%D8%A8%20%D8%B4%D9%8A%D8%A8%D8%A9%20%D8%A7%D9%84%D8%AD%D9%85%D8%AF%20%D8%A3%D8%A8%D9%88%20%D8%A7%D9%84%D8%AE.png",
+    "occupations": ""
+  },
+  {
+    "id": "Q7402995",
+    "name": "Sakīna bint al-Husain",
+    "description": "Nachkomme des islamischen Propheten Muhammad und die Tochter von al-á¸¤usain bin Ê¿AlÄ«",
+    "dob": null,
+    "dod": "0680-11-15T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q7404507",
+    "name": "Salih ibn Ali",
+    "description": "Abbasid governor and general (711-769)",
+    "dob": "0711-01-01T00:00:00Z",
+    "dod": "0769-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q7679448",
+    "name": "Talha ibn Hasan",
+    "description": "son of Hasan ibn Ali",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q11950487",
+    "name": "Sulayman ibn Ali al-Hashimi",
+    "description": "Abbasid prince and governor of Basra (c. 700–759)",
+    "dob": "0700-01-01T00:00:00Z",
+    "dod": "0759-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q12223595",
+    "name": "Abd Allah ibn Muslim ibn Aqil",
+    "description": "",
+    "dob": null,
+    "dod": "0680-10-13T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q12228824",
+    "name": "Aun ibn Abdillah",
+    "description": "son of Zaynab bint Ali and Abdullah ibn Ja'far",
+    "dob": null,
+    "dod": "0680-10-13T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q12240190",
+    "name": "Muhammad ibn Abdillah",
+    "description": "son of Zaynab bint Ali and Abdullah ibn Ja'far",
+    "dob": null,
+    "dod": "0680-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q12240263",
+    "name": "Muhammad ibn Muslim ibn Aqil",
+    "description": "",
+    "dob": null,
+    "dod": "0680-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q12266536",
+    "name": "Ali ibn Abdullah",
+    "description": "son of Zaynab bint Ali and Abdullah ibn Ja'far",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q12266696",
+    "name": "Abbas ibn Abdullah",
+    "description": "son of Zaynab bint Ali and Abdullah ibn Ja'far",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q16119436",
+    "name": "Abd Allah ibn al-Harith ibn Nawfal",
+    "description": "",
+    "dob": null,
+    "dod": "0703-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q16127576",
+    "name": "Husayn ibn al-Hasan ibn ʿAly",
+    "description": "",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q16158609",
+    "name": "Abd Allah ben al-Hasan",
+    "description": "",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q26138681",
+    "name": "Kholat bint Husayn",
+    "description": "daughter of Imam Husayn",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q54875138",
+    "name": "Safia bint Hussain",
+    "description": "",
+    "dob": "0662-01-01T00:00:00Z",
+    "dod": "0680-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q61314438",
+    "name": "Ibraheem ibn Muslim",
+    "description": "",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q106975496",
+    "name": "Mu'awiya bin Abd Allah bin Ja'far",
+    "description": "",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q106975544",
+    "name": "Ismail ibn Abd Allah ibn Ja'far",
+    "description": "",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q124407052",
+    "name": "Haritha ibn Badr al-Ghaddani",
+    "description": "",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q113212740",
+    "name": "Abd al-Rahman ibn Umm al-Hakam al-Thaqafi",
+    "description": "7th-century Umayyad governor of Kufa",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q114438923",
+    "name": "Al-Adeel bin Al-Farkh Al-Ajli",
+    "description": "Islamic poet",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q115059596",
+    "name": "Ayub bin Suleiman",
+    "description": "",
+    "dob": "0703-01-01T00:00:00Z",
+    "dod": "0717-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q115157654",
+    "name": "Abd Allah ibn Hammam al-Saluli",
+    "description": "",
+    "dob": "0640-01-01T00:00:00Z",
+    "dod": "0716-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q115948045",
+    "name": "Al-Asbagh ibn Dhu'ala",
+    "description": "Umayyad commander",
+    "dob": null,
+    "dod": "0800-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q116168431",
+    "name": "Ubayd Allah ibn al-Hakam",
+    "description": "",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q116257263",
+    "name": "Sa'id ibn Malik ibn Bahdal",
+    "description": "",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q116974652",
+    "name": "Masrur ibn al-Walid",
+    "description": "8th-century Umayyad prince",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q117316582",
+    "name": "Muslim ibn Amr al-Bahili",
+    "description": "",
+    "dob": "0700-01-01T00:00:00Z",
+    "dod": "0691-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q117841557",
+    "name": "Al-Faddayni",
+    "description": "Umayyad anti-Abbasid rebel in 813",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q118575028",
+    "name": "Otbah al-Ghulam",
+    "description": "one of Tabi' al-Tabi'in",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q119359525",
+    "name": "Fakhitah bint Abi Hisham",
+    "description": "wife of Umayyad caliph Yazid",
+    "dob": "0648-01-01T00:00:00Z",
+    "dod": "0691-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q120231897",
+    "name": "Abd al-Aziz ibn Umar ibn Abd al-Aziz",
+    "description": "Umayyad governor of Medina from 744 to 747",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q121283149",
+    "name": "Al-Walid ibn Hanifa",
+    "description": "basran poet in Umayyad era",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q122173631",
+    "name": "Sa'id ibn Iyas al-Jariri",
+    "description": "",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q122734138",
+    "name": "Misma ibn Malik ibn Misma",
+    "description": "governor for Umayyad dynasty",
+    "dob": null,
+    "dod": null,
+    "image": null,
+    "occupations": ""
+  },
+  {
+    "id": "Q124320627",
+    "name": "Thabit Qutnah",
+    "description": "",
+    "dob": null,
+    "dod": "0729-01-01T00:00:00Z",
+    "image": null,
+    "occupations": ""
+  }
+]

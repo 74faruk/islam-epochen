@@ -3,51 +3,54 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Frühislamische Persönlichkeiten — Islam-Epochen</title>
-  <meta name="description" content="Personen aus dem Rashidun- und Umayyaden-Kalifat (632–750): Kalifen, Gefährten des Propheten, Feldherren, Gelehrte — live aus Wikidata und Wikipedia.">
-  <meta name="theme-color" content="#E4D6AF">
-  <link rel="icon" href="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2064%2064'%3E%3Crect%20width='64'%20height='64'%20rx='10'%20fill='%231F6F5C'/%3E%3Cpath%20d='M32%2012%2038%2026%2052%2032%2038%2038%2032%2052%2026%2038%2012%2032%2026%2026%20Z'%20fill='%23E4D6AF'/%3E%3C/svg%3E">
+  <title>Islam-Epochen — Band I: Frühislamische Persönlichkeiten</title>
+  <meta name="description" content="Chronologische Personendatenbank zur Frühzeit des Islam (ca. 500–750 n. Chr.): Stammesoberhäupter, Gefährten des Propheten, Kalifen, Gelehrte — mit differenzierten Rollen und Zeitstrahl.">
+  <meta name="theme-color" content="#171310">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2064%2064'%3E%3Crect%20width='64'%20height='64'%20rx='10'%20fill='%231F6F5C'/%3E%3Cpath%20d='M32%2012%2038%2026%2052%2032%2038%2038%2032%2052%2026%2038%2012%2032%2026%2026%20Z'%20fill='%23EFE4C4'/%3E%3C/svg%3E">
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
+
+  <a class="skip" href="#main">Zum Inhalt springen</a>
 
   <header class="hero">
     <div class="container">
       <p class="eyebrow">Islam-Epochen · Band I</p>
       <h1>Frühislamische<br>Persönlichkeiten</h1>
-      <p class="lead">Kalifen, Gefährten des Propheten, Feldherren, Gelehrte und
-      Gouverneure aus dem <strong>Rashidun-</strong> und <strong>Umayyaden-Kalifat</strong>
-      (632–750&nbsp;n.&nbsp;Chr.) — Daten live aus Wikidata und Wikipedia, keine
-      redaktionelle Auswahl.</p>
+      <p class="lead">Ein chronologisches Nachschlagewerk zur Frühzeit des Islam — von der
+      Generation <strong>Hāschims ibn ʿAbd Manāf</strong> (Urgroßvater des Propheten) bis
+      zum Ende des <strong>Umayyaden-Kalifats</strong> (ca. 500–750 n.&nbsp;Chr.). Alle
+      Einträge sind KI-strukturiert aus Wikidata und Wikipedia, konsequent aus
+      sunnitischer Quellenperspektive, mit Rollen-Klassifikation nach klassischer
+      Tabaqat-Einteilung.</p>
 
       <form class="search-row" id="search-form">
-        <input type="search" id="search-input" placeholder="Name suchen … z. B. „Chalid“, „Aischa“, „Muawiya“" aria-label="Personen durchsuchen">
+        <input type="search" id="search-input" placeholder="Name suchen … z. B. „Chalid“, „Aischa“, „Abu Bakr“" aria-label="Personen durchsuchen">
       </form>
-
-      <div class="filter-row" id="filter-row" role="group" aria-label="Nach Themengebiet filtern">
-        <button type="button" class="filter-chip is-active" data-cat="alle">Alle</button>
-        <button type="button" class="filter-chip" data-cat="politik">Politik &amp; Staat</button>
-        <button type="button" class="filter-chip" data-cat="militaer">Militär</button>
-        <button type="button" class="filter-chip" data-cat="theologie">Theologie &amp; Recht</button>
-        <button type="button" class="filter-chip" data-cat="wissenschaft">Wissenschaft &amp; Kultur</button>
-        <button type="button" class="filter-chip" data-cat="sonstiges">Sonstiges</button>
-      </div>
     </div>
   </header>
 
-  <main class="container">
+  <main id="main">
+    <div class="container layout">
 
-    <p class="result-count" id="result-count" aria-live="polite">Lädt Personen aus Wikidata …</p>
+      <!-- ============ FILTER-SEITENLEISTE ============ -->
+      <aside class="filter-panel" aria-label="Nach Rolle filtern">
+        <div class="filter-head">
+          <h2>Rollen</h2>
+          <button type="button" class="filter-reset" id="filter-reset">Zurücksetzen</button>
+        </div>
+        <div id="filter-gruppen"></div>
+      </aside>
 
-    <section class="grid" id="grid" aria-label="Personenliste"></section>
+      <!-- ============ ZEITSTRAHL ============ -->
+      <div class="zeitstrahl-bereich">
+        <p class="result-count" id="result-count" aria-live="polite">Lädt Personen …</p>
+        <div id="zeitstrahl"></div>
+        <p class="empty-state" id="empty-state" hidden>Keine Treffer — anderen Suchbegriff
+        oder Filter probieren.</p>
+      </div>
 
-    <div class="load-more-row">
-      <button type="button" class="btn-more" id="load-more-btn" hidden>Weitere Personen zeigen</button>
     </div>
-
-    <p class="empty-state" id="empty-state" hidden>Keine Treffer — anderen Suchbegriff
-    oder Filter probieren.</p>
-
   </main>
 
   <!-- ============ DETAILANSICHT ============ -->
@@ -57,31 +60,29 @@
       <div class="detail-head">
         <div class="detail-portrait" id="detail-portrait"></div>
         <div>
-          <p class="detail-category" id="detail-category"></p>
+          <div class="detail-rollen" id="detail-rollen"></div>
           <h2 id="detail-name"></h2>
           <p class="detail-dates" id="detail-dates"></p>
-          <p class="detail-desc" id="detail-desc"></p>
+          <p class="detail-abstammung" id="detail-abstammung"></p>
         </div>
       </div>
-      <div class="detail-body">
-        <p class="detail-loading" id="detail-loading">Lädt Biografie aus Wikipedia …</p>
-        <div class="detail-extract" id="detail-extract"></div>
-        <p class="detail-links" id="detail-links"></p>
-      </div>
+      <div class="detail-body" id="detail-body"></div>
     </div>
   </div>
 
   <footer class="site-footer">
     <div class="container">
       <p>Daten: <a href="https://www.wikidata.org" target="_blank" rel="noopener">Wikidata</a>
-      &amp; <a href="https://www.wikipedia.org" target="_blank" rel="noopener">Wikipedia</a>,
-      lizenziert unter CC BY-SA. Diese Seite verändert keine Inhalte, sondern zeigt sie
-      nur strukturiert an.</p>
+      &amp; <a href="https://www.wikipedia.org" target="_blank" rel="noopener">Wikipedia</a>
+      (CC BY-SA), strukturiert mit Claude Sonnet 5 aus sunnitischer Quellenperspektive.
+      Keine abschließende gelehrte Bewertung — bei Unsicherheiten wird das in den
+      Einträgen offen benannt.</p>
       <p>Gebaut im Dialog mit Claude Code · Teil des Projekts „Islam-Epochen“, weitere
-      Zeiträume folgen.</p>
+      Bände (z. B. Abbasiden-Kalifat) folgen.</p>
     </div>
   </footer>
 
+  <script src="daten/rollen.js"></script>
   <script src="script.js"></script>
 </body>
 </html>

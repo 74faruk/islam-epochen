@@ -1,0 +1,859 @@
+[
+  {
+    "id": "Q553241",
+    "name": "Hāschim ibn ʿAbd Manāf",
+    "description": "Urgroßvater von Mohammed",
+    "dob": null,
+    "dod": "0497-01-01T00:00:00Z",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%D9%87%D8%A7%D8%B4%D9%85%20%D8%A8%D9%86%20%D8%B9%D8%A8%D8%AF%20%D9%85%D9%86%D8%A7%D9%81.png",
+    "occupations": "",
+    "struktur": {
+      "rollen": [
+        "Kaufmann"
+      ],
+      "geboren_jahr": null,
+      "geboren_ungefaehr": false,
+      "geboren_ort": null,
+      "gestorben_jahr": 510,
+      "gestorben_ungefaehr": true,
+      "gestorben_ort": "Gaza",
+      "todesumstand": "Starb während einer Handelsreise in Gaza",
+      "abstammung": "Sohn von ʿAbd Manāf ibn Qusaiy, Urgroßvater des Propheten Mohammed über dessen Großvater ʿAbd al-Muttalib.",
+      "herkunft": "Hāschim entstammte dem mekkanischen Stamm der Quraisch und war ursprünglich unter dem Namen ʿAmr bekannt. Er erbte von seinem Vater die Ämter der Bewirtung (rifāda) und Tränkung (siqāya) der Mekka-Pilger.",
+      "wirken": "Während einer Hungerperiode in Mekka brachte Hāschim von einer Handelsreise nach Syrien getrocknetes Brot mit, das er zu Brei (Tharid) verarbeitete und an Bedürftige verteilte, woraus sich sein Beiname ableitet. Ihm wird die Einführung und Organisation der saisonalen Handelskarawanen der Mekkaner in den Süden und Norden zugeschrieben, ebenso der Abschluss von Handelsverträgen mit Byzanz und Abessinien. Er heiratete Salmā bint ʿAmr und hatte mit ihr fünf Töchter und vier Söhne, darunter ʿAbd al-Muttalib, den späteren Großvater Mohammeds.",
+      "bedeutung": "Hāschim gilt als Stammvater der Banū Hāschim, eines bedeutenden Clans der Quraisch, aus dem der Prophet Mohammed und die Haschimiten hervorgingen; auf ihn führt sich unter anderem das heutige Königshaus von Jordanien zurück.",
+      "ereignisse": [
+        "Verteilung von Tharid an Bedürftige während einer Hungerperiode in Mekka",
+        "Einführung der saisonalen Handelskarawanen nach Süden und Norden",
+        "Abschluss von Handelsverträgen mit Byzanz und Abessinien",
+        "Heirat mit Salmā bint ʿAmr",
+        "Tod während einer Handelsreise in Gaza"
+      ],
+      "unsicherheit_hinweis": "Das genaue Todesjahr ist unklar: Wikidata nennt 497, der Wikipedia-Artikel spricht von 'um 510'."
+    },
+    "wiki_sprache": "de"
+  },
+  {
+    "id": "Q380479",
+    "name": "ʿAbd al-Muttalib ibn Hāschim",
+    "description": "Großvater von Mohammed",
+    "dob": "0497-01-01T00:00:00Z",
+    "dod": "0579-01-01T00:00:00Z",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Siyer-i%20Nebi%20Amina%20shows%20Muhammad%20her%20father-in-law%20Abd%20al-Muttalib.jpg",
+    "occupations": "",
+    "struktur": {
+      "rollen": [
+        "Kafir"
+      ],
+      "geboren_jahr": 497,
+      "geboren_ungefaehr": true,
+      "geboren_ort": null,
+      "gestorben_jahr": 578,
+      "gestorben_ungefaehr": true,
+      "gestorben_ort": "Mekka",
+      "todesumstand": null,
+      "abstammung": "Sohn des Hāschim ibn ʿAbd Manāf aus dem Stamm der Quraisch und der Salmā bint ʿAmr aus dem Stamm der Chazradsch; Großvater des Propheten Mohammed über dessen Vater ʿAbdallāh.",
+      "herkunft": "Er wurde in Yathrib (Medina) geboren, wohin sein Vater auf einer Handelsreise gekommen war, und wuchs zunächst bei seiner Mutter auf. Nach dem Tod seines Vaters holte ihn sein Onkel al-Muttalib nach Mekka, wo er fortan lebte.",
+      "wirken": "ʿAbd al-Muttalib wurde als angesehenster Saiyid der Quraisch beschrieben, war wohlhabend und übernahm nach dem Tod seines Onkels die Ämter der Bewirtung und Tränkung der Mekka-Pilger als Oberhaupt der Banū Hāschim. Ihm wird eine Rolle bei der Verteidigung der Kaaba gegen Abraha sowie die Wiederauffindung der Zamzam-Quelle zugeschrieben. Nach dem frühen Tod seines Sohnes ʿAbdallāh und der Mutter Āminas übernahm er kurzzeitig die Fürsorge für seinen verwaisten Enkel Mohammed, bevor er selbst starb und diese Aufgabe seinem Sohn Abū Tālib übertrug.",
+      "bedeutung": "Als gemeinsamer Vorfahre der Aliden und Abbasiden wurde er später Gegenstand zahlreicher pro-haschimitischer Legenden und in schiitischer wie abbasidischer Tradition besonders positiv dargestellt. Er gilt als bedeutende Figur des vorislamischen Mekka und als Großvater des Propheten Mohammed.",
+      "ereignisse": [
+        "Übernahme der Ämter rifāda und siqāya nach dem Tod des al-Muttalib",
+        "Rolle bei der Verteidigung der Kaaba gegen Abraha",
+        "Wiederauffindung der Zamzam-Quelle (der Überlieferung zufolge)",
+        "Fürsorge für den verwaisten Enkel Mohammed nach dessen Vaters Tod"
+      ],
+      "unsicherheit_hinweis": "Die überlieferten Berichte über ʿAbd al-Muttalib sind stark von späteren pro-haschimitischen, schiitischen und abbasidischen Legendenbildungen geprägt, weshalb ihre historische Zuverlässigkeit umstritten ist. Auch sein genaues Sterbealter (82, 110 oder 120 Jahre) wird in den Quellen unterschiedlich angegeben."
+    },
+    "wiki_sprache": "de"
+  },
+  {
+    "id": "Q23904870",
+    "name": "Zaynab bint Maz'un",
+    "description": "Wife of Caliph Umar ibn al-Khattab",
+    "dob": "0501-01-01T00:00:00Z",
+    "dod": "0601-01-01T00:00:00Z",
+    "image": null,
+    "occupations": "",
+    "struktur": {
+      "rollen": [
+        "Muslim"
+      ],
+      "geboren_jahr": 501,
+      "geboren_ungefaehr": true,
+      "geboren_ort": "Mekka",
+      "gestorben_jahr": 601,
+      "gestorben_ungefaehr": true,
+      "gestorben_ort": null,
+      "todesumstand": null,
+      "abstammung": "Tochter von Maz'un ibn Habib aus dem Jumah-Klan der Quraisch in Mekka; Schwester von Uthman ibn Maz'un, einem der frühesten Konvertiten zum Islam.",
+      "herkunft": "Sie entstammte dem mekkanischen Jumah-Klan der Quraisch und war dunkelhäutig, ein Merkmal, das sie an ihren Sohn Abd Allah weitergab. Vor 605 heiratete sie Umar ibn al-Khattab, den späteren zweiten Kalifen.",
+      "wirken": "Als erste Frau Umars gebar sie ihm die Kinder Hafsa, Abd Allah und Abd al-Rahman. Ihre Haltung zum Islam und der Zeitpunkt ihrer eigenen Konversion sind nicht überliefert, während ihr Ehemann Umar zunächst dem Islam feindlich gesinnt war und Muslime verfolgte, bevor er 616 selbst Muslim wurde. Nach einer Überlieferung soll sie bereits vor der Auswanderung nach Medina 622 gestorben sein, nach einer anderen – ihres Sohnes Abd Allah – wanderte sie gemeinsam mit ihrem Mann nach Medina aus. Da Umar sie im Gegensatz zu zwei weiteren, polytheistischen Ehefrauen nicht 628 verstieß, muss sie, falls sie noch lebte, zu diesem Zeitpunkt Muslimin gewesen sein.",
+      "bedeutung": "Als Mutter von Hafsa bint Umar, einer späteren Ehefrau des Propheten Muhammad, und als erste Ehefrau des zweiten Kalifen Umar ibn al-Khattab besitzt Zaynab bint Maz'un genealogische Bedeutung für die frühe islamische Geschichte, obwohl über ihr eigenes Leben und ihre religiöse Entwicklung nur wenig gesichert ist.",
+      "ereignisse": [
+        "Heirat mit Umar ibn al-Khattab vor 605",
+        "Geburt der Kinder Hafsa, Abd Allah und Abd al-Rahman",
+        "Mögliche Auswanderung nach Medina im Jahr 622"
+      ],
+      "unsicherheit_hinweis": "Die Quellenlage zu Zaynabs Konversion zum Islam, dem genauen Todesjahr und ihrer Teilnahme an der Auswanderung nach Medina ist widersprüchlich: Eine Überlieferung datiert ihren Tod vor 622, eine andere legt nahe, dass sie noch 628 lebte. Ihr Status als Sahabiya (ob sie den Propheten als Muslimin persönlich traf) lässt sich aus den vorliegenden Angaben nicht sicher bestimmen, weshalb hier keine entsprechende Rolle vergeben wurde. Die Geburts- und Sterbejahre nach Wikidata (501/601) sind grobe Näherungswerte ohne Bezug zu den im Text genannten konkreteren Ereignissen."
+    },
+    "wiki_sprache": "en"
+  },
+  {
+    "id": "Q297913",
+    "name": "Abū Tālib ibn ʿAbd al-Muttalib",
+    "description": "Onkel des Propheten Mohammed und dessen Schutzherr in Mekka",
+    "dob": "0540-01-01T00:00:00Z",
+    "dod": "0619-01-01T00:00:00Z",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/New%20York%20Public%20Library%2C%20Spencer%20Collection%20Turk.%20MS.%203%20Siyar-i%20Nab%C3%AE%20fol.%2064v%20Muhammad%20tries%20to%20convert%20Abu%20Talib%20to%20Islam%20on%20his%20deathbed.jpg",
+    "occupations": "",
+    "struktur": {
+      "rollen": [
+        "Kafir",
+        "Kaufmann"
+      ],
+      "geboren_jahr": 550,
+      "geboren_ungefaehr": true,
+      "geboren_ort": null,
+      "gestorben_jahr": 619,
+      "gestorben_ungefaehr": false,
+      "gestorben_ort": "Mekka",
+      "todesumstand": null,
+      "abstammung": "Sohn des Abd al-Muttalib ibn Hashim, Oberhaupt der quraischitischen Banu Hashim, und der Fatima bint Amr aus dem Clan der Machzum.",
+      "herkunft": "Abu Talib entstammte dem quraischitischen Clan der Banu Hashim in Mekka. Nach dem Tod seines Vaters Abd al-Muttalib übernahm er die Führung des Clans und zugleich die Fürsorge für seinen verwaisten Neffen Mohammed.",
+      "wirken": "Als Karawanenhändler war Abu Talib im Handel mit Syrien tätig, verarmte jedoch im Laufe seines Lebens. Als Oberhaupt der Banu Hashim schützte er Mohammed über Jahre gegen die Anfeindungen anderer Mekkaner, auch nachdem dieser begonnen hatte, seine Lehre zu verbreiten. Sein Sohn Ali wuchs im Haushalt Mohammeds auf und wurde einer dessen ersten Anhänger, während Ja'far vorübergehend in den Haushalt des Bruders al-Abbas gegeben wurde.",
+      "bedeutung": "Als Vater von Ali ibn Abi Talib gilt er als Stammvater aller Aliden und Talibiden, deren Nachkommen in Umayyaden- und früher Abbasidenzeit als Anführer religiös-politischer Oppositionsbewegungen bedeutsam wurden. Sein Schutz für Mohammed in dessen frühen mekkanischen Jahren war für das Überleben der jungen muslimischen Gemeinde von großer Bedeutung; nach seinem Tod übernahm der Mohammed feindlich gesinnte Abu Lahab die Clanführung, was zur Hidschra nach Medina beitrug.",
+      "ereignisse": [
+        "Übernahme der Führung der Banu Hashim nach dem Tod Abd al-Muttalibs",
+        "Aufnahme und Schutz des verwaisten Neffen Mohammed",
+        "Fortgesetzter Schutz Mohammeds während der Anfangsjahre seiner Verkündigung in Mekka",
+        "Tod 619, wonach Abu Lahab neues Clanoberhaupt wurde und Mohammed schutzlos blieb"
+      ],
+      "unsicherheit_hinweis": "Ob Abu Talib innerlich zum Islam übertrat, ist religionsgeschichtlich umstritten: Die sunnitische Mehrheitsmeinung, gestützt auf eine Überlieferung zu Sure 9:113, sieht ihn als bis zum Tod dem alten Glauben anhängend und somit als Ungläubigen; schiitische Gelehrte sowie einige moderne Studien vertreten dagegen die Auffassung, er sei Muslim gewesen."
+    },
+    "wiki_sprache": "de"
+  },
+  {
+    "id": "Q12184761",
+    "name": "Umm Hakim bint Abdul Muttalib",
+    "description": "aunt of Muhammad",
+    "dob": "0540-01-01T00:00:00Z",
+    "dod": null,
+    "image": null,
+    "occupations": "",
+    "struktur": {
+      "rollen": [
+        "Kafir"
+      ],
+      "geboren_jahr": 546,
+      "geboren_ungefaehr": true,
+      "geboren_ort": "Mekka",
+      "gestorben_jahr": 610,
+      "gestorben_ungefaehr": true,
+      "gestorben_ort": "Mekka",
+      "todesumstand": null,
+      "abstammung": "Tochter von Abd al-Muttalib und Fatima bint Amr al-Makhzumiya, Zwillingsschwester von Abdullah, dem Vater Muhammads.",
+      "herkunft": "Sie wurde um 546 in Mekka als Angehörige des Quraysh-Clans Banu Hashim geboren. Wegen ihrer hellen Hautfarbe – als einzige Tochter Abd al-Muttalibs – wurde sie 'Al-Bayda' (die Weiße) genannt.",
+      "wirken": "Umm Hakim heiratete Kurayz ibn Rabi'a aus dem Quraysh-Clan der Abd Shams. Aus dieser Ehe gingen die Kinder Amir, Arwa, Talha und Umm Talha hervor. Ihre Tochter Arwa wurde später die Mutter des künftigen Kalifen Uthman ibn Affan.",
+      "bedeutung": "Als Tante Muhammads und mütterliche Großmutter des dritten Kalifen Uthman ibn Affan verkörpert sie ein wichtiges genealogisches Bindeglied innerhalb der Quraysh. Sie starb jedoch vor Beginn der prophetischen Sendung Muhammads im Jahr 610 und lebte somit vollständig in vorislamischer Zeit.",
+      "ereignisse": [
+        "Heirat mit Kurayz ibn Rabi'a aus dem Clan der Abd Shams",
+        "Geburt der Tochter Arwa, späterer Mutter des Kalifen Uthman"
+      ],
+      "unsicherheit_hinweis": "Umm Hakim starb laut Quelle vor dem Jahr 610, also vor Beginn der prophetischen Sendung Muhammads, und traf ihn daher nicht als Verkünder des Islam; eine Einordnung als Sahabi oder Muslimin ist somit nicht möglich."
+    },
+    "wiki_sprache": "en"
+  },
+  {
+    "id": "Q34408",
+    "name": "ʿAbd Allāh ibn ʿAbd al-Muttalib",
+    "description": "Vater Mohammeds",
+    "dob": "0545-01-01T00:00:00Z",
+    "dod": "0570-01-01T00:00:00Z",
+    "image": null,
+    "occupations": "",
+    "struktur": {
+      "rollen": [
+        "Kafir",
+        "Kaufmann"
+      ],
+      "geboren_jahr": 545,
+      "geboren_ungefaehr": true,
+      "geboren_ort": null,
+      "gestorben_jahr": 570,
+      "gestorben_ungefaehr": true,
+      "gestorben_ort": "Yathrib",
+      "todesumstand": "Starb nach kurzer Krankheit in Yathrib, einige Monate vor der Geburt seines Sohnes Mohammed, im Kreise der Familie seiner Frau.",
+      "abstammung": "Sohn des ʿAbd al-Muttalib und Enkel des Haschim ibn ʿAbd Manāf, des Stammvaters der Haschimiten, aus dem Stamm der Quraisch.",
+      "herkunft": "Er entstammte dem arabischen Stamm der Quraisch in Mekka und wuchs im Umfeld seiner haschimitischen Familie auf.",
+      "wirken": "Er stand im Dienst seines Vaters ʿAbd al-Muttalib und trieb wahrscheinlich Handel, unter anderem bis nach Gaza. Er heiratete Āmina, mit der er den späteren Propheten Mohammed zeugte, starb jedoch bereits vor bzw. kurz vor dessen Geburt, sodass sein Sohn von der Mutter und dem Großvater ʿAbd al-Muttalib aufgezogen wurde.",
+      "bedeutung": "Als Vater des Propheten Mohammed ist er vor allem durch diese Verwandtschaft von historischem Interesse. Sein Schicksal im Jenseits war Gegenstand einer langanhaltenden theologischen Debatte unter muslimischen Gelehrten, da eine Mohammed zugeschriebene Aussage besagt, er befinde sich im Höllenfeuer.",
+      "ereignisse": [
+        "Heirat mit Āmina",
+        "Handelsreisen, u. a. bis nach Gaza",
+        "Tod in Yathrib kurz vor der Geburt seines Sohnes Mohammed"
+      ],
+      "unsicherheit_hinweis": "Über die genauen Umstände und den genauen Zeitpunkt seines Todes existieren mehrere widersprüchliche Überlieferungen; zudem gab es unter muslimischen Gelehrten eine langanhaltende Kontroverse über sein Schicksal im Jenseits."
+    },
+    "wiki_sprache": "de"
+  },
+  {
+    "id": "Q337012",
+    "name": "Abū Lahab",
+    "description": "Widersacher des Propheten Muhammad",
+    "dob": "0549-01-01T00:00:00Z",
+    "dod": "0624-01-01T00:00:00Z",
+    "image": null,
+    "occupations": "",
+    "struktur": {
+      "rollen": [
+        "Kafir"
+      ],
+      "geboren_jahr": 549,
+      "geboren_ungefaehr": true,
+      "geboren_ort": null,
+      "gestorben_jahr": 624,
+      "gestorben_ungefaehr": false,
+      "gestorben_ort": null,
+      "todesumstand": "Starb an Pocken (giftigen Blattern), kurz nachdem ihn die Nachricht von der Niederlage der Mekkaner in der Schlacht von Badr erreicht hatte.",
+      "abstammung": "Sohn von Abd al-Muttalib und Lubna bint al-Harith, Onkel des Propheten Mohammed; voller Name Abd al-Uzza b. Abd al-Muttalib.",
+      "herkunft": "Abu Lahab war ein Angehöriger der Banu Hashim und einer der Anführer der Quraisch in Mekka. Er wird als großer, korpulenter Mann beschrieben, der leicht in Zorn geriet.",
+      "wirken": "Er war ein unversöhnlicher Gegner Mohammeds und widersetzte sich dessen Aufruf zum Glauben an Gott vor der Sippe der Banu Hashim mit den Worten „Geh zum Henker, hast du uns darum zusammengerufen?“. Seine Frau Umm Dschamil bint Harb hegte ebenfalls heftige Abneigung gegen den Propheten und erhielt den Spottnamen „Brennholzträgerin“. Zwei seiner Söhne, Utba und Utayba, waren zeitweise mit zwei Töchtern Mohammeds verheiratet, wurden aber später von ihm zur Trennung gedrängt.",
+      "bedeutung": "Abu Lahab ist einer von nur zwei Zeitgenossen Mohammeds, die namentlich im Koran erwähnt werden; Sure 111 verdammt ihn und seine Frau ausdrücklich. In der islamischen Theologie dient sein Fall als klassisches Beispiel in der Debatte um Prädestination und die Frage des erschaffenen oder unerschaffenen Korans.",
+      "ereignisse": [
+        "Öffentliche Zurückweisung Mohammeds Aufruf an die Banu Hashim",
+        "Namentliche Verdammung durch Koransure 111 (Sure al-Masad)",
+        "Tod kurz nach der Schlacht von Badr infolge einer Pockenerkrankung"
+      ],
+      "unsicherheit_hinweis": null
+    },
+    "wiki_sprache": "de"
+  },
+  {
+    "id": "Q307686",
+    "name": "Abdallāh ibn Salām",
+    "description": "jüdischer Anhänger Mohammeds",
+    "dob": "0550-01-01T00:00:00Z",
+    "dod": "0663-01-01T00:00:00Z",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%D8%A3%D8%A8%D9%88%20%D9%8A%D9%88%D8%B3%D9%81%20%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%20%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D9%84%D9%87%20%D8%A8%D9%86%20%D8%B3%D9%84%D8%A7%D9%85%20%D8%A8%D9%86%20%D8%A7%D9%84%D8%AD%D8%A7%D8%B1%D8%AB%20%D8%B1%D8%B6%D9%8A%20%D8%A7%D9%84%D9%84%D9%87%20%D8%B9%D9%86%D9%87.png",
+    "occupations": "",
+    "struktur": {
+      "rollen": [
+        "Sahabi",
+        "Muslim",
+        "Kafir",
+        "Gelehrter"
+      ],
+      "geboren_jahr": 550,
+      "geboren_ungefaehr": true,
+      "geboren_ort": null,
+      "gestorben_jahr": 663,
+      "gestorben_ungefaehr": true,
+      "gestorben_ort": null,
+      "todesumstand": null,
+      "abstammung": "Wird gewöhnlich dem jüdischen Stamm der Qainuqa zugerechnet; nach einer von Samhūdī zitierten Quelle gehörte er stattdessen dem sonst unbekannten Stamm der Zayd Allāt an.",
+      "herkunft": "Abdallah ibn Salam war ursprünglich ein Jude in Medina (Yathrib) und gehörte der dortigen jüdischen Gemeinschaft an, bevor er sich dem Propheten Mohammed anschloss.",
+      "wirken": "Nach seiner Konversion zum Islam erhielt er von Mohammed den Namen Abdallah („Diener Gottes“). Der genaue Zeitpunkt seiner Konversion ist in der Überlieferung umstritten: manche Berichte datieren sie schon auf die Zeit vor der Hidschra, andere kurz danach, ein dritter Bericht auf das Jahr 8 A.H. In der islamischen Tradition wurde er zu einem Repräsentanten jener jüdischen Schriftgelehrten Medinas, die die in der Bibel angedeutete Prophetie Mohammeds bejahten und dessen Botschaft annahmen, wobei sie ihn zugleich vor Intrigen ihrer früheren Glaubensbrüder schützten.",
+      "bedeutung": "Der Tafsīr al-Dschalālain identifiziert ihn mit dem in Sure 46:10 erwähnten „Zeugen der Kinder Israels“, was seine Rolle als Symbolfigur für die Anerkennung Mohammeds durch jüdische Gelehrte unterstreicht.",
+      "ereignisse": [
+        "Konversion vom Judentum zum Islam (Zeitpunkt umstritten: vor oder kurz nach der Hidschra bzw. 8 A.H.)",
+        "Identifikation als „Zeuge der Kinder Israels“ in Sure 46:10"
+      ],
+      "unsicherheit_hinweis": "Der genaue Zeitpunkt seiner Konversion zum Islam ist in den Überlieferungen umstritten, ebenso seine genaue Stammeszugehörigkeit."
+    },
+    "wiki_sprache": "de"
+  },
+  {
+    "id": "Q1440361",
+    "name": "Suhayl ibn Amr",
+    "description": "Meccan Quraysh leader (c. 556 – 639)",
+    "dob": "0556-01-01T00:00:00Z",
+    "dod": "0639-01-01T00:00:00Z",
+    "image": null,
+    "occupations": "",
+    "struktur": {
+      "rollen": [
+        "Kafir",
+        "Sahabi"
+      ],
+      "geboren_jahr": 556,
+      "geboren_ungefaehr": true,
+      "geboren_ort": "Mekka",
+      "gestorben_jahr": 639,
+      "gestorben_ungefaehr": false,
+      "gestorben_ort": null,
+      "todesumstand": null,
+      "abstammung": "Sohn des Amr ibn Abd Shams aus dem Clan der Amir ibn Luayy und der Uzza bint Sufyan aus dem Umayya-Clan, beide Angehörige des Quraysh-Stammes.",
+      "herkunft": "Suhayl ibn Amr gehörte zu den Ältesten Mekkas in der frühen Zeit des Islam und war als geschickter und wortgewandter Redner (Khatib) seines Stammes bekannt, dessen Meinung bei den Quraysh großes Gewicht hatte. Er war zudem an der Versorgung der Pilger mit Nahrung beteiligt.",
+      "wirken": "Als einer der Anführer der Quraysh verweigerte Suhayl 620 Muhammad nach dessen Rückkehr aus Ta'if Schutz. 622 verfolgte er zusammen mit anderen Quraysh medinensische Pilger, die Muhammad in Aqaba getroffen hatten, und ließ deren Anführer Sa'd ibn Ubadah gewaltsam nach Mekka zurückbringen. 624 nahm er an der Schlacht von Badr teil, wurde dort gefangen genommen und nach Medina gebracht, wo Muhammad sich gegen eine von Umar vorgeschlagene Verstümmelung aussprach; später wurde er gegen ein Lösegeld in Kamelen freigelassen. 628 spielte er eine entscheidende Rolle bei den Verhandlungen zum Vertrag von al-Hudaybiya zwischen den Quraysh und Muhammad.",
+      "bedeutung": "Suhayl ibn Amr war einer der einflussreichsten Führer und Redner der Quraysh in der Frühzeit des Islam und maßgeblich an der Aushandlung des Vertrags von al-Hudaybiya beteiligt, einem der wichtigsten diplomatischen Ereignisse der frühislamischen Geschichte. Seine Familie stand später in enger Verbindung zu prominenten frühislamischen Persönlichkeiten, etwa durch die Heirat seiner Tochter mit Hasan ibn Ali.",
+      "ereignisse": [
+        "Verweigerung des Schutzes für Muhammad nach dessen Rückkehr aus Ta'if (620)",
+        "Gefangennahme und gewaltsame Rückführung Sa'd ibn Ubadahs nach Mekka (622)",
+        "Teilnahme an der Schlacht von Badr und Gefangennahme (624)",
+        "Verhandlungsführer beim Vertrag von al-Hudaybiya (628)"
+      ],
+      "unsicherheit_hinweis": "Der vorliegende Textauszug endet abrupt bei den Verhandlungen zum Vertrag von al-Hudaybiya und enthält keine expliziten Angaben zu einer späteren Konversion Suhayls zum Islam, die ihm historisch nach der Eroberung Mekkas (630) zugeschrieben wird; sein Status als Sahabi stützt sich daher auf allgemein bekannte, in diesem Auszug nicht belegte Überlieferungen."
+    },
+    "wiki_sprache": "en"
+  },
+  {
+    "id": "Q1146625",
+    "name": "Abu Sufyan ibn al-Harith",
+    "description": "companion and first cousin of Prophet Mohammad and father of hazrat ameer muaviya",
+    "dob": "0565-01-01T00:00:00Z",
+    "dod": "0652-01-01T00:00:00Z",
+    "image": null,
+    "occupations": "",
+    "struktur": {
+      "rollen": [
+        "Sahabi",
+        "Kafir",
+        "Dichter"
+      ],
+      "geboren_jahr": 565,
+      "geboren_ungefaehr": true,
+      "geboren_ort": null,
+      "gestorben_jahr": 652,
+      "gestorben_ungefaehr": true,
+      "gestorben_ort": null,
+      "todesumstand": null,
+      "abstammung": "Sohn von al-Harith ibn Abd al-Muttalib und somit Cousin väterlicherseits des Propheten Muhammad; ursprünglich hieß er al-Mughira.",
+      "herkunft": "Er wurde in Mekka in den Stamm der Quraisch geboren und war durch dieselbe Amme, Halima bint Abi Dhuayb, ein Milchbruder Muhammads. In seiner Jugend war er mit Muhammad eng befreundet.",
+      "wirken": "Nach Muhammads Verkündigung seiner Prophetenschaft im Jahr 610 wandte sich Abu Sufyan von ihm ab und bekämpfte ihn rund zwanzig Jahre lang, unter anderem als Kämpfer auf Seiten der Polytheisten in der Schlacht von Badr. Er verfasste zudem satirische Spottgedichte gegen Muhammad und die Muslime, die von Hassan ibn Thabit erwidert wurden. Kurz vor der Eroberung Mekkas im Jahr 630 entschloss er sich zum Übertritt zum Islam und reiste, in Furcht um sein Leben, verkleidet zu Muhammads Heer nach al-Abwa, wo er sich dem Propheten anschloss.",
+      "bedeutung": "Als Cousin und späterer Gefolgsmann Muhammads verkörpert seine Biografie den Wandel vom entschiedenen Gegner zum Anhänger des Islam kurz vor dem endgültigen Sieg der muslimischen Gemeinschaft über Mekka.",
+      "ereignisse": [
+        "Teilnahme an der Schlacht von Badr auf Seiten der mekkanischen Polytheisten",
+        "Verfassung satirischer Gedichte gegen Muhammad und die Muslime",
+        "Übertritt zum Islam am Vorabend der Eroberung Mekkas 630",
+        "Reise nach al-Abwa, um sich Muhammads Heer anzuschließen"
+      ],
+      "unsicherheit_hinweis": "Es ist nicht ganz sicher, ob Abu Sufyan ibn al-Harith oder Abu Sufyan ibn Harb der Gesandte war, der Kaiser Heraklius Bericht über Muhammad erstattete; beide werden in Quellen genannt."
+    },
+    "wiki_sprache": "en"
+  },
+  {
+    "id": "Q20391274",
+    "name": "Anas ibn Mudrik",
+    "description": "",
+    "dob": "0567-01-01T00:00:00Z",
+    "dod": "0657-01-01T00:00:00Z",
+    "image": null,
+    "occupations": "",
+    "struktur": {
+      "rollen": [
+        "Sahabi"
+      ],
+      "geboren_jahr": 567,
+      "geboren_ungefaehr": true,
+      "geboren_ort": null,
+      "gestorben_jahr": 657,
+      "gestorben_ungefaehr": true,
+      "gestorben_ort": null,
+      "todesumstand": null,
+      "abstammung": "",
+      "herkunft": "Zu Herkunft und frühem Lebensweg liegen aus den vorhandenen Quellen keine näheren Angaben vor.",
+      "wirken": "Über das konkrete Wirken dieser Person sind aus den vorliegenden Quellen keine Einzelheiten bekannt.",
+      "bedeutung": "Die Lebensdaten (ca. 567–657) legen nahe, dass die Person die Zeit des Propheten Muhammad und die frühe islamische Geschichte miterlebte, doch weitere Belege zur historischen Bedeutung fehlen in den vorhandenen Quellen.",
+      "ereignisse": [],
+      "unsicherheit_hinweis": "Zu dieser Person liegt kein Wikipedia-Artikel vor; die Einordnung als Sahabi stützt sich lediglich auf die zeitliche Überschneidung der Lebensdaten mit der Zeit des Propheten Muhammad und ist daher unsicher."
+    },
+    "wiki_sprache": null
+  },
+  {
+    "id": "Q293599",
+    "name": "Al-ʿAbbās ibn ʿAbd al-Muttalib",
+    "description": "Onkel des Propheten Muhammad",
+    "dob": "0568-01-01T00:00:00Z",
+    "dod": "0653-02-18T00:00:00Z",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Le%20Miracle%20des%20abeilles%20-%20Siyar-i-Nabi%20-%20Turkey%20-%201595%20ca%20-%20Louvre%20-%20MAO%20927.jpg",
+    "occupations": "",
+    "struktur": {
+      "rollen": [
+        "Sahabi",
+        "Kafir",
+        "Muhajir"
+      ],
+      "geboren_jahr": 568,
+      "geboren_ungefaehr": true,
+      "geboren_ort": "Mekka",
+      "gestorben_jahr": 653,
+      "gestorben_ungefaehr": true,
+      "gestorben_ort": "Medina",
+      "todesumstand": null,
+      "abstammung": "Sohn von Abd al-Muttalib, Halbbruder von Abu Talib ibn Abd al-Muttalib und Vater von Abdallah ibn Abbas.",
+      "herkunft": "Al-Abbas wurde um 565–568 in Mekka in die Familie der Banu Hashim geboren und bekleidete wie sein Vater erbliche Ehrenämter rund um das Heiligtum der Kaaba.",
+      "wirken": "Als Muhammad, sein Neffe, den Islam verkündete, wandte sich Al-Abbas der neuen Lehre zunächst nicht zu und blieb Kafir. Während der Schlacht von Badr geriet er in Gefangenschaft eines medinensischen Kämpfers; Muhammad deutete die Umstände seiner Gefangennahme als Zeichen göttlichen Eingreifens. Erst 630, kurz vor der Eroberung Mekkas, konvertierte Al-Abbas zum Islam, wofür ihn der Prophet als „letzten der Ausgewanderten“ (Muhadschirun) bezeichnete.",
+      "bedeutung": "Al-Abbas gilt als Ahnherr der Abbasiden-Dynastie und war der Vater von Abdallah ibn Abbas, einem der bedeutendsten frühen Koranexegeten.",
+      "ereignisse": [
+        "Gefangenschaft während der Schlacht von Badr",
+        "Konversion zum Islam im Jahr 630",
+        "Teilnahme an der Eroberung Mekkas"
+      ],
+      "unsicherheit_hinweis": "Das genaue Geburtsjahr schwankt zwischen den Quellen leicht (Wikidata: 568, Wikipedia-Text: um 565); beide Angaben sind als ungefähr zu verstehen."
+    },
+    "wiki_sprache": "de"
+  },
+  {
+    "id": "Q557378",
+    "name": "Salman der Perser",
+    "description": "Prophetengefährte Mohammeds",
+    "dob": "0568-01-01T00:00:00Z",
+    "dod": "0657-01-01T00:00:00Z",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Salman%20the%20Persian%20and%20his%20religious%20instructor.jpg",
+    "occupations": "",
+    "struktur": {
+      "rollen": [
+        "Sahabi",
+        "Muhaddith",
+        "Muslim",
+        "Kafir"
+      ],
+      "geboren_jahr": 568,
+      "geboren_ungefaehr": true,
+      "geboren_ort": "Dschayy, in der Nähe von Isfahan, Persien",
+      "gestorben_jahr": 657,
+      "gestorben_ungefaehr": true,
+      "gestorben_ort": "Irak (nach einer Überlieferung; nach anderer Überlieferung Umgebung von Isfahan)",
+      "todesumstand": null,
+      "abstammung": "Sohn eines ländlichen Notabeln (Dehqan) aus der Ortschaft Dschayy bei Isfahan.",
+      "herkunft": "Salman al-Farisi wurde in Persien geboren und zoroastrisch erzogen, wo er es bis zum Hüter des heiligen Feuers brachte. Nach Kontakten mit Christen verließ er, entgegen dem Willen seines Vaters, seine Heimat und begab sich auf eine lange religiöse Suche über Syrien, Mosul, Nusaybin und Amuriyya, bevor er als Sklave nach Yathrib (Medina) gelangte.",
+      "wirken": "In Medina traf Salman nach der Hidschra auf Mohammed und erkannte in ihm die ihm zuvor beschriebenen Zeichen des Prophetentums; mit Hilfe Mohammeds und der Muslime kaufte er sich aus der Sklaverei frei. Er nahm an der Grabenschlacht teil, der ihm in späteren Überlieferungen (Ibn Hischam) auch die Idee zum Ausheben des Schutzgrabens zugeschrieben wird, was in den frühesten Quellen (Ibn Ishaq) jedoch nicht bestätigt wird. Als Traditionarier gilt er als wichtige Gewährsperson für Berichte über die Zeit um den Tod Mohammeds, insbesondere im schiitischen Kitāb Sulaim ibn Qais.",
+      "bedeutung": "Salman al-Farisi gilt als der erste Perser, der zum Islam übertrat, und wird besonders von Schiiten stark verehrt. Er spielt zudem eine bedeutende Rolle in der islamischen Mystik als Teil der spirituellen Überlieferungsketten mehrerer Sufi-Orden.",
+      "ereignisse": [
+        "Freikauf aus der Sklaverei mit Unterstützung Mohammeds und der Muslime",
+        "Teilnahme an der Grabenschlacht",
+        "Ihm zugeschriebener (umstrittener) Vorschlag zum Ausheben eines Schutzgrabens",
+        "Überlieferter Ausspruch zur Nachfolge Abu Bakrs in schiitischer Tradition"
+      ],
+      "unsicherheit_hinweis": "Die Überlieferungen über Salmans Leben tragen zum Teil legendenhafte Züge; von manchen Historikern wird seine historische Existenz sogar grundsätzlich in Frage gestellt. Auch sein Beitrag zur Grabenschlacht sowie sein Grabort sind in den Quellen widersprüchlich überliefert."
+    },
+    "wiki_sprache": "de"
+  },
+  {
+    "id": "Q770033",
+    "name": "Hamza ibn Abdul-Muttalib",
+    "description": "Gefährte und Onkel väterlicherseits von Mohammed",
+    "dob": "0568-01-01T00:00:00Z",
+    "dod": "0625-03-22T00:00:00Z",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hamza%20Bin%20Abd%20Al-Mottalib%20Name.png",
+    "occupations": "",
+    "struktur": {
+      "rollen": [
+        "Sahabi",
+        "Mujahid",
+        "Shahid"
+      ],
+      "geboren_jahr": 567,
+      "geboren_ungefaehr": true,
+      "geboren_ort": null,
+      "gestorben_jahr": 625,
+      "gestorben_ungefaehr": false,
+      "gestorben_ort": "Uhud (bei Medina)",
+      "todesumstand": "Fiel am 22. März 625 in der Schlacht von Uhud, getötet durch einen Speerwurf des abessinischen Sklaven Wahschi.",
+      "abstammung": "Sohn von Abd al-Muttalib ibn Hashim und Hala bint Wuhaib; Onkel väterlicherseits des Propheten Mohammed.",
+      "herkunft": "Hamza entstammte der mekkanischen Familie der Banu Hashim und war ein Onkel Mohammeds. Er nahm früh den Islam an und unterstützte den Propheten fortan in dessen Auseinandersetzungen mit den Mekkanern.",
+      "wirken": "622 begleitete Hamza Mohammed bei der Hidschra nach Medina. Im Ramadan 623 wurde er von Mohammed mit 30 Reitern der Muhadschirun ausgesandt, um bei Sif al-Bahr eine Karawane der Quraisch abzufangen, wobei es durch Vermittlung eines Verbündeten beider Seiten nicht zum Kampf kam. Er fiel schließlich in der Schlacht von Uhud im Jahr 625.",
+      "bedeutung": "Hamza gilt in der islamischen Überlieferung seit langem als Märtyrer und wird von Mohammed als „Herr der Märtyrer“ bezeichnet. Seine Gestalt wurde später literarisch verarbeitet, unter anderem im persischen Epos Hamzanama, das auch in Südostasien Verbreitung fand.",
+      "ereignisse": [
+        "Frühe Annahme des Islam",
+        "Teilnahme an der Hidschra nach Medina 622",
+        "Führung einer Reitertruppe zur Abfangung einer Quraisch-Karawane bei Sif al-Bahr, Ramadan 623",
+        "Tod in der Schlacht von Uhud am 22. März 625"
+      ],
+      "unsicherheit_hinweis": null
+    },
+    "wiki_sprache": "de"
+  },
+  {
+    "id": "Q1110668",
+    "name": "Fatimah bint Asad",
+    "description": "Person um Mohammed",
+    "dob": "0568-01-01T00:00:00Z",
+    "dod": "0625-01-01T00:00:00Z",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bibi%20Fatimah%20bint%20Asad%20%28A.S.%29.png",
+    "occupations": "",
+    "struktur": {
+      "rollen": [
+        "Sahabi",
+        "Ahlul_Bayt"
+      ],
+      "geboren_jahr": 568,
+      "geboren_ungefaehr": true,
+      "geboren_ort": null,
+      "gestorben_jahr": 625,
+      "gestorben_ungefaehr": true,
+      "gestorben_ort": "Medina",
+      "todesumstand": "Sie starb in Medina; Muhammad betete an ihrem Leichnam das Totengebet, gab sein eigenes Hemd für ihr Leichentuch und half persönlich bei der Bestattung im Friedhof Jannat al-Baqi.",
+      "abstammung": "Tochter des Asad ibn Hashim und der Fatima bint Qays, damit Angehörige des Hashim-Clans der Quraisch; Ehefrau ihres Cousins Abu Talib ibn Abd al-Muttalib.",
+      "herkunft": "Fatima bint Asad entstammte dem Banu-Hashim-Clan der Quraisch in Mekka. Sie heiratete ihren Cousin Abu Talib, den Onkel Muhammads, in der ersten bekannten Ehe zwischen zwei Mitgliedern der Banu Hashim.",
+      "wirken": "Nachdem Muhammad im Alter von acht Jahren Vater, Mutter und Großvater verloren hatte, zogen Fatima bint Asad und ihr Mann Abu Talib ihn wie einen eigenen Sohn auf. Der Überlieferung nach gebar sie ihren jüngsten Sohn Ali im Inneren der Kaaba, nachdem sich deren Wand der Tradition zufolge wundersam geöffnet habe. Nach Khadija bint Khuwaylid war sie die zweite Frau, die den Islam annahm. Nach dem Tod Abu Talibs 620 wanderte sie 622 gemeinsam mit Ali und Fatima bint Muhammad nach Medina aus, wo Muhammad sie regelmäßig besuchte.",
+      "bedeutung": "Als Ziehmutter Muhammads und leibliche Mutter Alis nimmt sie in der islamischen Überlieferung, besonders in schiitischer Tradition, eine besondere Stellung ein; die Erzählung von Alis Geburt in der Kaaba wird sowohl von sunnitischen als auch schiitischen Quellen überliefert.",
+      "ereignisse": [
+        "Adoptivmutter Muhammads für etwa 15 Jahre nach dem Tod seiner Eltern und seines Großvaters",
+        "Geburt ihres Sohnes Ali der Überlieferung nach im Inneren der Kaaba",
+        "Zweite Frau nach Khadija, die den Islam annahm",
+        "Auswanderung (Hijra) nach Medina im Jahr 622 nach dem Tod Abu Talibs",
+        "Tod in Medina; Bestattung in Jannat al-Baqi mit Beteiligung Muhammads"
+      ],
+      "unsicherheit_hinweis": "Angaben zu Geburts- (c. 555 bzw. 568) und Sterbejahr (625/626) variieren je nach Quelle. Die Erzählung von Alis Geburt in der Kaaba ist eine überlieferte, aber traditionelle Erzählung ohne historische Verifizierbarkeit."
+    },
+    "wiki_sprache": "en"
+  },
+  {
+    "id": "Q1110653",
+    "name": "Ammar ibn Yasir",
+    "description": "Companion of the Islamic prophet Muhammad (died 657)",
+    "dob": "0570-01-01T00:00:00Z",
+    "dod": "0657-07-22T00:00:00Z",
+    "image": null,
+    "occupations": "",
+    "struktur": {
+      "rollen": [
+        "Sahabi",
+        "Muhajir",
+        "Emir",
+        "Feldherr",
+        "Mujahid",
+        "Shahid"
+      ],
+      "geboren_jahr": 570,
+      "geboren_ungefaehr": true,
+      "geboren_ort": "Mekka (Hedschas)",
+      "gestorben_jahr": 657,
+      "gestorben_ungefaehr": false,
+      "gestorben_ort": "Siffin (im heutigen Syrien)",
+      "todesumstand": "Gefallen in der Schlacht von Siffin auf der Seite Kalif Alis gegen die Truppen Mu'awiyas.",
+      "abstammung": "Sohn von Yasir ibn Amir, einem Zuwanderer aus dem Stamm Madhhij (Zweig Malik) aus dem Jemen, und der Sklavin Sumayya bint Khayyat; die Familie stand später als Klienten unter dem Schutz der Banu Makhzum in Mekka.",
+      "herkunft": "Ammar wuchs in Mekka auf, wo sein Vater sich nach der Einwanderung aus dem Jemen niedergelassen hatte. Er und seine Eltern waren zunächst Sklaven, zuerst von Abu Huzaifa, später standen sie unter der Kontrolle von Abu Jahl.",
+      "wirken": "Ammar gehörte zu den frühesten Konvertiten zum Islam, die Abu Bakr für den neuen Glauben gewann, und erlitt zusammen mit seinen Eltern schwere Folter durch die Quraisch, wobei seine Mutter Sumayya als erste Märtyrerin des Islam gilt. Nach der Auswanderung nach Medina beteiligte er sich am Bau der Prophetenmoschee und nahm an fast allen frühen militärischen Unternehmungen des Propheten teil. Unter den Kalifen Abu Bakr und Umar kämpfte er in den Apostasiekriegen (Ridda-Kriege) und bei der Eroberung Persiens und wurde von Umar zeitweise als Statthalter von Kufa eingesetzt. Nach der Ermordung Uthmans schloss er sich entschieden Kalif Ali an und fiel im Kampf für dessen Sache in der Schlacht von Siffin.",
+      "bedeutung": "Ammar ibn Yasir gilt als einer der bedeutendsten frühen Gefährten des Propheten Muhammad, dessen Familie als erste Märtyrer des Islam verehrt wird. Seine Rolle als Statthalter, Feldherr und treuer Anhänger Alis machte ihn zu einer zentralen Figur der frühislamischen Geschichte, besonders in der Erinnerung an die Wirren nach Uthmans Tod.",
+      "ereignisse": [
+        "Frühe Konversion zum Islam auf Einladung Abu Bakrs",
+        "Folter durch die Quraisch zusammen mit seinen Eltern in Mekka",
+        "Teilnahme am Bau der Prophetenmoschee in Medina",
+        "Teilnahme an den meisten Feldzügen Muhammads",
+        "Kampf in den Ridda-Kriegen unter Abu Bakr",
+        "Teilnahme an der Eroberung Persiens unter Umar",
+        "Statthalter (Emir) von Kufa unter Kalif Umar",
+        "Anhänger Kalif Alis nach der Ermordung Uthmans",
+        "Gefallen in der Schlacht von Siffin (657)"
+      ],
+      "unsicherheit_hinweis": null
+    },
+    "wiki_sprache": "en"
+  },
+  {
+    "id": "Q2740828",
+    "name": "Safiyyah bint ‘Abd al-Muttalib",
+    "description": "Sahaba",
+    "dob": "0570-01-01T00:00:00Z",
+    "dod": "0640-01-01T00:00:00Z",
+    "image": null,
+    "occupations": "",
+    "struktur": {
+      "rollen": [
+        "Sahabi",
+        "Muhajir",
+        "Ahlul_Bayt",
+        "Dichter"
+      ],
+      "geboren_jahr": 569,
+      "geboren_ungefaehr": true,
+      "geboren_ort": "Mekka",
+      "gestorben_jahr": 640,
+      "gestorben_ungefaehr": false,
+      "gestorben_ort": "Medina",
+      "todesumstand": null,
+      "abstammung": "Tochter von Abd al-Muttalib ibn Hashim und Halah bint Wuhayb ibn Abd Manaf ibn Zuhrah; leibliche Schwester von Hamza ibn Abd al-Muttalib und Tante des Propheten Muhammad sowie von Ali ibn Abi Talib.",
+      "herkunft": "Safiyya entstammte dem mekkanischen Stamm der Banu Hashim. Sie war etwa zehn Jahre alt, als ihr Vater Abd al-Muttalib starb, worauf ihr eine Elegie zugeschrieben wird.",
+      "wirken": "Sie war zunächst mit Harith ibn Harb, dann mit Awwam ibn Khuwaylid verheiratet, mit dem sie unter anderem den späteren Sahabi al-Zubayr ibn al-Awwam bekam. Nach der öffentlichen Predigt Muhammads nahm sie den Islam an und schwor ihm die Treue, bevor sie 622 nach Medina auswanderte. Sie nahm an mehreren zentralen Ereignissen der frühislamischen Geschichte teil: Nach der Schlacht von Uhud (625) konfrontierte sie die fliehenden Muslime und sah den entstellten Leichnam ihres Bruders Hamza; während der Grabenschlacht (627) tötete sie eigenhändig einen jüdischen Spion, der die Festung der Musliminnen ausgekundschaftet hatte; bei Khaybar (628) war sie als Hilfskraft anwesend und erlebte den Zweikampf ihres Sohnes al-Zubayr. Ihr werden mehrere Elegien zugeschrieben, unter anderem auf ihren Vater, ihren Bruder Hamza und den Propheten Muhammad.",
+      "bedeutung": "Als Tante des Propheten und Mutter des bedeutenden Sahabi al-Zubayr ibn al-Awwam gilt Safiyya als eine der wenigen Frauen, die aktiv in Kampfsituationen der frühislamischen Gemeinde eingriffen. Ihre überlieferten Klagelieder zählen zu den frühen Zeugnissen arabischer Dichtung im islamischen Kontext.",
+      "ereignisse": [
+        "Annahme des Islam und Treueschwur gegenüber Muhammad",
+        "Auswanderung (Hijra) nach Medina 622",
+        "Teilnahme an der Schlacht von Uhud 625",
+        "Tötung eines feindlichen Spions während der Grabenschlacht 627",
+        "Teilnahme als Hilfskraft an der Schlacht von Khaybar 628",
+        "Zuteilung von Einkünften aus Khaybar durch Muhammad"
+      ],
+      "unsicherheit_hinweis": "Das genaue Geburtsjahr wird in den Quellen unterschiedlich mit 567 oder 569 n. Chr. angegeben; zudem wird eine ähnliche Episode (Tötung eines Spions) in einer Quelle der Schlacht von Uhud statt der Grabenschlacht zugeordnet."
+    },
+    "wiki_sprache": "en"
+  },
+  {
+    "id": "Q9458",
+    "name": "Mohammed",
+    "description": "Gründer des Islam (ca. 570–632)",
+    "dob": "0571-04-22T00:00:00Z",
+    "dod": "0632-06-11T00:00:00Z",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mohammed.jpg",
+    "occupations": "",
+    "struktur": {
+      "rollen": [
+        "Muslim",
+        "Kaufmann"
+      ],
+      "geboren_jahr": 571,
+      "geboren_ungefaehr": true,
+      "geboren_ort": "Mekka",
+      "gestorben_jahr": 632,
+      "gestorben_ungefaehr": false,
+      "gestorben_ort": "Medina",
+      "todesumstand": null,
+      "abstammung": "Sohn von Abdallah b. Abd al-Muttalib b. Hashim b. Abd Manaf, Angehöriger der Banu Hashim aus dem Stamm der Quraisch in Mekka.",
+      "herkunft": "Mohammed wurde in Mekka als Mitglied der Banu Hashim, einem Zweig des Stammes der Quraisch, geboren. Sein Vater starb wahrscheinlich vor seiner Geburt, seine Mutter im Alter von sechs Jahren, sodass er zunächst bei seinem Großvater und später bei seinem Onkel Abu Talib aufwuchs.",
+      "wirken": "In jungen Jahren arbeitete Mohammed als Schafhirte und nahm an Handelskarawanenreisen nach Syrien teil. Um 595 heiratete er die wohlhabende Kaufmannswitwe Chadidscha bint Chuwailid, wodurch er finanzielle Unabhängigkeit erlangte. Später trat er als Religionsstifter des Islam auf, verkündete den Koran als Offenbarung Gottes und wurde zum Führer einer religiösen und politischen Gemeinschaft in Mekka und später Medina.",
+      "bedeutung": "Mohammed gilt im Islam als letzter Prophet und Gesandter Gottes; die von ihm begründete Religion und Gemeinschaft bildete die Grundlage für die spätere Ausbreitung der arabischen Herrschaft über weite Teile des Nahen Ostens und Nordafrikas.",
+      "ereignisse": [
+        "Geburt in Mekka als Sohn der Banu Hashim",
+        "Früher Verlust beider Eltern und Aufwachsen bei Großvater und Onkel Abu Talib",
+        "Teilnahme an den Fidschar-Kriegen zwischen Quraisch/Kinana und Qais Ailan",
+        "Heirat mit Chadidscha bint Chuwailid um 595",
+        "Beginn der Offenbarungen und Verkündigung des Islam in Mekka"
+      ],
+      "unsicherheit_hinweis": "Das genaue Geburtsjahr Mohammeds ist in den Quellen umstritten; verschiedene frühislamische Historiker datieren es zwischen 570 und 573, teils auch früher."
+    },
+    "wiki_sprache": "de"
+  },
+  {
+    "id": "Q12259906",
+    "name": "Talib ibn Abi Talib",
+    "description": "Gefährte und Cousin des islamischen Propheten Mohammed",
+    "dob": "0571-01-01T00:00:00Z",
+    "dod": "0624-01-01T00:00:00Z",
+    "image": null,
+    "occupations": "",
+    "struktur": {
+      "rollen": [
+        "Kafir"
+      ],
+      "geboren_jahr": 571,
+      "geboren_ungefaehr": false,
+      "geboren_ort": "Mekka",
+      "gestorben_jahr": 624,
+      "gestorben_ungefaehr": false,
+      "gestorben_ort": null,
+      "todesumstand": null,
+      "abstammung": "Ältester Sohn von Abu Talib ibn Abd al-Muttalib und Fatima bint Asad; Bruder von Ali ibn Abi Talib und Ja'far ibn Abi Talib, Cousin des Propheten Muhammad.",
+      "herkunft": "Talib wurde in Mekka als ältester Sohn Abu Talibs geboren. Muhammad lebte ab dem Alter von acht Jahren im Haus der Familie, sodass Talib und der Prophet gemeinsam aufwuchsen.",
+      "wirken": "Nach dem Tod seines Vaters Abu Talib im Jahr 620 wurde dessen Erbe zwischen Talib und seinem Bruder Aqil aufgeteilt, während die jüngeren, zum Islam übergetretenen Brüder Ja'far und Ali nichts erhielten – ein Fall, der als Grundlage für den islamrechtlichen Grundsatz diente, dass Gläubige und Nichtgläubige einander nicht beerben. Im Jahr 624 zog Talib mit dem mekkanischen Heer aus, um die von einem muslimischen Angriff bedrohte Handelskarawane zu schützen. Als bekannt wurde, dass die Karawane sicher zurückgekehrt war, wollten einige Quraisch trotzdem bis Badr weiterziehen; man unterstellte Talib jedoch, sein Herz sei bei Muhammad, worauf er sich entschloss, nach Mekka zurückzukehren. Ihm wird ein Gedicht über diese Entscheidung zugeschrieben.",
+      "bedeutung": "Talib ibn Abi Talib ist vor allem als Bruder Alis und als Beispiel für die im frühen Islam bedeutsame Frage der Erbfolge zwischen Muslimen und Nichtmuslimen bekannt; sein Fall trug zur Formulierung eines entsprechenden islamrechtlichen Grundsatzes bei.",
+      "ereignisse": [
+        "Erbteilung nach dem Tod Abu Talibs 620",
+        "Auszug mit dem mekkanischen Heer zur Schlacht von Badr 624",
+        "Rückkehr nach Mekka vor der eigentlichen Schlacht"
+      ],
+      "unsicherheit_hinweis": "Die Umstände und der genaue Zeitpunkt seines Todes 624 sind aus dem vorliegenden Material nicht ersichtlich; auch ist unklar, ob Talib zu einem späteren Zeitpunkt noch zum Islam übertrat, da die Quelle ihn zuletzt als mit den Quraisch ziehend, aber möglicherweise Muhammad zugeneigt beschreibt."
+    },
+    "wiki_sprache": "en"
+  },
+  {
+    "id": "Q1647771",
+    "name": "ʿAbd ar-Rahmān ibn ʿAuf",
+    "description": "Anhänger des Propheten Mohammed, Händler",
+    "dob": "0571-01-01T00:00:00Z",
+    "dod": "0652-01-01T00:00:00Z",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Abdurrahman%20ibn%20Awf%20Masjid%20an-Nabawi%20Calligraphy.svg",
+    "occupations": "",
+    "struktur": {
+      "rollen": [
+        "Muslim",
+        "Sahabi",
+        "Muhajir",
+        "Kaufmann",
+        "Mujahid"
+      ],
+      "geboren_jahr": 571,
+      "geboren_ungefaehr": true,
+      "geboren_ort": null,
+      "gestorben_jahr": 652,
+      "gestorben_ungefaehr": false,
+      "gestorben_ort": null,
+      "todesumstand": null,
+      "abstammung": "Er gehörte dem quraischitischen Clan der Banū Zuhra an; sein ursprünglicher Name war ʿAbd al-Kaʿba oder ʿAbd ʿAmr, bevor er bei seiner Konversion von Mohammed den Namen ʿAbd ar-Rahmān erhielt.",
+      "herkunft": "ʿAbd ar-Rahmān ibn ʿAuf war einer der frühesten Anhänger Mohammeds und schloss sich ihm der Überlieferung nach schon an, bevor dieser im Haus von al-Arqam ibn Abī l-Arqam mit der öffentlichen Predigt begann. Er nahm an der Auswanderung nach Abessinien teil.",
+      "wirken": "Nach der Hidschra nach Yathrib wurde er dem wohlhabenden Ansari Saʿd ibn ar-Rabīʿ als „Bruder“ zugeordnet, lehnte dessen Angebot einer Vermögens- und Ehefrauenteilung jedoch ab und erwarb stattdessen durch eigenen Handel auf dem Markt der Banu Qainuqa rasches Vermögen, mit dem er die muslimische Gemeinschaft durch Sadaqa-Zahlungen unterstützte. Er nahm an den meisten Schlachten der frühislamischen Zeit teil, darunter Badr und Uhud, und führte 627 einen Trupp von 700 Kämpfern zur Einnahme von Dūmat al-Dschandal. Unter Umar ibn al-Chattab leitete er regelmäßig die Wallfahrt nach Mekka und wurde nach dem Tod Abu Ubaidas dessen engster Vertrauter; nach Umars Tod gehörte er dem sechsköpfigen Konsultationsgremium zur Kalifenwahl an.",
+      "bedeutung": "Als Schiedsrichter im Wahlgremium nach Umars Tod entschied er sich für Uthman ibn Affan, der dadurch dritter Kalif wurde, und übte damit entscheidenden Einfluss auf die frühislamische Nachfolgeordnung aus. In der islamischen Überlieferung gilt er als Sinnbild des erfolgreichen muslimischen Kaufmanns und wird von manchen modernen Gelehrten als Beleg dafür angeführt, dass der Islam von Anfang an handelsfreundlich gewesen sei.",
+      "ereignisse": [
+        "Teilnahme an der Auswanderung nach Abessinien",
+        "Teilnahme an der Schlacht von Badr",
+        "Teilnahme an der Schlacht von Uhud",
+        "Führung eines Trupps zur Einnahme von Dūmat al-Dschandal (627)",
+        "Mitglied des Konsultationsgremiums zur Kalifenwahl nach Umars Tod",
+        "Schiedsrichterrolle bei der Wahl Uthmans zum Kalifen"
+      ],
+      "unsicherheit_hinweis": "Die genauen Geburts- und Sterbedaten sind widersprüchlich überliefert: Eine Angabe zur Geburt zehn Jahre nach dem Jahr des Elefanten passt nicht zur überlieferten Aussage, er sei mit 75 Jahren im Jahr 32 der Hidschra gestorben. Auch die Lage seines Grabes nordöstlich von Amman gilt als nicht gesichert."
+    },
+    "wiki_sprache": "de"
+  },
+  {
+    "id": "Q111313629",
+    "name": "Amr ibn al-Ahwas al-Bariqi",
+    "description": "",
+    "dob": "0573-01-01T00:00:00Z",
+    "dod": "0641-01-01T00:00:00Z",
+    "image": null,
+    "occupations": "",
+    "struktur": {
+      "rollen": [
+        "Sahabi"
+      ],
+      "geboren_jahr": 573,
+      "geboren_ungefaehr": true,
+      "geboren_ort": null,
+      "gestorben_jahr": 641,
+      "gestorben_ungefaehr": true,
+      "gestorben_ort": null,
+      "todesumstand": null,
+      "abstammung": "Die Nisba 'al-Bariqi' deutet auf eine Zugehörigkeit zum Stamm Bariq hin; weitere Angaben zur Abstammung liegen in den vorliegenden Quellen nicht vor.",
+      "herkunft": "Zur Herkunft und zum frühen Leben von Amr ibn al-Ahwas al-Bariqi sind in den vorliegenden Quellen keine näheren Angaben überliefert.",
+      "wirken": "Die vorliegenden Quellen enthalten keine detaillierten Angaben zu seinem Wirken. Die überlieferten Lebensdaten (um 573 bis um 641) legen nahe, dass er die Zeit des Propheten Muhammad erlebte.",
+      "bedeutung": "Aufgrund der spärlichen Quellenlage lässt sich seine historische Bedeutung anhand der vorliegenden Angaben nicht näher bestimmen.",
+      "ereignisse": [],
+      "unsicherheit_hinweis": "Die Einordnung als Sahabi beruht ausschließlich auf den überlieferten Lebensdaten, die ein Zusammentreffen mit dem Propheten Muhammad möglich erscheinen lassen; eine explizite Bestätigung des Sahaba-Status oder weitere biografische Details liegen in den vorliegenden Quellen nicht vor."
+    },
+    "wiki_sprache": null
+  },
+  {
+    "id": "Q334923",
+    "name": "Abū Bakr",
+    "description": "erster der vier rechtgeleiteten Kalifen, der Nachfolger Mohammeds nach Auffassung der Sunniten",
+    "dob": "0573-10-29T00:00:00Z",
+    "dod": "0634-08-23T00:00:00Z",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Rashidun%20Caliph%20Abu%20Bakr%20as-%C8%98idd%C4%ABq%20%28Abdullah%20ibn%20Abi%20Quhafa%29%20-%20%D8%A3%D8%A8%D9%88%20%D8%A8%D9%83%D8%B1%20%D8%A7%D9%84%D8%B5%D8%AF%D9%8A%D9%82%20%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D9%84%D9%87%20%D8%A8%D9%86%20%D8%B9%D8%AB%D9%85%D8%A7%D9%86%20%D8%A7%D9%84%D8%AA%D9%8A%D9%85%D9%8A%20%D8%A7%D9%84%D9%82%D8%B1%D8%B4%D9%8A%20%D8%A3%D9%88%D9%84%20%D8%A7%D9%84%D8%AE%D9%84%D9%81%D8%A7%D8%A1%20%D8%A7%D9%84%D8%B1%D8%A7%D8%B4%D8%AF%D9%8A%D9%86.svg",
+    "occupations": "",
+    "struktur": {
+      "rollen": [
+        "Sahabi",
+        "Kalif",
+        "Kaufmann",
+        "Muhajir"
+      ],
+      "geboren_jahr": 571,
+      "geboren_ungefaehr": true,
+      "geboren_ort": "Mekka",
+      "gestorben_jahr": 634,
+      "gestorben_ungefaehr": false,
+      "gestorben_ort": "Medina",
+      "todesumstand": null,
+      "abstammung": "Abū Bakr entstammte dem Clan der Taim vom Stamm der Quraisch; sein Vater war Abū Quhāfa ʿUthmān ibn ʿĀmir, seine Mutter Umm al-Chair Salmā bint Sachr aus demselben Clan.",
+      "herkunft": "Er wurde um 571 in Mekka geboren und kam dort als Stoffhändler zu beträchtlichem Reichtum, wodurch er in seinem Clan einigen Einfluss besaß.",
+      "wirken": "Abū Bakr gehörte zu den ersten Anhängern Mohammeds und warb erfolgreich weitere bedeutende Gefährten für den Islam, darunter ʿUthmān ibn ʿAffān und az-Zubair ibn al-ʿAuwām. Als einziger Begleiter Mohammeds bei der Hidschra nach Yathrib verbarg er sich mit ihm drei Tage in einer Höhle am Berg Thaur. In Medina unterstützte er den Propheten finanziell beim Erwerb des Moscheegrundstücks und fiel während der Kämpfe gegen die mekkanischen Quraisch durch seine Milde gegenüber Gefangenen auf. 631 führte er einen Pilgerzug nach Mekka an, und nach Mohammeds Tod 632 wurde er zum ersten Kalifen der muslimischen Gemeinschaft erhoben.",
+      "bedeutung": "Nach sunnitischer Auffassung gilt Abū Bakr als erster der vier rechtgeleiteten Kalifen und rechtmäßiger Nachfolger Mohammeds, während Schiiten diese Rolle ʿAlī ibn Abī Tālib zuschreiben. Als Vater von ʿĀ'ischa und enger Vertrauter des Propheten zählt er zu den zentralen Gestalten der frühislamischen Geschichte.",
+      "ereignisse": [
+        "Begleitung Mohammeds bei der Hidschra und Verbergung in der Höhle am Berg Thaur",
+        "Teilnahme an der Schlacht von Badr, Fürsprache für die Freilassung von Gefangenen",
+        "Anführer eines Pilgerzuges von 300 Muslimen nach Mekka im Jahr 631",
+        "Leitung des Gebets während Mohammeds letzter Krankheit",
+        "Erhebung zum ersten Kalifen nach Mohammeds Tod 632"
+      ],
+      "unsicherheit_hinweis": "Die Nachfolge Mohammeds ist zwischen Sunniten und Schiiten umstritten: Sunniten sehen in Abū Bakr den rechtmäßigen ersten Kalifen, Schiiten hingegen betrachten ʿAlī ibn Abī Tālib als eigentlichen Nachfolger."
+    },
+    "wiki_sprache": "de"
+  },
+  {
+    "id": "Q37731",
+    "name": "Uthman ibn Affan",
+    "description": "dritter Kalif",
+    "dob": "0574-01-01T00:00:00Z",
+    "dod": "0656-06-17T00:00:00Z",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20third%20caliph%20Uthman.png",
+    "occupations": "",
+    "struktur": {
+      "rollen": [
+        "Kalif",
+        "Sahabi",
+        "Muhajir",
+        "Kaufmann",
+        "Kafir",
+        "Muslim"
+      ],
+      "geboren_jahr": 574,
+      "geboren_ungefaehr": false,
+      "geboren_ort": "Mekka",
+      "gestorben_jahr": 656,
+      "gestorben_ungefaehr": false,
+      "gestorben_ort": "Medina",
+      "todesumstand": "Wurde 656 in Medina während eines Aufstands unzufriedener Muslime getötet.",
+      "abstammung": "Sein Vater war Affan ibn Abi al-As aus der Familie der Umayyaden, seine Mutter Arwa bint Kurayz aus dem Clan Abd Schams ibn Abd Manaf des Stammes Quraisch; er war damit mit Abu Sufyan verwandt.",
+      "herkunft": "Uthman entstammte einer wohlhabenden Kaufmannsfamilie der Quraisch in Mekka und wurde wie sein Vater Kaufmann, wodurch er zu einem der reichsten Männer seines Stammes wurde. In der Frühzeit des Islam gehörte er zunächst mit seinen Verwandten zu den Gegnern Mohammeds.",
+      "wirken": "611 trat er auf Einladung Abu Bakrs zum Islam über, was seinen Clan verärgerte; er nahm an der Auswanderung (Hidschra) teil, nicht jedoch an der Schlacht von Badr. Nach dem Tod Umars wurde er 644 durch ein von diesem eingesetztes Wahlgremium (Schura) zum dritten Kalifen gewählt. Während seiner Herrschaft (644–656) besetzte er zentrale Statthalterposten überwiegend mit Familienangehörigen und Umayyaden, was zu einer Entfremdung zwischen ihm und den ihn wählenden Prophetengefährten führte; gleichzeitig wurden die islamischen Eroberungszüge, etwa im Kaukasus, erfolgreich fortgesetzt.",
+      "bedeutung": "Uthman gilt bei den Sunniten als dritter der vier rechtgeleiteten Kalifen, während seine Herrschaft von Schiiten als unrechtmäßig angesehen wird. Seine nepotistische Politik und die daraus entstandenen Spannungen trugen wesentlich zu den innerislamischen Konflikten bei, die schließlich in seiner Tötung und der ersten großen Fitna mündeten.",
+      "ereignisse": [
+        "Konversion zum Islam im Jahr 611",
+        "Teilnahme an der Auswanderung (Hidschra)",
+        "Wahl zum dritten Kalifen durch die Schura im Jahr 644",
+        "Einsetzung zahlreicher Umayyaden-Verwandter in Statthalterposten",
+        "Fortsetzung der militärischen Expansion, u. a. Einnahme Tiflis' 645 durch seinen Heerführer Habib ibn Maslama",
+        "Getötet 656 während eines Aufstands in Medina"
+      ],
+      "unsicherheit_hinweis": "Die Ehen Uthmans mit Umm Kulthum und Ruqaya, den angeblichen Töchtern Mohammeds, sowie deren Abstammung von Mohammed werden von schiitischer Seite bestritten, während sunnitische Überlieferung sie als gesichert ansieht."
+    },
+    "wiki_sprache": "de"
+  },
+  {
+    "id": "Q3738508",
+    "name": "Fakhitah bint Abi Talib",
+    "description": "Female sahaba",
+    "dob": "0576-01-01T00:00:00Z",
+    "dod": "0661-01-01T00:00:00Z",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%D8%A3%D9%85%20%D9%87%D8%A7%D9%86%D8%A6%20%D8%A8%D9%86%D8%AA%20%D8%A3%D8%A8%D9%8A%20%D8%B7%D8%A7%D9%84%D8%A8.jpg",
+    "occupations": "",
+    "struktur": {
+      "rollen": [
+        "Sahabi",
+        "Ahlul_Bayt"
+      ],
+      "geboren_jahr": 576,
+      "geboren_ungefaehr": true,
+      "geboren_ort": null,
+      "gestorben_jahr": null,
+      "gestorben_ungefaehr": false,
+      "gestorben_ort": null,
+      "todesumstand": null,
+      "abstammung": "Tochter von Abu Talib ibn Abd al-Muttalib und Fatima bint Asad, somit Schwester von Ali ibn Abi Talib und Cousine des Propheten Muhammad.",
+      "herkunft": "Fakhitah bint Abi Talib, besser bekannt unter ihrer Kunya Umm Hani, stammte aus dem mekkanischen Klan der Banu Hashim und war die älteste Tochter Abu Talibs.",
+      "wirken": "Vor 595 wurde sie mit Hubayra ibn Abi Wahb aus dem einflussreichen Klan der Banu Makhzum verheiratet, nachdem ihr Vater einen früheren Heiratsantrag Muhammads zugunsten dieser Verbindung abgelehnt hatte; aus der Ehe gingen mindestens sieben Kinder hervor. Im Jahr 621 war Muhammad Gast in ihrem Haus, als er ihr von seiner nächtlichen Reise nach Jerusalem und in den Himmel (Isra und Mi'raj) berichtete; sie riet ihm, dies nicht öffentlich zu machen, da die Quraisch ihn verspotten würden. Bei der Eroberung Mekkas im Jahr 630 nahm sie den Islam an, während ihr Ehemann Hubayra dies verweigerte und nach Najran floh, was automatisch zur Scheidung führte. Muhammad erneuerte daraufhin seinen früheren Heiratsantrag, den sie jedoch ablehnte, da sie sich nicht in der Lage sah, sowohl ihren Kindern als auch einem neuen Ehemann gerecht zu werden; als sie später doch heiraten wollte, war dies wegen einer neuen Offenbarung, die ihm die Heirat mit nicht nach Medina emigrierten Cousinen untersagte, nicht mehr möglich.",
+      "bedeutung": "Umm Hani gilt als Überlieferin und Zeugin früher Ereignisse im Leben Muhammads, insbesondere im Zusammenhang mit der Nachterreise Isra und Mi'raj, und wird in der islamischen Überlieferungsliteratur als Gefährtin des Propheten genannt.",
+      "ereignisse": [
+        "Heirat mit Hubayra ibn Abi Wahb aus dem Klan der Banu Makhzum (vor 595)",
+        "Muhammad als Gast in ihrem Haus während der Nacht der Isra und Mi'raj (um 621)",
+        "Übertritt zum Islam bei der Eroberung Mekkas (630)",
+        "Automatische Scheidung von Hubayra, da dieser den Islam nicht annehmen wollte",
+        "Ablehnung eines erneuten Heiratsantrags Muhammads"
+      ],
+      "unsicherheit_hinweis": "Ihr Todesjahr ist nicht sicher belegt; laut Wikipedia-Quelle ist nur bekannt, dass sie ihren Bruder Ali (gestorben 661) überlebte, während Wikidata das Jahr 661 als Sterbedatum angibt, was mit dieser Angabe im Widerspruch steht."
+    },
+    "wiki_sprache": "en"
+  },
+  {
+    "id": "Q19800747",
+    "name": "'Abdullah bin Zaid Al-Ansari",
+    "description": "muezzin (580–644)",
+    "dob": "0580-01-01T00:00:00Z",
+    "dod": "0644-01-01T00:00:00Z",
+    "image": null,
+    "occupations": "",
+    "struktur": {
+      "rollen": [
+        "Muslim",
+        "Sahabi",
+        "Ansari"
+      ],
+      "geboren_jahr": 580,
+      "geboren_ungefaehr": true,
+      "geboren_ort": null,
+      "gestorben_jahr": 644,
+      "gestorben_ungefaehr": true,
+      "gestorben_ort": null,
+      "todesumstand": null,
+      "abstammung": "Der Beiname 'al-Ansari' weist auf seine Zugehörigkeit zu den Ansar, den medinensischen Helfern des Propheten Muhammad, hin; weitere Angaben zur Abstammung liegen nicht vor.",
+      "herkunft": "Abdullah bin Zaid gehörte zu den Ansar von Medina. Über seine frühen Lebensjahre und seine Familie sind aus den vorliegenden Quellen keine weiteren Details bekannt.",
+      "wirken": "Er wird in den überlieferten Angaben als Muezzin bezeichnet, also als Person, die zum Gebet rief. Über konkrete Ereignisse, Feldzüge oder weitere Tätigkeiten geben die vorliegenden Quellen keine Auskunft.",
+      "bedeutung": "Als Ansari und Zeitgenosse des Propheten Muhammad zählt er zu den frühen Muslimen Medinas; seine Rolle als Muezzin verweist auf seine Beteiligung am religiösen Leben der frühislamischen Gemeinde.",
+      "ereignisse": [],
+      "unsicherheit_hinweis": "Zu dieser Person liegt kein Wikipedia-Artikel vor; die Angaben beschränken sich auf spärliche Wikidata-Fakten (Lebensdaten, Rolle als Muezzin). Details zu Herkunft, Wirken und Sahaba-Status lassen sich daraus nicht sicher belegen, sind aber aufgrund der Lebensdaten und des Beinamens 'al-Ansari' plausibel."
+    },
+    "wiki_sprache": null
+  }
+]
