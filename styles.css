@@ -171,7 +171,7 @@ a { color: var(--green-ink); }
 /* ---------- Hero ---------- */
 .hero {
   background:
-    radial-gradient(700px circle at 15% 0%, var(--akzent2-soft), transparent 60%),
+    radial-gradient(700px circle at 15% 0%, rgba(31, 111, 92, 0.10), transparent 60%),
     var(--bg-deep);
   border-bottom: 1px solid var(--line);
   padding: clamp(40px, 7vh, 68px) 0 30px;
@@ -316,8 +316,8 @@ a { color: var(--green-ink); }
   font-size: 11px;
   font-weight: 700;
   letter-spacing: 0.06em;
-  color: var(--akzent2);
-  background: var(--akzent2-soft);
+  color: #fff;
+  background: var(--akzent2);
   border-radius: 999px;
   padding: 4px 12px;
   white-space: nowrap;
@@ -359,7 +359,7 @@ a { color: var(--green-ink); }
   width: 52px;
   height: 52px;
   border-radius: 50%;
-  border: 2px solid var(--akzent2-soft);
+  border: 2px solid var(--line);
   background: var(--bg-deep);
   background-size: cover;
   background-position: center top;
@@ -505,9 +505,10 @@ a { color: var(--green-ink); }
 
 .detail-unsicherheit {
   margin-top: 18px;
-  background: var(--akzent2-soft);
-  border: 1px solid var(--akzent2);
-  border-radius: 10px;
+  background: var(--bg-deep);
+  border: 1px solid var(--line);
+  border-left: 3px solid var(--akzent2);
+  border-radius: 4px 10px 10px 4px;
   padding: 12px 14px;
 }
 .detail-unsicherheit p {
