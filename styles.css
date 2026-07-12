@@ -1,7 +1,8 @@
 /* ==========================================================
    Islam-Epochen — Band I: gelehrt-archivarischer Stil.
-   Pergament + Manuskript-Grün + Burgunderrot (bewusst KEIN
-   Gelb/Gold mehr). Amiri (Überschriften) + Lora (Lesetext).
+   Neutrales Stein-Grau/Off-White + Manuskript-Grün als
+   einziger Akzent (bewusst KEIN Gelb/Beige, KEIN Rot/Rosa).
+   Amiri (Überschriften) + Lora (Lesetext).
    ========================================================== */
 
 @font-face {
@@ -83,17 +84,15 @@
 
 /* ---------- Design-Tokens ---------- */
 :root {
-  --bg: #ede1c4;
-  --bg-deep: #e1d0a9;
-  --paper: #f6edd6;
-  --ink: #2a2113;
-  --muted: #57503c;
-  --soft: #8a8168;
-  --line: rgba(42, 33, 19, 0.16);
+  --bg: #f1efe9;
+  --bg-deep: #e6e3da;
+  --paper: #f9f8f4;
+  --ink: #1e1e1b;
+  --muted: #55534a;
+  --soft: #8b8879;
+  --line: rgba(30, 30, 27, 0.13);
   --green: #1f6f5c;
   --green-ink: #0f3a30;
-  --akzent2: #7a2432;
-  --akzent2-soft: rgba(122, 36, 50, 0.12);
   --serif-display: "Amiri", Georgia, "Times New Roman", serif;
   --serif-body: "Lora", Georgia, serif;
   --sans: -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif;
@@ -101,44 +100,38 @@
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --bg: #171310;
-    --bg-deep: #100d0a;
-    --paper: #221a14;
-    --ink: #ecdfba;
-    --muted: #b8a883;
-    --soft: #7d715a;
-    --line: rgba(236, 223, 186, 0.14);
+    --bg: #17181a;
+    --bg-deep: #101112;
+    --paper: #202224;
+    --ink: #e8e6e0;
+    --muted: #b3b0a4;
+    --soft: #726f63;
+    --line: rgba(232, 230, 224, 0.13);
     --green: #4fae94;
     --green-ink: #bfe9db;
-    --akzent2: #a8384a;
-    --akzent2-soft: rgba(168, 56, 74, 0.18);
   }
 }
 :root[data-theme="dark"] {
-  --bg: #171310;
-  --bg-deep: #100d0a;
-  --paper: #221a14;
-  --ink: #ecdfba;
-  --muted: #b8a883;
-  --soft: #7d715a;
-  --line: rgba(236, 223, 186, 0.14);
+  --bg: #17181a;
+  --bg-deep: #101112;
+  --paper: #202224;
+  --ink: #e8e6e0;
+  --muted: #b3b0a4;
+  --soft: #726f63;
+  --line: rgba(232, 230, 224, 0.13);
   --green: #4fae94;
   --green-ink: #bfe9db;
-  --akzent2: #a8384a;
-  --akzent2-soft: rgba(168, 56, 74, 0.18);
 }
 :root[data-theme="light"] {
-  --bg: #ede1c4;
-  --bg-deep: #e1d0a9;
-  --paper: #f6edd6;
-  --ink: #2a2113;
-  --muted: #57503c;
-  --soft: #8a8168;
-  --line: rgba(42, 33, 19, 0.16);
+  --bg: #f1efe9;
+  --bg-deep: #e6e3da;
+  --paper: #f9f8f4;
+  --ink: #1e1e1b;
+  --muted: #55534a;
+  --soft: #8b8879;
+  --line: rgba(30, 30, 27, 0.13);
   --green: #1f6f5c;
   --green-ink: #0f3a30;
-  --akzent2: #7a2432;
-  --akzent2-soft: rgba(122, 36, 50, 0.12);
 }
 
 * { box-sizing: border-box; }
@@ -182,7 +175,7 @@ a { color: var(--green-ink); }
   font-weight: 600;
   letter-spacing: 0.22em;
   text-transform: uppercase;
-  color: var(--akzent2);
+  color: var(--green);
   margin: 0 0 14px;
 }
 .hero h1 {
@@ -262,7 +255,7 @@ a { color: var(--green-ink); }
   text-decoration: underline;
   padding: 0;
 }
-.filter-reset:hover { color: var(--akzent2); }
+.filter-reset:hover { color: var(--green); }
 
 .filter-gruppe { margin-bottom: 16px; }
 .filter-gruppe:last-child { margin-bottom: 0; }
@@ -286,7 +279,7 @@ a { color: var(--green-ink); }
   padding: 5px 11px;
   cursor: pointer;
 }
-.filter-chip:hover { border-color: var(--akzent2); }
+.filter-chip:hover { border-color: var(--green); }
 .filter-chip.aktiv {
   background: var(--green);
   border-color: var(--green);
@@ -309,7 +302,7 @@ a { color: var(--green-ink); }
   gap: 14px;
   margin-bottom: 16px;
   padding-bottom: 10px;
-  border-bottom: 2px solid var(--akzent2);
+  border-bottom: 2px solid var(--green);
 }
 .epoche-jahre {
   font-family: var(--sans);
@@ -317,7 +310,7 @@ a { color: var(--green-ink); }
   font-weight: 700;
   letter-spacing: 0.06em;
   color: #fff;
-  background: var(--akzent2);
+  background: var(--green);
   border-radius: 999px;
   padding: 4px 12px;
   white-space: nowrap;
@@ -352,7 +345,7 @@ a { color: var(--green-ink); }
   font-family: inherit;
   color: inherit;
 }
-.card:hover { border-color: var(--akzent2); }
+.card:hover { border-color: var(--green); }
 
 .card-portrait {
   flex: 0 0 auto;
@@ -367,7 +360,7 @@ a { color: var(--green-ink); }
   place-content: center;
   font-family: var(--serif-display);
   font-size: 18px;
-  color: var(--akzent2);
+  color: var(--green);
 }
 
 .card-body { min-width: 0; }
@@ -411,7 +404,7 @@ a { color: var(--green-ink); }
   padding: 11px 24px;
   cursor: pointer;
 }
-.btn-more:hover { border-color: var(--akzent2); }
+.btn-more:hover { border-color: var(--green); }
 
 .empty-state {
   text-align: center;
@@ -425,7 +418,7 @@ a { color: var(--green-ink); }
 .detail-overlay {
   position: fixed;
   inset: 0;
-  background: rgba(20, 15, 8, 0.55);
+  background: rgba(12, 12, 12, 0.55);
   display: grid;
   place-items: center;
   padding: 24px;
@@ -468,7 +461,7 @@ a { color: var(--green-ink); }
   width: 84px;
   height: 84px;
   border-radius: 50%;
-  border: 2px solid var(--akzent2);
+  border: 2px solid var(--green);
   background: var(--bg-deep) center top / cover no-repeat;
 }
 .detail-rollen { display: flex; flex-wrap: wrap; gap: 5px; margin-bottom: 8px; }
@@ -507,7 +500,7 @@ a { color: var(--green-ink); }
   margin-top: 18px;
   background: var(--bg-deep);
   border: 1px solid var(--line);
-  border-left: 3px solid var(--akzent2);
+  border-left: 3px solid var(--green);
   border-radius: 4px 10px 10px 4px;
   padding: 12px 14px;
 }
@@ -524,7 +517,7 @@ a { color: var(--green-ink); }
   letter-spacing: 0.04em;
   text-transform: uppercase;
   font-size: 10.5px;
-  color: var(--akzent2);
+  color: var(--green);
   margin-bottom: 4px;
 }
 
